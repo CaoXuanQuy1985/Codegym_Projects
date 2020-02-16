@@ -1,0 +1,15 @@
+body {
+    font-family: "Times New Roman", sans-serif;
+    background-color: red;
+}
+
+#container ul li {
+    font-size: 40px;
+    font-weight: bold;
+}
+
+#container ul li ol li {
+    font-size: 20px;
+    font-weight: 800;
+    margin-left: 30px;
+}
