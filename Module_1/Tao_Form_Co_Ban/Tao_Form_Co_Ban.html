@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Tao Form Co Ban</title>
+    <link type="text/css" href="css/style.css" rel="stylesheet"/>
+</head>
+<body>
+    <div id="page">
+        <form action="https://www.google.com.vn/" method="get">
+            <h2>ORDER FORM</h2>
+            <P>What would you like to buy ?</P><br/>
+            <select name="Letters">
+                <option value="A">A</option>
+                <option value="B">B</option>
+                <option value="C">C</option>
+                <option value="D">D</option>
+                <option value="X">Package to buy</option>
+            </select>
+            <p>How many would you like to order</p>
+            <input type="radio" name="quantity" value="10"/>1 - $10<br/>
+            <input type="radio" name="quantity" value="20"/>2 - $20<br/>
+            <input type="radio" name="quantity" value="30"/>3 - $25<br/>
+            <p id="name">Name <span>*</span></p>
+            <input type="text" name="first" placeholder="firstName"/>
+            <input id="input_name" type="text" name="last" placeholder="lastName"/><br/>
+            Email:<br/>
+            <input type="text" name="email" value="email" width="20px"/><br/>
+            Phone Number:
+            <div id="phone">
+                <input type="text" name="one"/> -
+                <input type="text" name="two"/> -
+                <input type="text" name="three"/>
+            </div>
+            <input type="submit" value="submit"/>
+        </form>
+    </div>
+</body>
+</html>

@@ -1,0 +1,38 @@
+body {
+    font-family: "Times New Roman", "Lucida Grande", "Lucida Sans Unicode", Tahoma, sans-serif;
+}
+#page {
+    width: 1000px;
+    height: 1000px;
+}
+form {
+    width: 200px;
+    display: inline;
+}
+/*input[type=text] {
+    display: block;
+    float: left;
+    width: 200px;
+    margin-right: 20px;
+}*/
+#email {
+    float: left;
+}
+#input_name {
+    margin-bottom: 10px;
+}
+#hoa_thi {
+    display: inline;
+    color: red;
+}
+form input[name=email] {
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+#phone input {
+    width: 60px;
+    margin-top: 10px;
+}
+form input[type=submit] {
+    margin-top: 20px;
+}
