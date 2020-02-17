@@ -1,0 +1,25 @@
+body {
+    font-family: "Times New Roman", sans-serif;
+}
+form fieldset {
+    border: 2px solid red;
+    width: 500px;
+    height: 100px;
+    margin: 50px auto;
+    text-align: center;
+    padding: 30px;
+}
+form fieldset input[type=submit] {
+    width: 100px;
+    height: 20px;
+    background-color: red;
+    margin-top: 20px;
+}
+form fieldset input[type=text] {
+    margin-top: 20px;
+}
+fieldset legend {
+    color: green;
+    text-transform: uppercase;
+    font-weight: bold;
+}
