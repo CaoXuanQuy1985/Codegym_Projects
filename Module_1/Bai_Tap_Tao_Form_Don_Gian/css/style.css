@@ -1,0 +1,149 @@
+body {
+    font-family: "Times New Roman", sans-serif;
+}
+#page {
+    background-color: cornflowerblue;
+    width: 100%;
+    height: 900px;
+    padding-top: 50px;
+}
+form fieldset {
+    text-align: center;
+    width: 600px;
+    margin: 20px auto;
+    background-color: white;
+    border: red;
+    height: 305px;
+}
+table {
+    width: 420px;
+    margin: 20px auto;
+    margin-left: 11px;
+    padding: 10px;
+}
+table tr td {
+    width: 600px;
+    height: 25px;
+}
+#lw, #du_lich {
+    margin-left: 6px
+}
+#form1 h2 {
+    width: 600px;
+    height: 40px;
+    background-color: orange;
+    margin: 10px auto;
+    padding-top: 10px
+}
+#favorite {
+    margin-top: 20px;
+    width: 300px;
+}
+#emailLabel {
+    padding-left: 31px;
+    margin-top: 100px;
+}
+#email {
+    margin-top: 10px;
+}
+#st {
+    margin-top: 10px;
+    margin-right: 150px;
+}
+input[type=text] {
+    margin-left: 10px;
+}
+#container_table {
+    width: 300px;
+    height: 70px;
+    padding-left: 91px;
+    position: relative;
+    bottom: 40px;
+}
+#du_lich {
+    position: relative;
+    right: 6px;
+}
+#two td{
+    postion: relative;
+    padding-right: 15px;
+}
+#one td {
+    position: relative;
+    padding-right: 18px;
+}
+#am_nhac {
+    position: relative;
+    right: 4px;
+}
+#du_lich {
+    position: relative;
+    right: 13px;
+}
+#one label, #two label, #three label {
+    margin-left: 5px
+}
+#three label {
+    width: 20px;
+    position: relative;
+    right: 13px;
+}
+#btnSB {
+    margin-left: 100px;
+}
+#form2 {
+    margin: 60px auto;
+    background-color: yellow;
+    width: 47%;
+    height: 410px;
+}
+#form2 h2 {
+    width: 600px;
+    height: 40px;
+    background-color: orange;
+    margin: 10px auto;
+    text-align: center;
+    padding-top: 15px
+}
+input[name=ten] {
+    margin-top: 20px;
+}
+#container_form2 {
+    width: 600px;
+    background-color: yellow;
+    margin-left: 12px;
+    padding-top: 1px;
+    height: 395px;
+}
+#form2 label {
+    margin-left: 40px
+}
+#form2 label input[name=sinh] {
+    margin-top: 10px;
+    margin-left: 12px;
+}
+#form2 label input[name=sex] {
+    margin-top: 20px;
+    margin-left: 17px;
+}
+#form2 textarea {
+    margin-top: 15px;
+    margin-left: 28px
+}
+#form2 select[name=lop] {
+    margin-top: 15px;
+    margin-left: 47px;
+}
+#form2 input[name=email] {
+    margin-top: 20px;
+    margin-left: 39px
+}
+#form2 input[name=dt] {
+    margin-top: 20px;
+    position: relative;
+    right: 5px
+}
+#dk {
+    margin-top: 20px;
+    margin-left: 117px;
+}

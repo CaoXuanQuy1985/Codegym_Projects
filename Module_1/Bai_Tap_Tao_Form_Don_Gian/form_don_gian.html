@@ -1,0 +1,65 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Tao Form Don Gian</title>
+    <link href="css/style.css" type="text/css" rel="stylesheet"/>
+</head>
+<body>
+    <div id="page">
+        <form id="form1" action="http://www.google.com" method="get">
+            <fieldset>
+                <legend></legend>
+                <h2>Sở Thích Của Bạn</h2>
+                <div id="favorite">
+                    <label for="name">Họ Và Tên<input id="name" type="text" name="ten"/></label><br/>
+                    <label  id="emailLabel" for="email">Email<input id="email" type="text" name="email"/></label><br/>
+                    <div id="st">Sở Thích</div>
+                    <div id="container_table">
+                        <table>
+                            <tr id="one">
+                                <td><input type="checkbox" name="so_thích" checked="checked"/><label>Thể Thao</label></td>
+                                <td><input id="am_nhac" type="checkbox" name="so_thich"/><label>Âm Nhạc</label></td>
+                                <td><input type="checkbox" name="so_thich"/><label>Đọc Sách</label></td>
+                            </tr>
+                            <tr id="two">
+                                <td><input type="checkbox" name="so_thich"/><label>Lướt Web</label></td>
+                                <td><input type="checkbox" name="so_thich"/><label>Chơi Game</label></td>
+                                <td><input type="checkbox" name="so_thich"/><label>Điện Ảnh</label></td>
+                            </tr>
+                            <tr id="three">
+                                <td><input id="du_lich" type="checkbox" name="so_thich"/><label>Du Lịch</label></td>
+                                <td></td>
+                                <td></td>
+                            </tr>
+                        </table>
+                    </div>
+                    <input id="btnSB" type="submit" value="Gửi Thông Tin"/>
+                    <button>Nhập Lại</button>
+                </div>
+            </fieldset>
+        </form>
+        <form id="form2" action="http://www.google.com" method="get">
+            <div id="container_form2">
+                <h2>Đăng Kí Học Viên</h2>
+                <label>Họ Và Tên<input type="text" name="ten"/></label><br/>
+                <label>Ngày Sinh<input type="text" name="sinh"/></label><br/>
+                <label>Giới Tính<input type="radio" name="sex" value="Nam"/>Nam<input type="radio" name="sex" value="Nu"/>Nu</label><br/>
+                <label>Địa Chỉ<textarea></textarea></label><br/>
+                <label>Lớp
+                    <select name="lop">
+                        <option>-- Chọn Lớp --</option>
+                        <option value="A">A</option>
+                        <option value="B">B</option>
+                        <option value="C">C</option>
+                    </select>
+                </label><br/>
+                <label>Email<input type="text" name="email"/></label><br/>
+                <label>Điện Thoại<input type="text" name="dt"/></label><br/>
+                <button id="dk">Đăng Ký</button>
+                <button>Nhập Lại</button>
+            </div>
+        </form>
+    </div>
+</body>
+</html>
