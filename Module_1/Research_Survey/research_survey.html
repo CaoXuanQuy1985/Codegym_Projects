@@ -1,0 +1,93 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Research Survey</title>
+    <link href="css/style.css" rel="stylesheet" type="text/css"/>
+</head>
+<body>
+    <div id="page">
+        <div id="header">
+            <h1>Market research survey</h1>
+            <p>Please take a few moments to complete this satisfaction survey</p>
+        </div>
+        <form>
+            <div id="content">
+                <div id="dropdown">
+                    <p>What is your age range ?</p>
+                    <select>
+                        <option>18 - 24</option>
+                        <option>30 - 40</option>
+                        <option>45 - 50</option>
+                        <option>60 - 70</option>
+                    </select>
+                    <p>What is your yearly income range ?</p>
+                    <select>
+                        <option>$0 - $25,000</option>
+                        <option>$50,000 - $70,000</option>
+                        <option>$80,000 - $100,000</option>
+                        <option>$150,000 - 200,000</option>
+                    </select>
+                </div>
+                <div id="radio_checkbox">
+                    <p>Gender</p>
+                    <label><input type="radio" name="sex" value="male"/><span>Male</span></label><br/>
+                    <label><input type="radio" name="sex" value="female"/><span>Female</span></label><br/>
+
+                    <p>Which of the following products have you purchased in the last 2 month. Please check all that apply</p>
+                    <label><input type="checkbox"/><span>Product 1</span></label><br/>
+                    <label><input type="checkbox"/><span>Product 2</span></label><br/>
+                    <label><input type="checkbox"/><span>Product 3</span></label><br/>
+
+                    <p>How often would you use our new product ?</p>
+                    <label><input type="radio"/><span>Daily</span></label><br/>
+                    <label><input type="radio"/><span>Weekly</span></label><br/>
+                    <label><input type="radio"/><span>Monthly</span></label><br/>
+                </div>
+                <div id="text_input">
+                    <p>What would you pay for the new product ?</p>
+                    <label><strong>$</strong><input id="input_dollar" type="text"/><strong id="dot">.</strong><input id="input_cent" type="text"/></label><br/>
+                    <label><strong id="dollar">Dollars</strong></label><label><strong id="cent">Cents</strong></label>
+
+                    <p>What features would you like to see in the new product ?</p>
+                    <textarea></textarea>
+                </div>
+            </div>
+            <div id="footer">
+                <p>Please rate your level of agreement with the follow statements</p>
+                <table>
+                    <tr>
+                        <th class="firstRow"></th>
+                        <th class="firstRow">Strongly Disagree</th>
+                        <th class="firstRow">Disagree</th>
+                        <th class="firstRow">Agree</th>
+                        <th class="firstRow">Strongly Agree</th>
+                    </tr>
+                    <tr>
+                        <th class="first">Our Products are priced fairly</th>
+                        <td><label class="score"><input type="radio"/><br/><span>1</span></label></td>
+                        <td><label class="score"><input type="radio"/><br/><span>2</span></label></td>
+                        <td><label class="score"><input type="radio"/><br/><span>3</span></label></td>
+                        <td><label class="score"><input type="radio"/><br/><span>4</span></label></td>
+                    </tr>
+                    <tr>
+                        <th class="first">Our Products are high quality</th>
+                        <td><label class="score"><input type="radio"/><br/><span>1</span></label></td>
+                        <td><label class="score"><input type="radio"/><br/><span>2</span></label></td>
+                        <td><label class="score"><input type="radio"/><br/><span>3</span></label></td>
+                        <td><label class="score"><input type="radio"/><br/><span>4</span></label></td>
+                    </tr>
+                    <tr>
+                        <th class="first">You would recommend out products to a friend or co-worker</th>
+                        <td><label class="score"><input type="radio"/><br/><span>1</span></label></td>
+                        <td><label class="score"><input type="radio"/><br/><span>2</span></label></td>
+                        <td><label class="score"><input type="radio"/><br/><span>3</span></label></td>
+                        <td><label class="score"><input type="radio"/><br/><span>4</span></label></td>
+                    </tr>
+                </table>
+                <input type="submit" value="submit"/>
+            </div>
+        </form>
+    </div>
+</body>
+</html>

@@ -1,0 +1,117 @@
+body {
+    background-color: black;
+}
+#page {
+    width: 60%;
+    height: 1220px;
+    background-color: white;
+    margin:auto;
+    position: relative;
+    bottom: 10px;
+    padding-left: 10px;
+}
+#header {
+    text-align: left;
+    width: 98%;
+    height: 80px;
+    border-bottom: 1px dotted black;
+}
+#header p {
+    position: relative;
+    bottom: 15px;
+}
+form p {
+    font-weight: bold;
+    position: relative;
+    bottom: 5px
+}
+form input, select {
+    position: relative;
+    bottom: 15px;
+}
+form select {
+    width: 300px;
+}
+form label {
+    position: relative;
+}
+span {
+    position: relative;
+    bottom: 16px;
+    left: 8px;
+}
+input[type=radio]{
+    position: relative;
+    right: 2px;
+}
+#radio_checkbox input[value=female]{
+    position: relative;
+}
+strong {
+    position: relative;
+    bottom: 15px;
+}
+#input_dollar {
+    position: relative;
+    margin-left: 5px;
+    width: 90px;
+}
+#input_cent {
+    margin-left: 5px;
+    width: 20px
+}
+#dot {
+    margin-left: 5px;
+}
+#dollar {
+    margin-left: 12px;
+    position: relative;
+}
+#cent {
+    margin-left: 59px
+}
+textarea {
+    width: 98%;
+    position: relative;
+    bottom: 10px;
+    height: 200px;
+}
+table{
+    width: 99%;
+    height: 220px;
+    border: 1px solid #cccccc;
+    border-collapse: collapse;
+    position: relative;
+    bottom: 10px
+}
+table tr td, th {
+    border: 1px solid #cccccc;
+    width: 130px;
+}
+.first {
+    width: 250px;
+}
+input[type=submit]{
+    margin-top: 20px;
+    width: 90px;
+    border-radius: 7px;
+    height: 25px;
+    text-align: center;
+    font-size: 16px;
+    font-weight: bold;
+}
+table tr{
+    text-align: center;
+    font-size: 14px;
+}
+.score {
+    position: relative;
+    top: 20px;
+    margin-top: 20px;
+}
+label span {
+    margin-right: 19px;
+}
+.firstRow {
+    background-color: #e6e6e6;
+}
