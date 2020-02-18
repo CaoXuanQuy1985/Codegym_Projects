@@ -1,0 +1,58 @@
+body {
+    font-family: Tahoma, "Times New Roman", sans-serif;
+}
+#page {
+    width: 50%;
+    background-color: darkorange;
+    height: 600px;
+    margin: 20px auto;
+    padding-top: 1px;
+}
+h1 {
+    width: 94%;
+    height: 45px;
+    background-color: green;
+    text-align: center;
+    margin-left: 20px;
+    padding-top: 8px
+}
+input, h3 {
+    margin-left: 50px;
+    margin-top: 10px;
+}
+input {
+    position: relative;
+    bottom: 40px;
+}
+h3[name=email] {
+    position: relative;
+    bottom: 20px;
+}
+#input_email {
+    position: relative;
+    bottom: 60px;
+}
+h3[name=phone] {
+    position: relative;
+    bottom: 40px;
+}
+#input_phone{
+    position: relative;
+    bottom: 78px;
+}
+h3[name=gender] {
+    position: relative;
+    bottom: 55px;
+}
+input[type=radio] {
+    position: relative;
+    bottom: 70px;
+}
+span {
+    position: relative;
+    bottom: 70px;
+    left: 5px;
+}
+input[type=submit]{
+    width: 60px;
+}
