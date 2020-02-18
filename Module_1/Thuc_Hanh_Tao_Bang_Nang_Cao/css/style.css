@@ -1,0 +1,22 @@
+body {
+    font-family: "Times New Roman", sans-serif;
+    text-align: center;
+}
+h1 {
+    text-align: left;
+    padding-left: 65px;
+}
+table {
+    border: 2px solid black;
+    width: 1200px;
+    height: 280px;
+    border-collapse: collapse;
+    margin: 0px auto;
+}
+table tr td {
+    border: 2px solid black;
+}
+.double {
+    height: 60px;
+    background-color: red;
+}
