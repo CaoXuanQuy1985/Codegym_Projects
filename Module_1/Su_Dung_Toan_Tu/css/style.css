@@ -1,0 +1,23 @@
+body {
+    font-family: "Times New Roman", sans-serif;
+}
+#page {
+    width: 30%;
+    height: 250px;
+    margin:20px  auto;
+    padding-top: 20px;
+    background-color: cornflowerblue;
+    padding-left: 40px;
+}
+input {
+    margin-top: 15px;
+}
+#width {
+    margin-left: 20px;
+}
+#length {
+    margin-left: 32px;
+}
+button {
+    margin-top: 20px;
+}
