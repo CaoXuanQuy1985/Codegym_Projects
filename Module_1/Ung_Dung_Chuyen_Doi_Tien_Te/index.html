@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Ung Dung Chuyen Doi Tien Te</title>
+</head>
+<body>
+    <div id="page">
+        <table>
+            <tr>
+                <td>Amount</td>
+                <td>From Currency</td>
+                <td>To Currency</td>
+            </tr>
+            <tr>
+                <td><input type="text" id="amount"/></td>
+                <td><select id="select_1">
+                        <option value="vn">VietName</option>
+                        <option value="usd">USD</option>
+                    </select>
+                </td>
+                <td>
+                    <select id="select_2">
+                        <option value="vn">VietName</option>
+                        <option value="usd">USD</option>
+                    </select>
+                </td>
+                <td><button id="btn">Convert</button></td>
+            </tr>
+        </table>
+        <p id="result"></p>
+    </div>
+    <script src="js/convert.js"></script>
+</body>
+</html>
