@@ -1,0 +1,58 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>May Tinh Don Gian</title>
+    <link href="css/style.css" type="text/css" rel="stylesheet"/>
+</head>
+<body>
+    <div id="page">
+        <h2>Máy Tính Cá Nhân</h2>
+        <div id="container">
+        <input id="screen" type="text"/>
+            <table id="cal">
+                <tr>
+                    <td><button class="btn" value="1">1</button></td>
+                    <td><button class="btn" value="2">2</button></td>
+                    <td><button class="btn" value="3">3</button></td>
+                    <td><button class="btn" value="+">+</button></td>
+                </tr>
+                <tr>
+                    <td><button class="btn" value="4">4</button></td>
+                    <td><button class="btn" value="5">5</button></td>
+                    <td><button class="btn" value="6">6</button></td>
+                    <td><button class="btn" value="-">-</button></td>
+                </tr>
+                <tr>
+                    <td><button class="btn" value="7">7</button></td>
+                    <td><button class="btn" value="8">8</button></td>
+                    <td><button class="btn" value="9">9</button></td>
+                    <td><button class="btn" value="x">x</button></td>
+                </tr>
+                <tr>
+                    <td><button class="btn" value="C">C</button></td>
+                    <td><button class="btn" value="0">0</button></td>
+                    <td><button class="btn" value="=">=</button></td>
+                    <td><button class="btn" value="/">/</button></td>
+                </tr>
+            </table>
+            <p>Code By <strong>Cao Xuan Quy</strong></p>
+        </div>
+        <div id="instruction">
+            <p><b>Cách Sử Dụng:</b><br/>
+            Nhập các số từ bàn phím, thực hiện các phép "+", "-", "x", "/" trên bàn phím để tính kết quả.
+               Chú ý: Khi thực hiện nhập các kí tự khác ngoài chữ số, máy tính sẽ tự động xóa màn hình khi ấn kết quả.
+            </p>
+            <p><b>Thuật Toán sử dụng:</b><br/>
+                Thuật toán sử dụng cho bài này vì không sử dụng hàm eVal() xây dựng sẵn của Javasript nên mình đã tự viết
+                riêng các hàm để thực hiện các công việc sau:<br/>
+                1. Trích xuất chuỗi kết quả sau khi user nhập dữ liệu vào màn hình.<br/>
+                2. Tách riêng tất cả các chữ sỗ và toán tử ra thành 1 mảng riêng biệt bằng cách sử dụng String regex.<br/>
+                3. Thực hiện thuật toán đệ quy để thực hiện công việc "cộng dồn" kết quả.<br/>
+                <b>Chi tiết hơn có thể nhìn đoạn Code trong file javascript.</b>
+            </p>
+        </div>
+    </div>
+    <script type="text/javascript" src="js/calculate.js"></script>
+</body>
+</html>

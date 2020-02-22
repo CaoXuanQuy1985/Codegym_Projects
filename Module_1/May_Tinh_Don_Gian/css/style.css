@@ -1,0 +1,59 @@
+body {
+    font-family: Verdana, sans-serif;
+    height: 100%;
+}
+h2{
+    color: white;
+    padding-top: 20px; 
+    font-size: 26px;
+    text-shadow: 2px 2px 0px black;
+}
+#container {
+    width: 35%;
+    height: 236px;
+    margin: 0 auto;
+    border: 1px solid #0088dd;
+    background-color: #0088dd;
+    float: left;
+    margin-left: 8px;
+}
+#instruction {
+    width: 60%;
+    height: 400px;
+    background-color: #cbd2d8;
+    float: left;
+    margin-left: 26px;
+}
+#page {
+    width: 70%;
+    height: 480px;
+    background-color: gray;
+    margin: 0 auto;
+    text-align: center;
+}
+input {
+    width: 292px;
+    height: 35px;
+    margin-right: 2px;
+    margin-bottom: 10px;
+    margin-top: 10px;
+}
+button{
+    width: 71px;
+    height: 30px;
+    font-size: 17px;
+    font-weight: bold;
+    text-shadow: 1px 1px 0px #666666;
+}
+p{
+    text-align: right;
+    padding-right: 10px;
+}
+table {
+    margin-left: 12px;
+}
+#instruction p{
+    text-align: left;
+    margin-left: 20px;
+    line-height: 1.2em;
+}
