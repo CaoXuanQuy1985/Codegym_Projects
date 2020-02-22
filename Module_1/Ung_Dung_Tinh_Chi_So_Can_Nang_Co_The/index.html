@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Tinh Chi So Can Nang Co The</title>
+    <link rel="stylesheet" href="css/style.css">
+</head>
+<body>
+    <div id="page">
+        <h2>Ứng Dụng Tính Chỉ Số Cân Nặng Cơ Thể</h2>
+        <div id="infor">
+            <p><b>Input your Information: </b></p><br/>
+            <label>Weight (Kg):<input id="weight" type="text"/></label><br/>
+            <label id="lbh">Height (m):<input id="height" type="text"/></label><br/>
+            <label id="bmi">BMI:<input id="result" type="text"/></label><br/>
+            <button id="btn">Check BMI</button>
+        </div>
+        <table id="resultTable">
+            <tr>
+                <th>BMI</th>
+                <th>Interpretation</th>
+            </tr>
+            <tr>
+                <td>BMI < 18.5</td>
+                <td id="ruw" class="">Underweight</td>
+            </tr>
+            <tr>
+                <td>18.5 <= BMI < 25.0</td>
+                <td id="rn" class="">Normal</td>
+            </tr>
+            <tr>
+                <td>25.0 <= BMI < 30.0</td>
+                <td id="row" class="">Overweight</td>
+            </tr>
+            <tr>
+                <td>30.0 <= BMI</td>
+                <td id="rob" class="">Obese</td>
+            </tr>
+        </table>
+    </div>
+    <script src="js/app.js"></script>
+</body>
+</html>

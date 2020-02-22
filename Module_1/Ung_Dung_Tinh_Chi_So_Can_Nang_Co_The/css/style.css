@@ -1,0 +1,65 @@
+body {
+    font-family: Verdana, sans-serif;
+    background-color: #00CCFF;
+}
+#page{
+    width: 60%;
+    height: 300px;
+    background-color: #8EB;
+    margin: 0 auto;
+}
+h2 {
+    text-align: center;
+    padding-top: 20px;
+    text-shadow: 2px 2px 0px #ffffff;
+}
+#infor{
+    width: 310px;
+    height: 200px; 
+    float: left;
+    border-right: 1px solid #dddddd;
+}
+#infor p, label {
+    padding-left: 20px;
+}
+#infor input {
+    margin-left: 10px;
+}
+#lbh{
+    position: relative;
+    top: 10px;
+}
+#btn{
+    margin-top: 30px;
+    margin-left: 133px;
+}
+#height {
+    position: relative;
+    left: 9px;
+}
+table {
+    border: 1px solid black;
+    border-collapse: collapse;
+    float: left;
+    margin-top: 20px;
+    margin-left: 40px;
+    width: 440px;
+}
+
+table tr th, td {
+    border: 1px solid black;
+    padding-left: 10px;
+    height: 25px
+}
+
+.active {
+    background-color: yellow;
+}
+#bmi {
+    position: relative;
+    top: 20px;
+}
+#result{
+    position: relative;
+    left: 65px;
+}
