@@ -1,0 +1,84 @@
+body {
+    font-family: Verdana, san-serif;
+}
+#box {
+    width: 600px;
+    height: 600px;;
+    border: 4px solid #ccc;
+    position: relative;
+    margin: 0px auto;
+}
+#page {
+    width: 630px;
+    height: 630px;
+    border: 6px solid red;
+    margin: 0 auto;
+    background-image: url("../images/Sieu_Say_Za (copy).jpeg");
+    background-size: cover;
+}
+#notes{
+    width: 60%;
+    height: 300px;
+    background-color: cornflowerblue;
+    margin: 10px auto;
+    text-align: left;
+}
+#notes p{
+    padding-top: 20px;
+    padding-left: 200px;
+    position: relative;
+    left: 20px;
+    width: 550px;
+    height: 200px;
+    line-height: 1.6em;
+}
+#source{
+    float: left;
+}
+#rectangle_2 {
+    position:absolute;
+    top: -24px;    
+    width: 500px;
+    height: 250px;
+    margin-left: -162px;
+    background-repeat: no-repeat;
+    background-size: cover;
+    clip-path: polygon(50% 0, 0 100%, 100% 100%);
+    transform: rotate(-45deg);
+}
+#rectangle_3{
+    position:absolute;
+    width: 890px;
+    height: 200px;
+    margin-left: -205px;
+    margin-top: 142px;
+    background-repeat: no-repeat;
+    background-size: cover;
+    clip-path: polygon(23% 0%, 77.5% 0%, 100% 100%, 0% 100%);
+    transform: rotate(-45deg);
+    border: 3px solid red
+}
+#rectangle_4{
+    position:absolute;
+    width: 890px;
+    height: 200px;
+    margin-left: -59px;
+    margin-top: 285px;
+    background-repeat: no-repeat;
+    background-size: cover;
+    clip-path: polygon(23% 0%, 77% 0%, 100% 100%, 0% 100%);
+    transform: rotate(135deg);
+    border: 2px solid red;
+}
+#rectangle_5 {
+    position:absolute;
+    top: 441px;
+    width: 482px;
+    height: 236px;
+    margin-left: 298px;
+    background-repeat: no-repeat;
+    background-size: cover;
+    clip-path: polygon(49% 0, 0 99%, 99% 100%);
+    transform: rotate(135.1deg);
+    border: 2px solid red;
+}
