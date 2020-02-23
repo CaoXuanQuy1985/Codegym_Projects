@@ -1,0 +1,26 @@
+body {
+    font-family: verdana, sans-serif;
+    height: 100%;
+}
+h1{
+    text-shadow: 5px 1px 7px #6666;
+}
+#page{
+    width: 60%;
+    height: 200px;
+    text-align: center;
+    background-color: #7fcdcd;
+    margin: 0px auto;
+    padding-top: 20px;
+}
+#page p{
+    text-align: left;
+    margin-left: 155px;
+}
+
+button {
+    margin-top: 10px;
+    position: relative;
+    left: 20px;
+    font-weight: bold;
+}
