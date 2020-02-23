@@ -1,0 +1,21 @@
+body {
+    font-family: Verdana, sans-serif;
+}
+#page {
+    width: 400px;
+    height: 150px;
+    background-color: darkorange;
+    margin: 200px auto;
+    text-align: center;
+}
+button {
+    width: 80px;
+    height: 30px;
+    margin-left: 10px;
+}
+h2 {
+    padding-top: 20px;
+}
+#no {
+    position: relative;
+}
