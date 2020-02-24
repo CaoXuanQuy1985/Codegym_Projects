@@ -1,0 +1,15 @@
+body {
+    font-family: "Times New Roman", snas-serif;
+}
+
+#page {
+    width: 300px;
+    height: 600px;
+    background-color: #F7CAC9;
+    margin: 0 auto;
+    text-align: center;
+    padding-top: 20px;
+}
+input {
+    margin-top: 20px;
+}
