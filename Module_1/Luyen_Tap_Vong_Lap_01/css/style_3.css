@@ -1,0 +1,20 @@
+body {
+    font-family: Verdana, sans-serif, "Times New Roman";
+}
+#page {
+    width: 750px;
+    height: 200px;
+    background-color: #92A8D1;
+    margin: 30px auto;
+    text-align: center;
+    padding-top: 50px;
+}
+label p {
+    font-size: 20px;
+}
+b {
+    margin-top: 200px;
+}
+button {
+    margin-top: 20px;
+}
