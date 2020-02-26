@@ -1,0 +1,23 @@
+body {
+    font-family: Verdana, sans-serif, "Times New Roman";
+}
+
+#page {
+    width: 500px;
+    height: 550px;
+    background-color: #88B04B;
+    margin: 50px auto;
+}
+
+h2 {
+    text-align: center;
+    padding-top: 30px;
+    text-shadow: 2px 1px 0 white;
+    color: black;
+}
+
+p {
+    margin-left: 90px;
+    margin-top: 50px;
+    color: #DD4124;
+}

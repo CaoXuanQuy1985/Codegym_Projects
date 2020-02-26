@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Bai Tap 5</title>
+    <link rel="stylesheet" href="css/bai_tap_5.css">
+</head>
+<body>
+    <div id="page">
+        <h2>Chương Trình Tính Lãi Ngân Hàng</h2>
+        <label>Nhập Số Tiền Ban Đầu: <input id="startMoney" type="text"/></label><br/>
+        <label>Nhập Số Tháng Cho Vay: <input id="month" type="text"/></label><br/>
+        <label>Nhập Lãi Suất Hàng Tháng: (%)<input id="rate" type="text"/></label><br/>
+        <h3>Click Button để tính số tiền lãi ngân hàng mà bạn phải trả</h3>
+        <p id="notes">Notes: Cách tính số tiền lãi ngân hàng:
+            Ví dụ vay 100$ sau 1 tháng sẽ sinh lãi 100 * 1,2% = 1,2$ (1,2% là lãi suất), cộng lại là 101,2$. Hoặc 100 * (1 + 1,2%).
+            Hết tháng thứ 2 101,2$ sẽ trở thành 100 * (1 + 1,2%) * (1 + 1,2%) = 100 * (1 + 1,2%)^2. Như vậy hết tháng thứ n
+            tổng số tiền phải trả là 100 * (1 + 1,2%)^n. Vậy số tiền lãi ngân hàng mà bạn phải trả là: 100 * (1 + 1,2%)^n - 100
+            = 100 * ((1 + 1,2%)^n - 1).
+            Ở đây ta có thể dùng vòng lặp để tính biểu thức: (1 + 1,2%)^n ....
+        </p>
+        <button id="btn">Calculator</button>
+        <p>Số tiền lãi mà bạn phải trả là:</p>
+        <p id="result"></p>
+    </div>
+    <script src="js/bai_tap_5.js"></script>
+</body>
+</html>
