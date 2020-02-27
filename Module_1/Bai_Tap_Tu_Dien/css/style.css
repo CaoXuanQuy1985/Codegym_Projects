@@ -1,0 +1,63 @@
+body {
+    font-family: Verdana, sans-serif, "Times New Roman";
+    background-color: darkgrey;
+}
+#page {
+    height: 400px;
+    margin: 40px auto;
+    text-align: center;
+}
+#search {
+    width: 750px;
+    height: 200px;
+    background-color: cornflowerblue;
+    float: left;
+    margin-left: 70px;
+    text-align: left;
+    padding-top: 100px;
+    padding-left: 50px;
+}
+h2 {
+    font-size: 30px;
+    text-shadow: 2px 1px 0 #666666;
+}
+#update {
+    width: 400px;
+    height: 300px;
+    background-color: aquamarine;
+    float: left;
+}
+
+strong {
+    margin-top: 20px;
+}
+b {
+    padding-top: 100px;
+}
+#vn {
+    margin-top: 30px;
+    position: relative;
+    left: 90px;
+}
+
+#trans {
+    margin-top: 30px;
+    margin-left: 50px;
+}
+
+#updateEN {
+    margin-top: 100px;
+}
+
+#updateVN {
+    margin-top: 20px;
+}
+
+#updateBtn {
+    margin-top: 15px;
+    margin-left: 150px;
+}
+#notes{
+    float: left;
+    margin-left: 20px;
+}
