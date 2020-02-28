@@ -1,0 +1,9 @@
+body {
+    font-family: "Times New Roman", Verdana, sans-serif;
+}
+#page {
+    width: 600px;
+    height: 200px;
+    margin: 100px auto;
+    text-align: center;
+}
