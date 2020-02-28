@@ -1,0 +1,13 @@
+body {
+    font-family: "Times New Roman", Verdana, sans-serif;
+}
+#page {
+    width: 600px;
+    height: 400px;
+    margin: 50px auto;
+    text-align: center;
+}
+textarea {
+    width: 400px;
+    height: 200px;
+}
