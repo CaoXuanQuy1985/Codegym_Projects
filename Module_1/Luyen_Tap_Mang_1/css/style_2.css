@@ -1,0 +1,11 @@
+body {
+    font-family: Verdana, sans-serif, "Times New Roman";
+}
+#page{
+    width: 600px;
+    height: 500px;
+    background-color: bisque;
+    margin: 0 auto;
+    padding-left: 20px;
+    padding-top: 20px
+}
