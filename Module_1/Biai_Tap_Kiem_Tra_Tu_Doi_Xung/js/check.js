@@ -11,7 +11,7 @@ function init(){
 
 function checkSame(array, index_1, index_2){
     if((array[index_1--] === array[index_2++])){
-        if(index_1 === 0){
+        if(index_1 < 0){
             return 1;
         }
         return checkSame(array, index_1, index_2);
@@ -24,23 +24,34 @@ function isPalindrome(sourceStr){
     let array = sourceStr.split("");
     let lenStr = array.length;
     let index_1, index_2;
-    if(lenStr % 2 === 0) {
-        index_1 = lenStr / 2 - 1;
-        index_2 = index_1 + 1;
-    }else{
-        index_1 = Math.floor(lenStr / 2 - 1);
-        index_2 = Math.floor(lenStr / 2 + 1);
-    }
 
-    let value = checkSame(array, index_1, index_2);
-    return value;
+    if(lenStr === 1){
+        return 1;
+    }else if(lenStr === 2){
+         return (array[0] === array[1]) ? 1 : 0;
+    }else {
+        if (lenStr % 2 === 0) {
+            index_1 = lenStr / 2 - 1;
+            index_2 = index_1 + 1;
+        } else {
+            index_1 = Math.floor(lenStr / 2 - 1);
+            index_2 = Math.floor(lenStr / 2 + 1);
+        }
+
+        let value = checkSame(array, index_1, index_2);
+        return value;
+    }
 
 }
 
 locCheck.addEventListener("click", function(){
-    if(isPalindrome(locInput.value) === 1){
-        alert("Chuoi doi xung");
-    }else{
-        alert("Chuoi khong doi xung");
+    if(locInput.value === ""){
+        alert("Bạn chưa nhập số nào để kiểm tra tính đối xứng, hãy nhập rồi mới ấn button")
+    }else {
+        if (isPalindrome(locInput.value) === 1) {
+            alert("Chuôi " + locInput.value + " là đối xứng đấy ^^");
+        } else {
+            alert("Chuỗi " + locInput.value + " không đối xứng rồi, rất tiếc !!!");
+        }
     }
 }, false);
