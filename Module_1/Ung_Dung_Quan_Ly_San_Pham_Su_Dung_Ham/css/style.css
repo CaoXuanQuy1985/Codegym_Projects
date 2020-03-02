@@ -1,0 +1,87 @@
+body {
+    font-family: Verdana, sans-serif, "Times New Roman";
+    background-color: coral;
+}
+
+#page {
+    text-align: center;
+    width: 100%;
+    height: 600px;
+}
+
+h1 {
+    text-shadow: 3px 1px 0 white;
+}
+
+#table-information {
+    border: 2px solid black;
+    border-collapse: collapse;
+}
+
+#table-information tr td, th {
+    border: 1px solid;
+    width: 150px;
+    height: 30px;
+    word-break: break-all;
+}
+
+th {
+    font-size: 18px;
+    border: 1px solid black;
+}
+
+#table-information tr th {
+    background-color: yellow;
+    text-shadow: 2px 1px 0 white;
+}
+
+#information {
+    width: 70%;
+    height: 1000px;
+    background-color: #45B8AC;
+    float: left;
+}
+
+#controls {
+    width: 30%;
+    height: 1000px;
+    float: left;
+    background-color: #989898;
+}
+
+.hide {
+    display: none;
+}
+
+#addNewElem {
+    height: 200px;
+    text-align: left;
+    padding-top: 20px;
+    padding-left: 20px;
+    border-bottom: 2px black;
+}
+b {
+    margin-top: 20px;
+}
+#dtt {
+    margin-bottom: 20px;
+}
+#addBtn {
+    margin-bottom: 20px;
+}
+#name-input {
+    margin-top: 20px;
+}
+#date-input{
+    margin-left: 30px;
+}
+#code-input {
+    margin-left: 67px;
+}
+#source-input {
+    margin-left: 54px;
+}
+#search{
+    margin-top: 20px;
+    margin-right: 25px
+}

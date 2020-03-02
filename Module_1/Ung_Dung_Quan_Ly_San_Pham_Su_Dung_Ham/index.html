@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Ứng Dụng Quản Lý Sản Phẩm</title>
+    <link rel="stylesheet" href="css/style.css">
+</head>
+<body>
+    <div id="page">
+        <h1>Ứng Dụng Quản Lý Sản Phẩm</h1>
+        <div id="information">
+
+        </div>
+        <div id="controls">
+            <div id="addNewElem">
+                <label><b>Chọn vị trí Add:</b></label>
+                <select id="optionsAdd">
+                    <option value="top">Đỉnh Bảng</option>
+                    <option value="bottom">Đáy Bảng</option>
+                </select>
+                <button id="addBtn">Add</button><br/>
+                <b id="dtt">Điền Thông Tin Sản Phẩm Theo Form:</b><br/>
+                <label>Tên Sản Phẩm: <input id="name-input" type="text"/></label><br/>
+                <label>Ngày nhập: <input id="date-input" type="text"/></label><br/>
+                <label>Mã SP: <input id="code-input" type="text"/></label><br/>
+                <label>Xuất xứ: <input id="source-input" type="text"/></label><br/>
+            </div>
+            <div id="searchElem">
+                <h3>Tìm Kiếm Theo Tên Sản Phẩm</h3>
+                <label>Nhập Tên SP: <input type="text" id="input-search"/></label><br/>
+                <button id="search">Tìm Kiếm</button>
+                <button id="getFull">Lấy Toàn Bộ Danh Sách</button>
+            </div>
+        </div>
+        <div id="hacker">
+            <h2>Coding By anonymous.vn1985</h2>
+        </div>
+    </div>
+    <script src="js/control_database.js"></script>
+</body>
+</html>
