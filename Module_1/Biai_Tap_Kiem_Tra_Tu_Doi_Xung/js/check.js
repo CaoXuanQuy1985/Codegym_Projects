@@ -37,8 +37,10 @@ function isPalindrome(sourceStr){
 
 }
 
-if(isPalindrome("123456789AH987654321") === 1){
-    alert("Chuoi doi xung");
-}else{
-    alert("Chuoi khong doi xung");
-}
+locCheck.addEventListener("click", function(){
+    if(isPalindrome(locInput.value) === 1){
+        alert("Chuoi doi xung");
+    }else{
+        alert("Chuoi khong doi xung");
+    }
+}, false);
