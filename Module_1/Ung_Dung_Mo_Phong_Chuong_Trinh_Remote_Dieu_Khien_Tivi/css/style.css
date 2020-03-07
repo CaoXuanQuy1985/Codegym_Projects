@@ -1,0 +1,59 @@
+body {
+    font-family: Verdana, sans-serif, "Times New Roman";
+}
+
+#container {
+    width: 80%;
+    height: 600px;
+    background-color: darkgrey;
+    margin: 20px auto;
+}
+
+#remote {
+    width: 135px;
+    height: 420px;
+    background-image: url("../images/Remote.jpg");
+    margin-left: 20px;
+}
+
+#underTable {
+}
+tr, td {
+    width: 23px;
+    height: 23px;
+}
+
+#remote {
+    padding-top: 90px;
+    padding-left: 12px;
+    float: left;
+}
+
+.btn {
+    opacity: 0;
+    width: 23px;
+    height: 20px;
+}
+
+#on-off-btn {
+    width: 20px;
+    height: 20px;
+    position: relative;
+    left: 126px;
+    top: 38px;
+}
+
+#tivi {
+    width: 400px;
+    height: 280px;
+    background-image: url("../images/Television.jpg");
+    float: right;
+    margin-right: 40px;
+    margin-top: 20px;
+}
+iframe {
+    width: 250px;
+    height: 200px;
+    margin-left: 40px;
+    margin-top: 40px;
+}
