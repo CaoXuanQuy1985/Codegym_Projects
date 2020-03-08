@@ -1,0 +1,25 @@
+body {
+    font-family: Verdana, sans-serif, "Times New Roman";
+}
+
+#page {
+    width: 800px;
+    height: 900px;
+    background-color: cornflowerblue;
+    margin: 10px auto;
+    padding-top: 10px;
+}
+
+canvas {
+    width: 700px;
+    height: 700px;
+    border: 2px solid black;
+    margin: 100px 20px 30px 50px;
+}
+
+#ScoreInformation {
+    width: 200px;
+    height: 200px;
+    border: 2px solid black;
+    margin-left: 270px;
+}
