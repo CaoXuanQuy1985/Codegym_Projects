@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>So Xo Kien Thiet Thu Do</title>
+    <link rel="stylesheet" href="css/style.css">
+</head>
+<body>
+    <div id="page">
+        <div id="may-chu">
+            <div id="icon"></div>
+            <table id="table-result"></table>
+        </div>
+        <div id="container">
+            <button id="rotate">Bắt Đầu Quay</button>
+            <div id="tic_ke">
+                <h3>TÍC KÊ:</h3>
+                <label>Kiểu Đánh: <b id="kieu_danh"></b></label><br/>
+                <label>Đánh Con: <b id="con"></b></label><br/>
+                <label>Số Tiền Đánh: <b id="tien_danh"></b></label>
+                <div id="ket_qua_trung_truot">
+                    <h3>Kết Quả:</h3>
+                    <p id="loi_phan_hoi"></p>
+                </div>
+            </div>
+        </div>
+        <div id="user">
+            <div id="avatar">
+            </div>
+            <div id="infor_danh">
+                <label>Kiểu Đánh:
+                    <input type="radio" id="lo" name="kieu" value="LÔ" checked="checked">
+                    <label for="lo">Lô</label>
+                    <input type="radio" id="de" name="kieu" value="ĐỀ">
+                    <label for="de">Đề</label><br>
+                </label>
+                <label>Đánh Con: <input id="input-con" maxlength="2"/></label><br/>
+                <label>Số Tiền Đánh: <input id="input-tien" type="number" name="my-num"/></label><br/>
+                <button id="baoBtn">Báo</button>
+            </div>
+        </div>
+    </div>
+    <video id="clip" width=100% height=100% controls autoplay muted="muted">
+        <source src="./video/Edit.mp4" type="video/mp4">
+        Your browser does not support the video tag.
+    </video>
+    <script src="js/jquery-1.11.0.js"></script>
+    <script src="js/processor.js"></script>
+    <script>
+        document.getElementById("clip").play();
+    </script>
+</body>
+</html>
