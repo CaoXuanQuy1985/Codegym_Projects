@@ -1,0 +1,261 @@
+body {                        /* width: 1363px */
+    font-family: "Times New Roman", sans-serif, Tahoma;
+    color: #665544;
+}
+#page {
+    width: 60%;               /* width: 818px */
+    height: 1445px;
+    background-color: #e9e9e9;
+    margin: 20px auto;
+}
+#header {
+    width: 100%;              /* width: 818px */
+    height: 240px;
+    background-image: url("images/bg.jpg");
+}
+#image_face {
+    width: 245px;
+    height: 220px;
+    /*background-color: blue;*/
+    padding-top: 20px;
+    float: left;
+}
+#container_image_face {
+    width: 245px;
+    height: 200px;
+    /*background-color: green;*/
+    border-right: 1px solid #ffffff;
+}
+#image_face img {
+    width: 190px;
+    height: 180px;
+    margin-top: 10px;
+    margin-left: 27px;
+}
+#overview {
+    width: 551px;
+    height: 200px;
+    /*background-color: red;*/
+    margin-left: 250px;
+    padding-top: 25px;
+    padding-left: 50px;
+    text-align: left;
+}
+#overview p {
+    color: #e17034;
+    line-height: 1.2em;
+    position: relative;
+    bottom: 7px;
+}
+#overview h1 {
+    font-family: Tahoma sans-serif , "Times New Roman";
+    font-weight: bold;
+    color: #b5c1ad;
+    text-transform: uppercase;
+    text-shadow: 4px 2px 0px #111111;
+}
+#overview h2 {
+    color: #b5c1ad;
+    font-size: 19px;
+    font-family: Tahoma sans-serif , "Times New Roman";
+    text-shadow: 4px 2px 1px #111111;
+}
+#content {
+    width: 100%;
+    height: 1201px;
+    background-color: #967154;
+}
+#sidebar {
+    width: 350px;
+    height: 1200px;
+    /*background-color: aqua;*/
+    border-right: 1px solid #aaa89b;
+    float: left;
+}
+#main_information {
+    width: 450px;
+    height: 1200px;
+    /*background-color: green;*/
+    float: left
+}
+.subSidebar {
+    width: 100%;
+    height: 520px;
+    /*background-color: red;*/
+    border-bottom: 2px solid #aaa89b;
+    float: left;
+}
+.header_text {
+    width: 250px;
+    height: 40px;
+    color: white;
+    font-weight: bold;
+}
+.header_text h2 {
+    padding: 11px 20px 8px 39px;
+    font-size: 18px;
+    font-weight: 800;
+    text-shadow: 1px 2px 0 #111111;
+}
+.header_contact {
+    background-color: #f7991d;
+    margin-top: 40px
+}
+.content_contact {
+    width: 209px;
+    height: 60px;
+    border-bottom: 1px solid #aaa89b;
+    margin-left: 40px;
+    color: white;
+    margin-top: 30px
+}
+.content_contact h3 {
+    color: #b5c1ad;  
+}
+.content_contact p {
+    color: #b5c1ad;
+    font-weight: 800;
+    position: relative;
+    bottom: 10px;
+    line-height: 1.4em;
+}
+.birth h3 {
+    color: #e05e5c;
+}
+.email {
+    border-bottom: none;
+}
+.address {
+    height: 100px;
+}
+.address h3 {
+    color: green;
+}
+.phone h3 {
+    color: #82cee5;
+}
+.email h3 {
+   color: #f7991d; 
+}
+.birth h3, .phone h3, .email h3 {
+    position: relative;
+    bottom: 10px
+}
+.birth p, .phone p, .email p {
+    position: relative;
+    bottom: 20px;
+}
+.header_about {
+    background-color: #f05759;
+    margin-top: 30px;
+}
+.about p {
+    color: #b5c1ad;
+    font-size: 20px;
+    text-align: left;
+    width: 200px;
+    margin-left: 40px;
+    margin-top: 30px;
+    text-indent: 25px;
+}
+.hobbies {
+    background-color: #81c242;
+    float: left;
+    margin-top: 20px
+}
+.hobbies h2 {
+    position: relative;
+    bottom: 15px;
+}
+.hobbies img {
+    position: relative;
+    margin-left: 3px;
+    bottom: 12px;
+}
+#first_img {
+    margin-left: 40px;
+}
+.submain {
+    width: 100%;
+    height: 299px;
+    border-bottom: 1px solid #aaa89b;
+    /*background-color: red;*/
+    float: left;
+}
+.exp {
+    background-color: green;
+    margin-top: 41px;
+    width: 100%
+}
+.exp p {
+    margin: 70px 40px;
+    font-size: 18px;
+}
+.skill {
+    background-color: #82cee5;
+    width: 100%;
+    margin-top: 30px;
+}
+/*.containerScore {
+    width: 300px;
+    heigth: 100px;
+    background-color: green;
+}*/
+.score {
+    width: 300px;
+    height: 40px;
+    empty-cells: show;
+    border-spacing: 10px;
+    float: right;
+}
+.score tr td{
+   background-color: #82cee5;;
+}
+.score {
+    position: relative;
+    bottom: 20px;
+}
+.sb_2 p {
+    color: white;
+    position: relative;
+    top: 33px;
+    font-size: 18px;
+    font-weight: bold;
+    letter-spacing: 1px;
+    margin-left: 20px;
+}
+.hacking {
+    width: 130px;
+    margin-right: 170px;
+}
+.php {
+    width: 245px;
+    margin-right: 55px;
+}
+.javaScript {
+    width: 185px;
+    margin-right: 115px;
+}
+.projects {
+    background-color: blue;
+}
+.projects img {
+    width: 350px;
+    height: 200px;
+    margin-left: 48px;
+    margin-top: 8px;
+}
+.mong_muon {
+    background-color: blanchedalmond;
+    margin-top: 30px;
+}
+.sb_4 ol {
+    margin-left: 18px;
+    width: 280px;
+}
+.sb_4 ol li {
+    padding-top: 15px;
+}
+
+
+

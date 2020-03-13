@@ -1,0 +1,16 @@
+{
+    "accounts" : [
+        {
+             "userName" : "anonymous.vn1985",
+             "passWord" : 123
+        },
+        {
+            "userName" : "hacker.vn1985",
+            "passWord" : 456
+        },
+        {
+            "userName" : "hacker",
+            "passWord" : 789
+        }
+    ]
+}

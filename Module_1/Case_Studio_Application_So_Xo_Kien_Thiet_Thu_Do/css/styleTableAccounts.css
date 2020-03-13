@@ -1,0 +1,11 @@
+body {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+#tableAccounts {
+    border: 1px solid black;
+}
+
+#tableAccounts tr th, td {
+    border: 1px solid black;
+}
