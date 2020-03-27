@@ -1,0 +1,24 @@
+@startuml Animla_Edible UML
+    interface Edible {
+        {abstract} void howToEat()
+    }
+    abstract class Fruit {
+
+    }
+    abstract class Animal {
+        {abstract} void makeSound()
+    }
+    class Orange {
+        void howToEat()
+    }
+    class Apple {
+        void howToEat()
+    }
+    
+    Animal <|-- Chicken
+    Animal <|-- Tiger
+    Edible <|-- Chicken
+    Edible <|-- Fruit
+    Fruit <|-- Orange
+    Fruit <|--Apple
+@enduml
