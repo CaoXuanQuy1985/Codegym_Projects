@@ -1,0 +1,109 @@
+@startuml   Colorable Geometric
+interface Colorable {
+    + void howToColor()
+}
+
+class User {
+    - Scanner sc
+
+    + User()
+    + double getInput()
+}
+
+abstract class Shape {
+    # int xPos
+    # int yPos
+    # User user
+
+    # Shape(int xPos, int yPos)
+
+    + {abstract} void draw()
+    + {abstract} void erase()
+    + {abstract} double getArea()
+
+    + void moveTo(int xPos, int yPos)
+
+    + String toString()
+}
+class Circle {
+    - double raidus
+
+    + Circle() 
+    + Circle(double radius)
+
+    + double getRadius()
+    + void setRadius(double radius)
+
+    + void draw()
+    + void erase()
+    + double getArea()
+    + double getPerimeter()
+    + String toString()
+}
+class Rectangle {
+    - double width
+    - double height
+
+    + Rectangle()
+    + Rectangle(double width, double height)
+
+    + double getWidth()
+    + void setWidth(double width)
+    + double getHeight()
+    + void setHeight(double height)
+
+    + void draw()
+    + void erase()
+    + double getArea()
+    + double getPerimeter()
+    + void howToColor()
+    + String toString()
+}
+class Square {
+    - double size
+
+    + Square()
+    + Square(double size)
+
+    + getSize()
+    + setSize(double size)
+
+    + void draw()
+    + void erase()
+    + double getArea()
+    + double getPerimeter()
+    + void howToColor()
+    + String toString()
+}
+class Triangle {
+    - double a
+    - double b
+    - double c
+
+    + Triangle()
+    + Triangle(double a, double b, double c)
+
+    + double getA()
+    + void setA(double a)
+    + double getB()
+    + void setB(double b)
+    + double getC()
+    + void setC(double c)
+
+    + void draw()
+    + void erase()
+    + double getArea()
+    + double getPerimeter()
+    + String toString()
+}
+
+Colorable <|-- Square
+Colorable <|-- Rectangle
+
+Shape *-- User
+Shape <|-- Circle
+Shape <|-- Rectangle
+Shape <|-- Square
+Shape <|-- Triangle
+
+@enduml
