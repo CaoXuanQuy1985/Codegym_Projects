@@ -1,0 +1,30 @@
+@startuml   Calender UML
+
+class Calendar {
+    - boolean isLeafYear(int year)
+    + int determineTotalDateInMonth(int month)
+}
+
+class User {
+    - {static} Scanner sc
+    - String dataUser
+
+    + User(String dataUser)
+
+    + String getDataUser()
+    + void setDataUser(String dataUser)
+
+    + String getInputData()
+}
+
+class ApplicationCalendar {
+    - {static} Calendar calendar
+
+    - String formatDateMonth(int nextDate, int nextMonth, int nextYear)
+    + int findNextDate(int dateNow, int monthNow, int yearNow)
+}
+
+ApplicationCalendar *-- Calendar
+ApplicationCalendar *-- User
+
+@enduml
