@@ -1,0 +1,35 @@
+@startuml   LinkedList Diagram
+interface Comparable<T> {
+    + int compareTo(T obj)
+}
+
+class Node {
+    - Object data
+    - Node next
+
+    + Node(int data)
+    + Object getData()
+    
+    + void displayNode()
+}
+
+class MyLinkedList<T> {
+    - T head
+    - int numNodes
+
+    + MyLinkedList(int Data)
+    ~ void add(int index, Object data)
+    + void addFirst(Object data)
+    + T get(int index)
+    + void displayLinkedList()
+}
+
+class LinkedListTest {
+    + {static} void main(String[] args)
+}
+
+Comparable <|-- Node
+MyLinkedList *-- Node
+MyLinkedList o-- LinkedListTest
+
+@enduml
