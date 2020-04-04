@@ -1,0 +1,20 @@
+@startuml   LinkedListQueue diagram
+    class Node {
+        ~ int key
+        ~ Node next
+
+        + Node(int key)
+    }
+    class MyLinkedListQueue<T> {
+        - T head
+        - T tail
+
+        + MyLinkedListQueue()
+
+        - boolean isEmpty()
+        + void enQueue(int key)
+        + T deQueue()
+    }
+
+    MyLinkedListQueue *-- Node
+@enduml
