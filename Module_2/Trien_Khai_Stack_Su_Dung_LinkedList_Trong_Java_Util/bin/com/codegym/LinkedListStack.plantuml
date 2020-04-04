@@ -1,0 +1,21 @@
+@startuml   LinkedListStack Diagram
+
+    class MyGenericStack<T> {
+        - LinkedList underLinkedList
+
+        + MyGenericStack()
+
+        + void push(T elem)
+        + T pop()
+        + int size()
+        + boolean isEmpty()
+    }
+
+    class GenericStackClient {
+        + void stackOfStrings()
+        + void stackOfIntegers()
+    }
+
+    GenericStackClient *-- MyGenericStack
+
+@enduml
