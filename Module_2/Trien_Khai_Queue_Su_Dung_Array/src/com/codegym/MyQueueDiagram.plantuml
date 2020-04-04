@@ -1,0 +1,24 @@
+@startuml   MyQueueDiagram
+
+class MyQueue<T> {
+    - int capacity
+    - T[] underArray
+    - int head
+    - int tail
+    - int currentSize
+
+    + MyQueue(int capacity)
+
+    + boolean isQueueFull()
+    + boolean isEmpty()
+    + void enQueue(T elem)
+    + T deQueue()
+}
+
+class MyQueueClient {
+    + {static} void main(String[] args)
+}
+
+MyQueueClient *-- MyQueue
+
+@enduml
