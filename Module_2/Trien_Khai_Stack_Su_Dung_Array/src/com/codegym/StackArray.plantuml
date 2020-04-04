@@ -1,0 +1,22 @@
+@startuml  StackArray Diagram
+
+    class MyStack<T> {
+        - T[] underArray
+        - int top
+        - int maxSize
+
+        + MyStack(int maxSize)
+        + void push(T elem)
+        + T pop()
+        + int size()
+        + boolean isEmpty()
+        + boolean isFull()
+    }
+
+    class StackClient {
+        + {static} void main(String[] args)
+    }
+
+    StackClient *-- MyStack
+
+@enduml
