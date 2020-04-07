@@ -170,4 +170,24 @@ public class BinarySearchTree<T extends Comparable<T>> extends AbstractTree<T>{
             preOrderTraversal(root.right);
         }
     }
+
+    public void postOrderTraversal(TreeNode<T> root) {
+        TreeNode<T> currentNode = root;
+
+        if (currentNode != null) {
+            preOrderTraversal(root.left);
+            preOrderTraversal(root.right);
+            System.out.print(currentNode + ", ");
+        }
+    }
+
+    public void inOrderTraversal(TreeNode<T> root) {
+        TreeNode<T> currentNode = root;
+
+        if (currentNode != null) {
+            preOrderTraversal(root.left);
+            System.out.print(currentNode + ", ");
+            preOrderTraversal(root.right);
+        }
+    }
 }
