@@ -5,7 +5,7 @@ import java.util.*;
 
 public class ValidateEmailChecker {
     private static Scanner sc;
-    private static final String REXGEX_VALIDATE_EMAIL = "^[^.]([^\\.]|[^\\.]\\.?[^\\.]){1,62}[^.]@[^\\.]\\.(com|org|net|in|us|info)$";
+    private static final String REXGEX_VALIDATE_EMAIL = "^[^\\.@]([^\\.]|[^\\.]\\.[^\\.]){1,62}[^\\.]@[^\\.]+\\.(com|org|net|in|us|info)$";
     private Pattern pattern;
     private Matcher matcher;
 
