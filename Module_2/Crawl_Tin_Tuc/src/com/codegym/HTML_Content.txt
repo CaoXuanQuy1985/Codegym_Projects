@@ -1,0 +1,1335 @@
+
+
+
+<!DOCTYPE html>
+
+<!--[if IE 7 ]><html class="ie ie7 lte7 lte8 lte9" lang="vi" xmlns="http://www.w3.org/1999/xhtml"><![endif]-->
+<!--[if IE 8 ]><html class="ie ie8 lte8 lte9" lang="vi" xmlns="http://www.w3.org/1999/xhtml"><![endif]-->
+<!--[if IE 9 ]><html class="ie ie9 lte9" lang="vi" xmlns="http://www.w3.osite.cssrg/1999/xhtml"><![endif]-->
+<!--[if (gt IE 9)|!(IE)]><!-->
+<html id="html" lang="vi" xmlns="http://www.w3.org/1999/xhtml">
+<!--<![endif]-->
+<head>
+    
+    <meta http-equiv="x-dns-prefetch-control" content="on">
+<link rel="dns-prefetch" href="//vcdn.dantri.com.vn"/>
+<link rel="dns-prefetch" href="//icdn.dantri.com.vn"/>
+<link rel="dns-prefetch" href="//cdnweb.dantri.com.vn"/>
+<link rel="dns-prefetch" href="//cdndulich.dantri.com.vn"/>
+<link rel="dns-prefetch" href="//cdnduhoc.dantri.com.vn"/>
+<link rel="dns-prefetch" href="//cdnmobile.dantri.com.vn"/>
+<link rel="dns-prefetch" href="//webapi.dantri.com.vn"/>
+<link rel="dns-prefetch" href="//captcha.dantri.com.vn"/>
+<link rel="dns-prefetch" href="//comment.dantri.com.vn"/>
+
+<link rel="dns-prefetch" href="//fonts.googleapis.com"/>
+<link rel="dns-prefetch" href="//cdn.jwplayer.com"/>
+<link rel="dns-prefetch" href="//www.googletagmanager.com"/>
+<link rel="dns-prefetch" href="//media1.admicro.vn"/>
+<link rel="dns-prefetch" href="//logsbin.dantri.com.vn"/>
+<link rel="dns-prefetch" href="//www.google-analytics.com"/>
+<link rel="dns-prefetch" href="//www.googletagmanager.com"/>
+
+
+
+<script>
+    window.wDataLayer = {"platform":"web","page_type":"cate","item_id":"null","cate_id":"36","tags":[],"cate_name":"","cate_list":"null","sub_cates":"null","isBlockedAds":0,"label":"Web","author_id":"null","published_date":"null"};
+</script>
+
+    <script async src="//logsbin.dantri.com.vn/scripts/web/dantri_com_vn.js"></script>
+
+    
+
+
+
+
+<title>Tin tức thế giới 24h - Kinh tế, An ninh quân sự thế giới | Báo Dân trí</title>
+<meta name="description" content="Tin tức thế giới tổng hợp - Phân tích tình hình an ninh, quân sự và kinh tế quốc tế. Cập nhật tin tức thế giới 24h qua, chân dung, hồ sơ nhân vật và sự kiện – Báo điện tử Dantri" />
+<meta name="keywords" content="Dân trí, dantri, Việt Nam, Vietnam, net, báo, điện tử, vn, express, news, online, báo mạng, trực tuyến, tin tức, sự kiện, mới, nóng, nhanh, hot, video, clip, thời sự, xã hội, đời sống, quốc tế, thế giới, blog, pháp luật, vụ án, lao động, việc làm, kinh tế, kinh doanh, thể thao, bóng đá, tennis, văn hóa, giải trí, showbiz, sao Việt, tình yêu, giới tính, gia đình, chuyện lạ, xe, teen, tư vấn, giao lưu, công nghệ, di động, du học, tuyển sinh, du lịch, nhân ái, từ thiện, iphone, youtube, Trung Quốc, Mỹ, biển Đông" />
+<meta name="title" content="Tin tức thế giới 24h - Kinh tế, An ninh quân sự thế giới" />
+<meta name="robots" content="index,follow,all">
+
+<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+
+<meta name="author" content="Dân Trí"/>
+<meta name="copyright" content="dantri.com.vn" />
+
+
+
+<!-- Schema.org markup for Google+ -->
+<meta name="google-site-verification" content="W60o5FIiNTC4qM0e14lVCrmQOH7MDm2jy50E3fvvTHs">
+<meta itemprop="name" content="Tin tức thế giới 24h - Kinh tế, An ninh quân sự thế giới">
+<meta itemprop="image" content="">
+<!-- Twitter Card data -->
+<meta name="twitter:card" content="article">
+<meta name="twitter:site" content="Báo điện tử Dân Trí">
+<meta name="twitter:title" content="Tin tức thế giới 24h - Kinh tế, An ninh quân sự thế giới">
+<meta name="twitter:description" content="Tin tức thế giới tổng hợp - Phân tích tình hình an ninh, quân sự và kinh tế quốc tế. Cập nhật tin tức thế giới 24h qua, chân dung, hồ sơ nhân vật và sự kiện – Báo điện tử Dantri">
+<meta name="twitter:creator" content="dantri.com.vn">
+<meta name="twitter:image" content="">
+<!-- Open Graph data -->
+<meta property="og:type" content="article" />
+<meta property="og:site_name" content="Báo điện tử Dân Trí" />
+<meta property="og:title" content="Tin tức thế giới 24h - Kinh tế, An ninh quân sự thế giới" />
+<meta property="og:url" content="https://dantri.com.vn/the-gioi.htm" />
+<meta property="og:image" content="" />
+<meta property="og:description" content="Tin tức thế giới tổng hợp - Phân tích tình hình an ninh, quân sự và kinh tế quốc tế. Cập nhật tin tức thế giới 24h qua, chân dung, hồ sơ nhân vật và sự kiện – Báo điện tử Dantri" />
+<meta property="og:locale" content="vi_VN" />
+<meta name="format-detection" content="telephone=no">
+<meta name="thumbnail" content="" />    
+
+
+<meta property="og:image:secure_url" content="" />
+
+
+<meta property="fb:app_id" content="164035690775918">
+
+<meta name="resource-type" content="Document">
+<meta name="distribution" content="Global">
+<meta property="fb:pages" content="345033318906366">
+<meta property="article:author" content="https://www.facebook.com/baodantridientu">
+<meta property="article:publisher" content="https://www.facebook.com/baodantridientu">
+<link href="/favicon.ico" type="image/x-icon" rel="shortcut icon" />
+
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+    <meta http-equiv="audience" content="General">
+    <meta http-equiv="content-language" content="vi" />
+        <meta http-equiv="REFRESH" content="1800">    
+    <meta name="revisit-after" content="1 days">
+        <link rel="canonical" href="https://dantri.com.vn/the-gioi.htm" />
+        <link rel="alternate" href="https://m.dantri.com.vn/the-gioi.htm" />
+
+    <link rel="stylesheet" type="text/css" href="https://cdnweb.dantri.com.vn/bundle/css/site.min.css?v=0415114907"/>
+    <script>var jsSettings={"ImageDomain":"https://icdn.dantri.com.vn","VideoDomain":"https://vcdn.dantri.com.vn","AudioDomain":"https://acdn.dantri.com.vn","CommentsDomain":"https://comment.dantri.com.vn","ApiComments":"https://apicomment.dantri.com.vn","DuLichDomain":"https://dulich.dantri.com.vn","TuyenSinhDomain":"https://tuyensinh.dantri.com.vn","DuHocDomain":"https://duhoc.dantri.com.vn","WebDomain":"https://dantri.com.vn","MobileDomain":"https://m.dantri.com.vn","CaptchaDomain":"https://captcha.dantri.com.vn","WebApi":"https://webapi.dantri.com.vn","AssertsDomain":"https://cdnweb.dantri.com.vn","ResourceDomains":["https://*.dantri.com.vn/**","http://*.dantri.com.vn/**"],"CurrentDomain":"https://dantri.com.vn","IsMobile":0,"UngHoDomain":"https://ungho.dantri.com.vn","FacebookAppId":"164035690775918","CommonCDN":"https://cdnasset.dantri.com.vn","IsAmp":0,"BlockedAds":false,"AppType":"Web","Version":"637225011676811823"};</script>
+
+    
+
+    <script>
+   
+        var _ADM_Channel = '%2Fhome%2F';
+        var currentDomain = "https://dantri.com.vn";
+    </script>
+    <script type="text/javascript">
+        var admicroAD = admicroAD || {};
+        admicroAD.unit = admicroAD.unit || [];
+    </script>
+    <script type="text/javascript">
+        var appSettings = {"domain":"https://dantri.com.vn","imageDomain":"https://dantri.com.vn","videoImageDomain":"","allowVietId":false,"allowFacebook":true,"urlExtension":".htm"};
+    </script>
+    <link rel="preload" href="https://fonts.googleapis.com/css?family=IBM+Plex+Serif|Noto+Serif|Lora|Roboto:400,400i,700,700i|Roboto+Condensed&display=swap&subset=vietnamese" as="style" />
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=IBM+Plex+Serif|Noto+Serif|Lora|Roboto:400,400i,700,700i|Roboto+Condensed&display=swap&subset=vietnamese"/>
+      
+    <script src="https://polyfill.io/v3/polyfill.min.js?features=String.prototype.trim%2CURL%2ClocalStorage%2Cfetch%2CIntersectionObserver"></script>
+
+<script>
+    if ('serviceWorker' in navigator) {
+        window.addEventListener('load', function () {
+            navigator.serviceWorker.register("/sw.js").then(function (registration) {
+                // Registration was successful
+                console.log('ServiceWorker registration successful with scope: ', registration.scope);
+                // resolve();
+            }, function (err) {
+                // registration failed :(
+                
+                console.error('ServiceWorker registration failed: ',err.message);
+            });
+        });
+    }
+</script>
+
+
+    <script src="https://cdnweb.dantri.com.vn/bundle/js/templates.js?v=637225011676811823"></script>
+
+<script type='text/javascript'  src='https://cdnweb.dantri.com.vn/bundle/js/layout.min.js?v=0415114907'></script>        <script type='text/javascript' src="https://cdnweb.dantri.com.vn/bundle/js/core.min.js?v=0415114907"></script>
+    
+
+
+    
+    
+
+    
+    <link rel="stylesheet" type="text/css" href="https://cdnweb.dantri.com.vn/css/meeting.css?v=5"> 
+    <link href="https://amp.dantri.com.vn/the-gioi.htm" rel="amphtml" />
+
+
+
+    <!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-132316672-2"></script>
+<script>
+    window.dataLayer = window.dataLayer || [];
+    function gtag(){dataLayer.push(arguments);}
+    gtag('js', new Date());
+
+    gtag('config', 'UA-132316672-2');
+</script>
+
+
+
+
+    <!-- Google Tag Manager -->
+    <script>
+        (function (w, d, s, l, i) {
+            w[l] = w[l] || [];
+            w[l].push({
+                'gtm.start':
+                    new Date().getTime(),
+                event: 'gtm.js'
+            });
+            var f = d.getElementsByTagName(s)[0],
+                j = d.createElement(s),
+                dl = l != 'dataLayer' ? '&l=' + l : '';
+            j.async = true;
+            j.src =
+                'https://www.googletagmanager.com/gtm.js?id=' + i + dl;
+            f.parentNode.insertBefore(j, f);
+        })(window, document, 'script', 'dataLayer', 'GTM-NKJWWZZ');
+    </script>
+    <!-- End Google Tag Manager -->
+
+
+
+</head>
+<body data-isrc="">
+    <!-- Google Tag Manager (noscript) -->
+    <noscript>
+        <iframe src="https://www.googletagmanager.com/ns.html?id=GTM-NKJWWZZ"
+                height="0" width="0" style="display:none;visibility:hidden"></iframe>
+    </noscript>
+    <!-- End Google Tag Manager (noscript) -->
+
+    
+
+
+
+<script type="text/javascript">
+    var _jsCbArr = [];
+    var jsCallback = {
+        push: function (name, body) {
+            _jsCbArr[name] = body;
+        },
+        exec: function (name, args) {
+            if (typeof _jsCbArr[name] == "function") {
+                try {
+                    _jsCbArr[name](args);
+                } catch (e) {
+                    return;
+                }
+            }
+        }
+    };
+
+    (function () {
+        try {
+            //check session on client
+            if (typeof (Storage) !== "undefined") {
+                var session = sessionStorage.getItem("VisitSession");
+                if (session == null) {
+                    //phien lam viec moi
+                    sessionStorage.setItem("VisitSession", "1");
+
+                    var hash = window.location.hash;
+                    if (hash == "#first") {
+                        //link được redirect từ bản mobile sang thì clear hash.
+                        window.history.replaceState("", "", window.location.href.split('#')[0]);
+                    } else {
+                        //nếu không phải link đá từ mobile thì remove cookie ở đây.
+                        var setCookie = function (a, c, f) {
+                            var e = new Date();
+                            e.setTime(e.getTime() + (f * 24 * 60 * 60 * 1000));
+                            var b = "expires=" + e.toUTCString();
+                            document.cookie = a + "=" + c + "; " + b;
+                        };
+                        setCookie("browser", "", -1);
+                        //reload lại trang để hệ thống chuyển về bản mobile.
+                        if (navigator.userAgent.match(
+                            /(iPhone|iPod|iPad|Android|BlackBerry|Windows Phone|webOS)/i) !=
+                            null) {
+                            window.location = window.location.href;
+                        }
+                    }
+                }
+            }
+        } catch (e) {
+            console.log("Lỗi check mobile redirect: " + e);
+        }
+    })();
+</script>
+<script type="text/javascript" class="lazy" data-original="https://apis.google.com/js/plusone.js"></script>
+
+
+<div class="header tet">
+    <div class="clearfix relative">
+            <div><a class="xlogo" title="Báo Dân trí – Thông tin mọi lúc, mọi nơi tới mọi người, mọi nhà" href="/">
+    <img src="https://cdnweb.dantri.com.vn/images/lg_dantri_dktop.svg?v=0406113108" alt="Báo Dân trí – Thông tin mọi lúc, mọi nơi tới mọi người, mọi nhà" />
+</a></div>
+        <div id="div_gdpda" class="div_gdpda">
+            <a rel="nofollow" href="/?removecookie=true">Giao diện PDA</a>
+        </div>
+        <div id="searchbox" class="searchbox hidden">
+            <div class="clearfix">
+                <div style="width:215px;height:22px;float:left;overflow:hidden;margin-left: 2px;">
+                    <p id="txtData" data-elementtype="searchtextv2" contenteditable="true" style="width:119px;display: block; white-space: nowrap;"></p>
+                </div>
+                <span class="btn" data-elementtype="searchbuttonv2">Tìm kiếm</span>
+            </div>
+        </div>
+        <div class="links">
+            <a title="Bất động sản" class="icon-bds" href="/bat-dong-san.htm">Bất động sản<img class="icon-newblink blink_me" src="https://cdnweb.dantri.com.vn/images/icon_new.gif"></a>
+            <a title="Khoa học công nghệ" class="icon-game" href="/khoa-hoc-cong-nghe.htm">Khoa học</a>
+            <a title="Blog" class="icon-ads" href="/blog.htm">Blog</a>
+            <a title="Du học" class="icon-duhoc" target="_blank" href="https://duhoc.dantri.com.vn">Du học</a>
+            <a title="Tuyển sinh" class="icon-tuyensinh" target="_blank" href="https://tuyensinh.dantri.com.vn">Tuyển sinh</a>
+            <a title="Fica" rel="nofollow" class="icon-tuanbao2" target="_blank" style="background: url('https://cdnweb.dantri.com.vn/images/icon_fica_new2.png') no-repeat;text-indent: 30px !important" href="http://fica.vn/">Fica</a>
+            <a title="Bạn đọc" class="icon-bandoc" href="/ban-doc.htm">Bạn đọc</a>
+            <a title="Báo in" class="icon-bussiness" target="_blank" rel="nofollow" style="background: url('https://cdnweb.dantri.com.vn/images/icon_bao-in2.png') no-repeat; text-indent: 45px;" href="http://dtinews.vn/bao-in/dan-tri.pdf">Báo in</a>
+            <a title="Nhân ái" class="icon-humane2" href="/tam-long-nhan-ai.htm">Nhân ái</a><a title="Đời sống" class="icon-giaitri" href="/doi-song.htm">Đời sống</a>
+            <a title="Chuyện lạ" class="icon-chuyenla" href="/chuyen-la.htm">Chuyện lạ</a>
+            <a title="English" class="icon-tienganh" target="_blank" href="http://www.dtinews.vn">English</a>
+        </div>
+
+    </div>
+</div>
+<script type="text/lazyscript">
+
+        var editableDiv = document.getElementById('txtData');
+    function handlepaste (e) {
+        var types, pastedData, savedContent;
+
+        // Browsers that support the 'text/html' type in the Clipboard API (Chrome, Firefox 22+)
+        if (e && e.clipboardData && e.clipboardData.types && e.clipboardData.getData) {
+
+            // Check for 'text/html' in types list. See abligh's answer below for deatils on
+            // why the DOMStringList bit is needed. We cannot fall back to 'text/plain' as
+            // Safari/Edge don't advertise HTML data even if it is available
+            types = e.clipboardData.types;
+            if (((types instanceof DOMStringList) && types.contains("text/html")) || (types.indexOf && types.indexOf('text/html') !== -1)) {
+
+                // Extract data and pass it to callback
+                pastedData = e.clipboardData.getData('text/html');
+                processPaste(editableDiv, pastedData);
+
+                // Stop the data from actually being pasted
+                e.stopPropagation();
+                e.preventDefault();
+                return false;
+            }
+        }
+
+        // Everything else: Move existing element contents to a DocumentFragment for safekeeping
+        savedContent = document.createDocumentFragment();
+        while(editableDiv.childNodes.length > 0) {
+            savedContent.appendChild(editableDiv.childNodes[0]);
+        }
+
+        // Then wait for browser to paste content into it and cleanup
+        waitForPastedData(editableDiv, savedContent);
+        return true;
+    }
+
+    function waitForPastedData (elem, savedContent) {
+
+        // If data has been processes by browser, process it
+        if (elem.childNodes && elem.childNodes.length > 0) {
+
+            // Retrieve pasted content via innerHTML
+            // (Alternatively loop through elem.childNodes or elem.getElementsByTagName here)
+            var pastedData = elem.innerHTML;
+
+            // Restore saved content
+            elem.innerHTML = "";
+            elem.appendChild(savedContent);
+
+            // Call callback
+            processPaste(elem, pastedData);
+        }
+
+        // Else wait 20ms and try again
+        else {
+            setTimeout(function () {
+                waitForPastedData(elem, savedContent)
+            }, 20);
+        }
+    }
+
+    function processPaste (elem, pastedData) {
+        // Do whatever with gathered data;
+        //alert(pastedData);
+        var filteredText=convertHtmlToText(pastedData);
+        console.log(filteredText);
+        var a=filteredText.replace(/\s\s+/g, ' ');
+        console.log(a);
+        editableDiv.innerText=a;
+        elem.focus();
+    }
+
+    // Modern browsers. Note: 3rd argument is required for Firefox <= 6
+    if (editableDiv.addEventListener) {
+        editableDiv.addEventListener('paste', handlepaste, false);
+    }
+    // IE <= 8
+    else {
+        editableDiv.attachEvent('onpaste', handlepaste);
+    }
+
+        $('[data-elementtype=searchbuttonv2]').click(function () {
+            var strSearch = $('[data-elementtype=searchtextv2]').text();//$('[data-elementtype=searchtextv2]').val();
+            strSearch=convertHtmlToText(strSearch);
+            strSearch = encodeURIComponent(strSearch);
+            if (strSearch != '') {
+                var url = String.format("/tim-kiem.htm?keywords={0}", strSearch);
+                if (document.all) {
+                    window.location.href = url;
+                } else {
+                    document.location.href = url;
+                }
+            } else {
+                $('[data-elementtype=searchtextv2]').focus();
+            }
+            return false;
+        });
+
+        $('[data-elementtype=searchtextv2]').keypress(function (event) {
+            var key;
+            if (window.event) {
+                key = window.event.keyCode;
+            } else {
+                key = event.which;
+            }
+            if (key == 13) {
+                $('[data-elementtype=searchbuttonv2]').click();
+                return false;
+            }
+        });
+        $("#searchbox").removeClass('hidden').show();
+</script>
+    <div class="top-ads clearfix">
+        <div class=" mgauto wid980">
+<div id="admzone221" is-ads-ungthu="false"></div>
+        </div>
+    </div>
+
+
+<div class="nav-wrap">
+    <div class="clearfix">
+        <div class="mgauto wid1004">
+            <ul class="nav">
+                <li class="menu-home"><a title="Trang chủ" href="/"><span><b></b></span></a></li>
+                <li><a title="Video" href="/video-page.htm"><span>Video</span></a></li>
+                <li><a title="Sự kiện" href="/su-kien.htm"><span>Sự kiện</span></a></li>
+                <li><a title="Xã hội" href="/xa-hoi.htm"><span>Xã hội</span></a></li>
+                <li><a title="Thế giới" href="/the-gioi.htm"><span>Thế giới</span></a></li>
+                <li><a title="Thể thao" href="/the-thao.htm"><span>Thể thao</span></a></li>
+                <li><a title="Giáo dục" href="/giao-duc-khuyen-hoc.htm"><span>Giáo dục</span></a> </li>
+                <li><a title="Tấm lòng nhân ái" href="/tam-long-nhan-ai.htm"><span>Nhân ái</span></a></li>
+                <li><a title="Kinh doanh" href="/kinh-doanh.htm"><span>Kinh doanh</span></a></li>
+                <li><a title="Bất động sản" href="/bat-dong-san.htm"><span>Bất động sản</span></a></li>
+                <li><a title="Văn hóa" href="/van-hoa.htm"><span>Văn hóa</span></a></li>
+                <li><a title="Giải trí" href="/giai-tri.htm"><span>Giải trí</span></a></li>
+                <li><a title="Du lịch" target="_blank" href="https://dulich.dantri.com.vn"><span>Du lịch</span></a></li>
+                <li><a title="Pháp luật" href="/phap-luat.htm"><span>Pháp luật</span></a></li>
+                <li><a title="Nhịp sống trẻ" href="/nhip-song-tre.htm"><span>Nhịp sống trẻ</span></a></li>
+                <li><a title="Sức khỏe" href="/suc-khoe.htm"><span>Sức khỏe</span></a></li>
+                <li><a title="Sức mạnh số" href="/suc-manh-so.htm"><span>Sức mạnh số</span></a></li>
+                <li><a title="Ô tô - xe máy" href="/o-to-xe-may.htm"><span>Xe++</span></a></li>
+                <li><a title="Tình yêu giới tính" href="/tinh-yeu-gioi-tinh.htm"><span>Tình yêu</span></a></li>
+                
+            </ul>
+        </div>
+    </div>
+    
+    <div class="subnav relative">
+        <ul class="clearfix" id="ul_submenu">
+                    <li>
+                        <a data-cate="140" title="Châu Á" href="/the-gioi/chau-a.htm">Châu Á</a>
+                    </li>
+                    <li>
+                        <a data-cate="138" title="EU &amp; Nga" href="/the-gioi/eu-nga.htm">EU & Nga</a>
+                    </li>
+                    <li>
+                        <a data-cate="171" title="Châu Mỹ" href="/the-gioi/chau-my.htm">Châu Mỹ</a>
+                    </li>
+                    <li>
+                        <a data-cate="172" title="Điểm nóng" href="/the-gioi/diem-nong.htm">Điểm nóng</a>
+                    </li>
+                    <li>
+                        <a data-cate="230" title="Tư liệu" href="/the-gioi/tu-lieu.htm">Tư liệu</a>
+                    </li>
+                    <li>
+                        <a data-cate="251" title="Kiều bào" href="/the-gioi/kieu-bao.htm">Kiều bào</a>
+                    </li>
+        </ul>
+        <div class="hidden">
+        </div>
+        <div class="subSideBtn">
+            <div class="submenu-btnside">
+                <a title="Bạn đọc" href="/dien-dan.htm">Diễn đàn</a>
+            </div>
+            <div class="submenu-btnside">
+                <a title="Việc làm" href="/viec-lam.htm">Việc làm</a>
+            </div>
+        </div>
+        <div class="top-rss-wrapper">
+            <a title="Rss" class="icon-rss2" ref="nofollow" href="/the-gioi.rss"></a>
+        </div>
+    </div>
+</div>
+    <div class="event-by-zone">
+        <div class="e-container">
+            <ul class="clearfix">
+                <li class="active"><a class="event" href="/event.htm"></a></li>
+                    <li>
+                        <a title="Virus corona hoành hành khắp thế giới" href="/event/virus-corona-hoanh-hanh-khap-the-gioi-3826.htm">Virus corona hoành hành khắp thế giới</a>
+                    </li>
+                    <li>
+                        <a title="Bầu cử sơ bộ tại Mỹ" href="/event/bau-cu-so-bo-tai-my-3822.htm">Bầu cử sơ bộ tại Mỹ</a>
+                    </li>
+                    <li>
+                        <a title="Thương chiến Mỹ - Trung" href="/event/thuong-chien-my-trung-3676.htm">Thương chiến Mỹ - Trung</a>
+                    </li>
+                    <li>
+                        <a title="Vợ chồng Hoàng tử Harry rút lui khỏi hoàng gia Anh" href="/event/vo-hong-hoang-tu-harry-rut-lui-khoi-hoang-gia-anh-3800.htm">Vợ chồng Hoàng tử Harry rút lui khỏi hoàng gia Anh</a>
+                    </li>
+                    <li>
+                        <a title="Tổng thống Trump bị luận tội" href="/event/tong-thong-trump-bi-dieu-tra-luan-toi-3735.htm">Tổng thống Trump bị luận tội</a>
+                    </li>
+                    <li>
+                        <a title="Iran thừa nhận bắn nhầm máy bay Ukraine" href="/event/may-bay-cho-176-nguoi-roi-o-iran-3798.htm">Iran thừa nhận bắn nhầm máy bay Ukraine</a>
+                    </li>
+                    <li>
+                        <a title="Tướng Iran thiệt mạng tại Iraq" href="/event/tuong-iran-thiet-mang-tai-iraq-3788.htm">Tướng Iran thiệt mạng tại Iraq</a>
+                    </li>
+                    <li>
+                        <a title="39 người chết trong thùng xe tải ở Anh" href="/event/39-nguoi-chet-trong-thung-xe-tai-o-anh-3754.htm">39 người chết trong thùng xe tải ở Anh</a>
+                    </li>
+                    <li>
+                        <a title="Căng thẳng Mỹ-Iran leo thang đáng báo động" href="/event/cang-thang-my-iran-leo-thang-dang-bao-dong-3675.htm">Căng thẳng Mỹ-Iran leo thang đáng báo động</a>
+                    </li>
+                    <li>
+                        <a title="8 vụ tấn công khủng bố đẫm máu tại Sri Lanka" href="/event/8-vu-tan-cong-khung-bo-dam-mau-tai-sri-lanka-3648.htm">8 vụ tấn công khủng bố đẫm máu tại Sri Lanka</a>
+                    </li>
+            </ul>
+            <div class="fr">
+            </div>
+        </div>
+    </div>
+
+<input type="hidden" name="hidCategoryPath" id="hidCategoryPath" value="/the-gioi" />
+<input type="hidden" name="hidCurrentDate" id="hidCurrentDate" value=" 4/15/2020 3:33:37 PM" />
+
+<style>
+    .subnav ul li {
+        padding-right: 8px;
+    }
+</style>
+
+<div dt-slot="video-9-36"></div>
+<div class="wrapper ">
+    <div class="container">
+
+        <div class="clearfix" same-height>
+            <div class="fl wid470">
+
+                <div class="clearfix" id="listcheckepl">
+                    
+
+
+        <div data-boxtype="zonenewsposition" class="mt3 clearfix">
+            <a title="Ba gia đình Trung Quốc lây Covid-19 nghi vì máy điều hòa trong nhà hàng" href="/the-gioi/ba-gia-dinh-trung-quoc-lay-covid-19-nghi-vi-may-dieu-hoa-trong-nha-hang-20200415150324562.htm">
+                <img title="Ba gia đình Trung Quốc lây Covid-19 nghi vì máy điều hòa trong nhà hàng" alt="Ba gia đình Trung Quốc lây Covid-19 nghi vì máy điều hòa trong nhà hàng" class="img195" src="https://icdn.dantri.com.vn/zoom/390_300//2020/04/15/335-b-46587-eb-811-ea-873698-edddd-9-b-5-caimagehires-152243-1586937535486.jpg" />
+            </a>
+            <div class="mr1">
+                <h2>
+                    <a title="Ba gia đình Trung Quốc lây Covid-19 nghi vì máy điều hòa trong nhà hàng" class="fon44" data-newstype="0" data-linktype="newsdetail" data-id="20200415150324562" href="/the-gioi/ba-gia-dinh-trung-quoc-lay-covid-19-nghi-vi-may-dieu-hoa-trong-nha-hang-20200415150324562.htm">Ba gia đình Trung Quốc lây Covid-19 nghi vì máy điều hòa trong nhà hàng</a>
+                </h2>
+                <div class="fon5 wid255 fl">
+                    <span>(Dân trí)</span>&nbsp;- Một nghiên cứu về 10 ca Covid-19 từ 3 gia đình Trung Quốc cùng dùng bữa trong 1 nhà hàng đặt ra nghi vấn rằng điều hòa không khí đã góp phần khiến mầm bệnh lây lan.
+                    
+                        <div>
+                            <b>&gt;&gt;&nbsp;</b>
+                            <a title="Video cho thấy sức phát tán của virus corona sau một cơn ho trong siêu thị" href="/the-gioi/video-cho-thay-suc-phat-tan-cua-virus-corona-sau-mot-con-ho-trong-sieu-thi-20200410144958841.htm">
+                                <b> Video cho thấy sức phát tán của virus corona sau một cơn ho trong siêu thị</b>
+                            </a>
+                        </div>
+                        <div>
+                            <b>&gt;&gt;&nbsp;</b>
+                            <a title="Nghiên cứu: Virus corona vẫn sống sót ở nhiệt độ 60°C" href="/the-gioi/nghien-cuu-virus-corona-van-song-sot-o-nhiet-do-60-c-20200414165646003.htm">
+                                <b> Nghiên cứu: Virus corona vẫn sống sót ở nhiệt độ 60°C</b>
+                            </a>
+                        </div>
+                </div>
+                <a class="icon-detail fon7" href="/the-gioi/ba-gia-dinh-trung-quoc-lay-covid-19-nghi-vi-may-dieu-hoa-trong-nha-hang-20200415150324562.htm">Xem tiếp</a>
+            </div>
+        </div>
+        <div class="line1 mt1 mgt10">
+        </div>
+        <div data-boxtype="timelineposition" data-posid="20200415153326731" data-locked="false" class="mt3 clearfix eplcheck">
+            <a title="Ông Obama công khai ủng hộ Joe Biden, ngầm chỉ trích chính quyền Trump" href="/the-gioi/ong-obama-cong-khai-ung-ho-joe-biden-ngam-chi-trich-chinh-quyen-trump-20200415153326731.htm">
+               
+                <img title="Ông Obama công khai ủng hộ Joe Biden, ngầm chỉ trích chính quyền Trump" alt="Ông Obama công khai ủng hộ Joe Biden, ngầm chỉ trích chính quyền Trump" class="img130" src="https://icdn.dantri.com.vn/zoom/260_200//2020/04/15/biden-1586938515628.jpg" />
+            </a>
+            <div class="mr1" data-id="20200415153326731">
+                <h2><a title="Ông Obama công khai ủng hộ Joe Biden, ngầm chỉ trích chính quyền Trump" class="fon6" data-newstype="0" data-linktype="newsdetail" data-id="20200415153326731" href="/the-gioi/ong-obama-cong-khai-ung-ho-joe-biden-ngam-chi-trich-chinh-quyen-trump-20200415153326731.htm">Ông Obama công khai ủng hộ Joe Biden, ngầm chỉ trích chính quyền Trump</a></h2>
+                <div class="fon5 wid324 fl">
+                    <span>(Dân trí)</span>&nbsp;- Cựu Tổng thống Mỹ Barrack Obama đã ngầm chỉ trích chính truyền Trump khi tuyên bố ủng hộ ứng viên tổng thống Joe Biden trong cuộc đua vào Nhà Trắng.
+                        <h3 class="h3relate">
+                            <b>&gt;&gt;&nbsp;</b>
+                            <a title="Donald Trump - Joe Biden: &quot;Cuộc chiến&quot; sẽ rất cam go" href="/the-gioi/donald-trump-joe-biden-cuoc-chien-se-rat-cam-go-20200410145008943.htm">
+                                  <b> Donald Trump - Joe Biden: "Cuộc chiến" sẽ rất cam go</b>
+                            </a>
+                        </h3>
+                        <h3 class="h3relate">
+                            <b>&gt;&gt;&nbsp;</b>
+                            <a title="Ông Biden được &quot;tiếp sức&quot; trong cuộc đối đầu với Tổng thống Trump" href="/the-gioi/ong-biden-duoc-tiep-suc-trong-cuoc-doi-dau-voi-tong-thong-trump-20200414093314450.htm">
+                                  <b> Ông Biden được "tiếp sức" trong cuộc đối đầu với Tổng thống Trump</b>
+                            </a>
+                        </h3>
+                        <h3 class="h3relate">
+                            <b>&gt;&gt;&nbsp;</b>
+                            <a title="Ông Sanders dừng cuộc đua vào Nhà Trắng, ông Biden sẽ đối đầu Donald Trump" href="/the-gioi/ong-sanders-dung-cuoc-dua-vao-nha-trang-ong-biden-se-doi-dau-donald-trump-20200408230821255.htm">
+                                  <b> Ông Sanders dừng cuộc đua vào Nhà Trắng, ông Biden sẽ đối đầu Donald Trump</b>
+                            </a>
+                        </h3>
+                </div>
+                <a rel="nofollow" class="icon-detail fon7" href="/the-gioi/ong-obama-cong-khai-ung-ho-joe-biden-ngam-chi-trich-chinh-quyen-trump-20200415153326731.htm">Xem tiếp</a>
+            </div>
+        </div>
+        <div class="line1 mt1"> </div>
+        <div data-boxtype="timelineposition" data-posid="20200415145839312" data-locked="false" class="mt3 clearfix eplcheck">
+            <a title="Ca tử vong đầu tiên nghi do lây nhiễm Covid-19 từ thi thể" href="/the-gioi/ca-tu-vong-dau-tien-nghi-do-lay-nhiem-covid-19-tu-thi-the-20200415145839312.htm">
+               
+                <img title="Ca tử vong đầu tiên nghi do lây nhiễm Covid-19 từ thi thể" alt="Ca tử vong đầu tiên nghi do lây nhiễm Covid-19 từ thi thể" class="img130" src="https://icdn.dantri.com.vn/zoom/260_200//2020/04/15/5-e-95788-b-0-b-3-c-9-b-37382-ae-1-d-3-1586937402888.jpg" />
+            </a>
+            <div class="mr1" data-id="20200415145839312">
+                <h2><a title="Ca tử vong đầu tiên nghi do lây nhiễm Covid-19 từ thi thể" class="fon6" data-newstype="0" data-linktype="newsdetail" data-id="20200415145839312" href="/the-gioi/ca-tu-vong-dau-tien-nghi-do-lay-nhiem-covid-19-tu-thi-the-20200415145839312.htm">Ca tử vong đầu tiên nghi do lây nhiễm Covid-19 từ thi thể</a></h2>
+                <div class="fon5 wid324 fl">
+                    <span>(Dân trí)</span>&nbsp;- Các nhà khoa học Thái Lan được cho là đã phát hiện ca tử vong đầu tiên vì Covid-19 sau khi nạn nhân tiếp xúc với thi thể người chết.
+                        <h3 class="h3relate">
+                            <b>&gt;&gt;&nbsp;</b>
+                            <a title="Thi thể nằm chồng chất tại bệnh viện Mỹ" href="/the-gioi/thi-the-nam-chong-chat-tai-benh-vien-my-20200414164842817.htm">
+                                  <b> Thi thể nằm chồng chất tại bệnh viện Mỹ</b>
+                            </a>
+                        </h3>
+                        <h3 class="h3relate">
+                            <b>&gt;&gt;&nbsp;</b>
+                            <a title="New York ráo riết xử lý hơn 9.000 thi thể Covid-19" href="/the-gioi/new-york-rao-riet-xu-ly-hon-9000-thi-the-covid-19-20200413143023080.htm">
+                                  <b> New York ráo riết xử lý hơn 9.000 thi thể Covid-19</b>
+                            </a>
+                        </h3>
+                        <h3 class="h3relate">
+                            <b>&gt;&gt;&nbsp;</b>
+                            <a title="Thi thể ồ ạt đổ về, nhà tang lễ New York “quay cuồng” xử lý" href="/the-gioi/thi-the-o-at-do-ve-nha-tang-le-new-york-quay-cuong-xu-ly-20200407190128774.htm">
+                                  <b> Thi thể ồ ạt đổ về, nhà tang lễ New York “quay cuồng” xử lý</b>
+                            </a>
+                        </h3>
+                </div>
+                <a rel="nofollow" class="icon-detail fon7" href="/the-gioi/ca-tu-vong-dau-tien-nghi-do-lay-nhiem-covid-19-tu-thi-the-20200415145839312.htm">Xem tiếp</a>
+            </div>
+        </div>
+        <div class="line1 mt1"> </div>
+        <div data-boxtype="timelineposition" data-posid="20200415120719898" data-locked="false" class="mt3 clearfix eplcheck">
+            <a title="Mỹ đánh giá cao chiến dịch chống Covid-19 của Việt Nam" href="/the-gioi/my-danh-gia-cao-chien-dich-chong-covid-19-cua-viet-nam-20200415120719898.htm">
+               
+                <img title="Mỹ đánh giá cao chiến dịch chống Covid-19 của Việt Nam" alt="Mỹ đánh giá cao chiến dịch chống Covid-19 của Việt Nam" class="img130" src="https://icdn.dantri.com.vn/zoom/260_200//2020/04/15/182633060704-d-470-c-1-d-55-b-1586926794253.jpeg" />
+            </a>
+            <div class="mr1" data-id="20200415120719898">
+                <h2><a title="Mỹ đánh giá cao chiến dịch chống Covid-19 của Việt Nam" class="fon6" data-newstype="0" data-linktype="newsdetail" data-id="20200415120719898" href="/the-gioi/my-danh-gia-cao-chien-dich-chong-covid-19-cua-viet-nam-20200415120719898.htm">Mỹ đánh giá cao chiến dịch chống Covid-19 của Việt Nam</a></h2>
+                <div class="fon5 wid324 fl">
+                    <span>(Dân trí)</span>&nbsp;- Đại diện trung tâm Kiểm soát và Phòng chống Dịch bệnh Mỹ (CDC) đánh giá cao chiến dịch chống dịch Covid-19 của Việt Nam, nhấn mạnh Việt Nam sở hữu hệ thống y tế cộng đồng mạnh.
+                        <h3 class="h3relate">
+                            <b>&gt;&gt;&nbsp;</b>
+                            <a title="Ông Trump cảm ơn Việt Nam vì hỗ trợ chuyển giao 450.000 bộ đồ bảo hộ y tế" href="/the-gioi/ong-trump-cam-on-viet-nam-vi-ho-tro-chuyen-giao-450000-bo-do-bao-ho-y-te-20200409075233793.htm">
+                                  <b> Ông Trump cảm ơn Việt Nam vì hỗ trợ chuyển giao 450.000 bộ đồ bảo hộ y tế</b>
+                            </a>
+                        </h3>
+                        <h3 class="h3relate">
+                            <b>&gt;&gt;&nbsp;</b>
+                            <a title="Việt - Mỹ có thể đẩy mạnh hợp tác sản xuất trang thiết bị y tế, máy thở" href="/the-gioi/viet-my-co-the-day-manh-hop-tac-san-xuat-trang-thiet-bi-y-te-may-tho-20200415105706081.htm">
+                                  <b> Việt - Mỹ có thể đẩy mạnh hợp tác sản xuất trang thiết bị y tế, máy thở</b>
+                            </a>
+                        </h3>
+                        <h3 class="h3relate">
+                            <b>&gt;&gt;&nbsp;</b>
+                            <a title="Đại sứ Mỹ cảm ơn những người Việt ở tuyến đầu chống dịch Covid-19" href="/the-gioi/dai-su-my-cam-on-nhung-nguoi-viet-o-tuyen-dau-chong-dich-covid-19-20200331164242701.htm">
+                                  <b> Đại sứ Mỹ cảm ơn những người Việt ở tuyến đầu chống dịch Covid-19</b>
+                            </a>
+                        </h3>
+                </div>
+                <a rel="nofollow" class="icon-detail fon7" href="/the-gioi/my-danh-gia-cao-chien-dich-chong-covid-19-cua-viet-nam-20200415120719898.htm">Xem tiếp</a>
+            </div>
+        </div>
+        <div class="line1 mt1"> </div>
+        <div data-boxtype="timelineposition" data-posid="20200415115018367" data-locked="false" class="mt3 clearfix eplcheck">
+            <a title="Lý do khiến New York có thêm gần 4.000 người chết vì Covid-19 sau một đêm" href="/the-gioi/ly-do-khien-new-york-co-them-gan-4000-nguoi-chet-vi-covid-19-sau-mot-dem-20200415115018367.htm">
+               
+                <img title="Lý do khiến New York có thêm gần 4.000 người chết vì Covid-19 sau một đêm" alt="Lý do khiến New York có thêm gần 4.000 người chết vì Covid-19 sau một đêm" class="img130" src="https://icdn.dantri.com.vn/zoom/260_200//2020/04/15/nyc-1586926068324.jpg" />
+            </a>
+            <div class="mr1" data-id="20200415115018367">
+                <h2><a title="Lý do khiến New York có thêm gần 4.000 người chết vì Covid-19 sau một đêm" class="fon6" data-newstype="0" data-linktype="newsdetail" data-id="20200415115018367" href="/the-gioi/ly-do-khien-new-york-co-them-gan-4000-nguoi-chet-vi-covid-19-sau-mot-dem-20200415115018367.htm">Lý do khiến New York có thêm gần 4.000 người chết vì Covid-19 sau một đêm</a></h2>
+                <div class="fon5 wid324 fl">
+                    <span>(Dân trí)</span>&nbsp;- Số người chết vì Covid-19 ở thành phố New York, nơi bị ảnh hưởng nặng nề nhất bởi dịch viêm phổi cấp hiện nay tại Mỹ, đã vượt 10.000 người tính đến ngày 14/4.
+                        <h3 class="h3relate">
+                            <b>&gt;&gt;&nbsp;</b>
+                            <a title="Thống đốc New York tuyên bố kháng lệnh, ông Trump đáp trả ẩn ý" href="/the-gioi/thong-doc-new-york-tuyen-bo-khang-lenh-ong-trump-dap-tra-an-y-20200415060532661.htm">
+                                  <b> Thống đốc New York tuyên bố kháng lệnh, ông Trump đáp trả ẩn ý</b>
+                            </a>
+                        </h3>
+                        <h3 class="h3relate">
+                            <b>&gt;&gt;&nbsp;</b>
+                            <a title="New York ráo riết xử lý hơn 9.000 thi thể Covid-19" href="/the-gioi/new-york-rao-riet-xu-ly-hon-9000-thi-the-covid-19-20200413143023080.htm">
+                                  <b> New York ráo riết xử lý hơn 9.000 thi thể Covid-19</b>
+                            </a>
+                        </h3>
+                        <h3 class="h3relate">
+                            <b>&gt;&gt;&nbsp;</b>
+                            <a title="Thị trưởng New York lên tiếng về đảo chôn tập thể giữa dịch Covid-19" href="/the-gioi/thi-truong-new-york-len-tieng-ve-dao-chon-tap-the-giua-dich-covid-19-20200411094404341.htm">
+                                  <b> Thị trưởng New York lên tiếng về đảo chôn tập thể giữa dịch Covid-19</b>
+                            </a>
+                        </h3>
+                </div>
+                <a rel="nofollow" class="icon-detail fon7" href="/the-gioi/ly-do-khien-new-york-co-them-gan-4000-nguoi-chet-vi-covid-19-sau-mot-dem-20200415115018367.htm">Xem tiếp</a>
+            </div>
+        </div>
+        <div class="line1 mt1"> </div>
+        <div data-boxtype="timelineposition" data-posid="20200415105954774" data-locked="false" class="mt3 clearfix eplcheck">
+            <a title="Ông Trump nói về ngày “đáng sợ nhất” trong cuộc đời" href="/the-gioi/ong-trump-noi-ve-ngay-dang-so-nhat-trong-cuoc-doi-20200415105954774.htm">
+               
+                <img title="Ông Trump nói về ngày “đáng sợ nhất” trong cuộc đời" alt="Ông Trump nói về ngày “đáng sợ nhất” trong cuộc đời" class="img130" src="https://icdn.dantri.com.vn/zoom/260_200//2020/04/15/whitehousecoronavirusbriefing-04-rtrjc-200414-hpmain-16-x-99921586922481368-1586925041453.jpg" />
+            </a>
+            <div class="mr1" data-id="20200415105954774">
+                <h2><a title="Ông Trump nói về ngày “đáng sợ nhất” trong cuộc đời" class="fon6" data-newstype="0" data-linktype="newsdetail" data-id="20200415105954774" href="/the-gioi/ong-trump-noi-ve-ngay-dang-so-nhat-trong-cuoc-doi-20200415105954774.htm">Ông Trump nói về ngày “đáng sợ nhất” trong cuộc đời</a></h2>
+                <div class="fon5 wid324 fl">
+                    <span>(Dân trí)</span>&nbsp;- Tổng thống Mỹ Donald Trump cho biết ngày mà ông cảm thấy “đáng sợ nhất” trong đời là khi ông phát hiện ra Mỹ có thể không có đủ máy thở để chống lại đại dịch Covid-19.
+                        <h3 class="h3relate">
+                            <b>&gt;&gt;&nbsp;</b>
+                            <a title="Tổng thống Trump tuyên bố dừng tài trợ cho WHO vì cách xử lý dịch Covid-19" href="/the-gioi/tong-thong-trump-tuyen-bo-dung-tai-tro-cho-who-vi-cach-xu-ly-dich-covid-19-20200415070051808.htm">
+                                  <b> Tổng thống Trump tuyên bố dừng tài trợ cho WHO vì cách xử lý dịch Covid-19</b>
+                            </a>
+                        </h3>
+                        <h3 class="h3relate">
+                            <b>&gt;&gt;&nbsp;</b>
+                            <a title="Ông Trump bị chỉ trích vì &quot;lồng ghép&quot; tranh cử vào họp báo Covid-19" href="/the-gioi/ong-trump-bi-chi-trich-vi-long-ghep-tranh-cu-vao-hop-bao-covid-19-20200414111435325.htm">
+                                  <b> Ông Trump bị chỉ trích vì "lồng ghép" tranh cử vào họp báo Covid-19</b>
+                            </a>
+                        </h3>
+                        <h3 class="h3relate">
+                            <b>&gt;&gt;&nbsp;</b>
+                            <a title="3 tuần chậm trễ đối phó Covid-19 của chính quyền Tổng thống Trump" href="/the-gioi/3-tuan-cham-tre-doi-pho-covid-19-cua-chinh-quyen-tong-thong-trump-20200413090945007.htm">
+                                  <b> 3 tuần chậm trễ đối phó Covid-19 của chính quyền Tổng thống Trump</b>
+                            </a>
+                        </h3>
+                </div>
+                <a rel="nofollow" class="icon-detail fon7" href="/the-gioi/ong-trump-noi-ve-ngay-dang-so-nhat-trong-cuoc-doi-20200415105954774.htm">Xem tiếp</a>
+            </div>
+        </div>
+        <div class="line1 mt1"> </div>
+        <div data-boxtype="timelineposition" data-posid="20200415105706081" data-locked="false" class="mt3 clearfix eplcheck">
+            <a title="Việt - Mỹ có thể đẩy mạnh hợp tác sản xuất trang thiết bị y tế, máy thở" href="/the-gioi/viet-my-co-the-day-manh-hop-tac-san-xuat-trang-thiet-bi-y-te-may-tho-20200415105706081.htm">
+               
+                <img title="Việt - Mỹ có thể đẩy mạnh hợp tác sản xuất trang thiết bị y tế, máy thở" alt="Việt - Mỹ có thể đẩy mạnh hợp tác sản xuất trang thiết bị y tế, máy thở" class="img130" src="https://icdn.dantri.com.vn/zoom/260_200//2020/04/15/anh-chup-man-hinh-cuoc-trao-doi-01-1586922385682.png" />
+            </a>
+            <div class="mr1" data-id="20200415105706081">
+                <h2><a title="Việt - Mỹ có thể đẩy mạnh hợp tác sản xuất trang thiết bị y tế, máy thở" class="fon6" data-newstype="0" data-linktype="newsdetail" data-id="20200415105706081" href="/the-gioi/viet-my-co-the-day-manh-hop-tac-san-xuat-trang-thiet-bi-y-te-may-tho-20200415105706081.htm">Việt - Mỹ có thể đẩy mạnh hợp tác sản xuất trang thiết bị y tế, máy thở</a></h2>
+                <div class="fon5 wid324 fl">
+                    <span>(Dân trí)</span>&nbsp;- Đại sứ Việt Nam tại Mỹ đã đề nghị các tập đoàn lớn của Mỹ đẩy mạnh hợp tác với Việt Nam trong sản xuất các trang thiết bị y tế, nhất là máy thở, để chống lại đại dịch Covid-19.
+                        <h3 class="h3relate">
+                            <b>&gt;&gt;&nbsp;</b>
+                            <a title="Ông Trump cảm ơn Việt Nam vì hỗ trợ chuyển giao 450.000 bộ đồ bảo hộ y tế" href="/the-gioi/ong-trump-cam-on-viet-nam-vi-ho-tro-chuyen-giao-450000-bo-do-bao-ho-y-te-20200409075233793.htm">
+                                  <b> Ông Trump cảm ơn Việt Nam vì hỗ trợ chuyển giao 450.000 bộ đồ bảo hộ y tế</b>
+                            </a>
+                        </h3>
+                        <h3 class="h3relate">
+                            <b>&gt;&gt;&nbsp;</b>
+                            <a title="Nghị sĩ Mỹ cảm ơn Việt Nam vì hỗ trợ chuyển giao 450.000 bộ đồ bảo hộ y tế" href="/the-gioi/nghi-si-my-cam-on-viet-nam-vi-ho-tro-chuyen-giao-450000-bo-do-bao-ho-y-te-20200410203556988.htm">
+                                  <b> Nghị sĩ Mỹ cảm ơn Việt Nam vì hỗ trợ chuyển giao 450.000 bộ đồ bảo hộ y tế</b>
+                            </a>
+                        </h3>
+                        <h3 class="h3relate">
+                            <b>&gt;&gt;&nbsp;</b>
+                            <a title="Báo Mỹ: Việt Nam là tấm gương về ứng phó hiệu quả với dịch Covid-19" href="/the-gioi/bao-my-viet-nam-la-tam-guong-ve-ung-pho-hieu-qua-voi-dich-covid-19-20200410161125365.htm">
+                                  <b> Báo Mỹ: Việt Nam là tấm gương về ứng phó hiệu quả với dịch Covid-19</b>
+                            </a>
+                        </h3>
+                </div>
+                <a rel="nofollow" class="icon-detail fon7" href="/the-gioi/viet-my-co-the-day-manh-hop-tac-san-xuat-trang-thiet-bi-y-te-may-tho-20200415105706081.htm">Xem tiếp</a>
+            </div>
+        </div>
+        <div class="line1 mt1"> </div>
+        <div data-boxtype="timelineposition" data-posid="20200415070454868" data-locked="false" class="mt3 clearfix eplcheck">
+            <a title="Tổng thư ký Liên Hợp Quốc: &quot;Giờ không phải lúc cắt các nguồn lực cho WHO&quot;" href="/the-gioi/tong-thu-ky-lien-hop-quoc-gio-khong-phai-luc-cat-cac-nguon-luc-cho-who-20200415070454868.htm">
+               
+                <img title="Tổng thư ký Liên Hợp Quốc: &quot;Giờ không phải lúc cắt các nguồn lực cho WHO&quot;" alt="Tổng thư ký Liên Hợp Quốc: &quot;Giờ không phải lúc cắt các nguồn lực cho WHO&quot;" class="img130" src="https://icdn.dantri.com.vn/zoom/260_200//2020/04/15/antonio-guterres-1586921030804.jpg" />
+            </a>
+            <div class="mr1" data-id="20200415070454868">
+                <h2><a title="Tổng thư ký Liên Hợp Quốc: &quot;Giờ không phải lúc cắt các nguồn lực cho WHO&quot;" class="fon6" data-newstype="0" data-linktype="newsdetail" data-id="20200415070454868" href="/the-gioi/tong-thu-ky-lien-hop-quoc-gio-khong-phai-luc-cat-cac-nguon-luc-cho-who-20200415070454868.htm">Tổng thư ký Liên Hợp Quốc: &quot;Giờ không phải lúc cắt các nguồn lực cho WHO&quot;</a></h2>
+                <div class="fon5 wid324 fl">
+                    <span>(Dân trí)</span>&nbsp;- Tổng thư ký Liên Hợp Quốc lên tiếng chỉ trích việc Mỹ tuyên bố ngừng cấp ngân sách cho Tổ chức Y tế Thế giới (WHO). Còn Ngoại trưởng Mỹ nói nước này đang tìm cách “thay đổi căn bản” WHO.
+                        <h3 class="h3relate">
+                            <b>&gt;&gt;&nbsp;</b>
+                            <a title="Chỉ trích WHO về dịch Covid-19, Mỹ tính ngay phương án lập tổ chức thay thế" href="/the-gioi/chi-trich-who-ve-dich-covid-19-my-tinh-ngay-phuong-an-lap-to-chuc-thay-the-20200413113413012.htm">
+                                  <b> Chỉ trích WHO về dịch Covid-19, Mỹ tính ngay phương án lập tổ chức thay thế</b>
+                            </a>
+                        </h3>
+                        <h3 class="h3relate">
+                            <b>&gt;&gt;&nbsp;</b>
+                            <a title="Mỹ cảnh báo sẽ truy trách nhiệm về đại dịch Covid-19" href="/the-gioi/my-canh-bao-se-truy-trach-nhiem-ve-dai-dich-covid-19-20200414130303231.htm">
+                                  <b> Mỹ cảnh báo sẽ truy trách nhiệm về đại dịch Covid-19</b>
+                            </a>
+                        </h3>
+                        <h3 class="h3relate">
+                            <b>&gt;&gt;&nbsp;</b>
+                            <a title="26.000 người chết vì Covid-19, Mỹ có thể phải giữ cách ly xã hội đến 2022" href="/the-gioi/26000-nguoi-chet-vi-covid-19-my-co-the-phai-giu-cach-ly-xa-hoi-den-2022-20200415052445529.htm">
+                                  <b> 26.000 người chết vì Covid-19, Mỹ có thể phải giữ cách ly xã hội đến 2022</b>
+                            </a>
+                        </h3>
+                </div>
+                <a rel="nofollow" class="icon-detail fon7" href="/the-gioi/tong-thu-ky-lien-hop-quoc-gio-khong-phai-luc-cat-cac-nguon-luc-cho-who-20200415070454868.htm">Xem tiếp</a>
+            </div>
+        </div>
+        <div class="line1 mt1"> </div>
+        <div data-boxtype="timelineposition" data-posid="20200415093814134" data-locked="false" class="mt3 clearfix eplcheck">
+            <a title="Trung Quốc thi công khẩn bệnh viện dã chiến ở biên giới Nga" href="/the-gioi/trung-quoc-thi-cong-khan-benh-vien-da-chien-o-bien-gioi-nga-20200415093814134.htm">
+               
+                <img title="Trung Quốc thi công khẩn bệnh viện dã chiến ở biên giới Nga" alt="Trung Quốc thi công khẩn bệnh viện dã chiến ở biên giới Nga" class="img130" src="https://icdn.dantri.com.vn/zoom/260_200//2020/04/15/271722468216897-imagea-281586862496960-1586917951863.jpg" />
+            </a>
+            <div class="mr1" data-id="20200415093814134">
+                <h2><a title="Trung Quốc thi công khẩn bệnh viện dã chiến ở biên giới Nga" class="fon6" data-newstype="2" data-linktype="newsdetail" data-id="20200415093814134" href="/the-gioi/trung-quoc-thi-cong-khan-benh-vien-da-chien-o-bien-gioi-nga-20200415093814134.htm">Trung Quốc thi công khẩn bệnh viện dã chiến ở biên giới Nga</a></h2>
+                <div class="fon5 wid324 fl">
+                    <span>(Dân trí)</span>&nbsp;- Trung Quốc đã chuyển một tòa nhà ở tỉnh giáp Nga thành bệnh viện dã chiến điều trị các bệnh nhân Covid-19 trong bối cảnh số ca bệnh của Trung Quốc “nhập khẩu” từ Nga tăng vọt.
+                        <h3 class="h3relate">
+                            <b>&gt;&gt;&nbsp;</b>
+                            <a title="Trung Quốc tạm đóng cửa biên giới với Nga do lo ngại Covid-19" href="/the-gioi/trung-quoc-tam-dong-cua-bien-gioi-voi-nga-do-lo-ngai-covid-19-20200409070300148.htm">
+                                  <b> Trung Quốc tạm đóng cửa biên giới với Nga do lo ngại Covid-19</b>
+                            </a>
+                        </h3>
+                        <h3 class="h3relate">
+                            <b>&gt;&gt;&nbsp;</b>
+                            <a title="Nga ghi nhận kỷ lục 2.700 ca mắc Covid-19 trong 24 giờ" href="/the-gioi/nga-ghi-nhan-ky-luc-2700-ca-mac-covid-19-trong-24-gio-20200414165637586.htm">
+                                  <b> Nga ghi nhận kỷ lục 2.700 ca mắc Covid-19 trong 24 giờ</b>
+                            </a>
+                        </h3>
+                        <h3 class="h3relate">
+                            <b>&gt;&gt;&nbsp;</b>
+                            <a title="Số ca Covid-19 tăng kỷ lục ở Nga, xe cứu thương ùn ùn gây tắc đường" href="/the-gioi/so-ca-covid-19-tang-ky-luc-o-nga-xe-cuu-thuong-un-un-gay-tac-duong-20200412150439293.htm">
+                                  <b> Số ca Covid-19 tăng kỷ lục ở Nga, xe cứu thương ùn ùn gây tắc đường</b>
+                            </a>
+                        </h3>
+                </div>
+                <a rel="nofollow" class="icon-detail fon7" href="/the-gioi/trung-quoc-thi-cong-khan-benh-vien-da-chien-o-bien-gioi-nga-20200415093814134.htm">Xem tiếp</a>
+            </div>
+        </div>
+        <div class="line1 mt1"> </div>
+        <div data-boxtype="timelineposition" data-posid="20200415094307086" data-locked="false" class="mt3 clearfix eplcheck">
+            <a title="Số người chết vì Covid-19 tại Italia vượt 21.000" href="/the-gioi/so-nguoi-chet-vi-covid-19-tai-italia-vuot-21000-20200415094307086.htm">
+               
+                <img title="Số người chết vì Covid-19 tại Italia vượt 21.000" alt="Số người chết vì Covid-19 tại Italia vượt 21.000" class="img130" src="https://icdn.dantri.com.vn/zoom/260_200//2020/04/15/francecoronavirus-1586918437250.jpg" />
+            </a>
+            <div class="mr1" data-id="20200415094307086">
+                <h2><a title="Số người chết vì Covid-19 tại Italia vượt 21.000" class="fon6" data-newstype="0" data-linktype="newsdetail" data-id="20200415094307086" href="/the-gioi/so-nguoi-chet-vi-covid-19-tai-italia-vuot-21000-20200415094307086.htm">Số người chết vì Covid-19 tại Italia vượt 21.000</a></h2>
+                <div class="fon5 wid324 fl">
+                    <span>(Dân trí)</span>&nbsp;- Giới chức Italia xác nhận số ca tử vong vì Covid-19 tại nước này đã vượt 21.000 người, đứng thứ hai thế giới sau Mỹ.
+                        <h3 class="h3relate">
+                            <b>&gt;&gt;&nbsp;</b>
+                            <a title="Gần 20.000 ca tử vong vì Covid-19 ở Italia, châu Âu có gần 1 triệu ca bệnh" href="/the-gioi/gan-20000-ca-tu-vong-vi-covid-19-o-italia-chau-au-co-gan-1-trieu-ca-benh-20200413064608337.htm">
+                                  <b> Gần 20.000 ca tử vong vì Covid-19 ở Italia, châu Âu có gần 1 triệu ca bệnh</b>
+                            </a>
+                        </h3>
+                        <h3 class="h3relate">
+                            <b>&gt;&gt;&nbsp;</b>
+                            <a title="Ông Trump yêu cầu chính quyền Mỹ giúp Italia chống dịch" href="/the-gioi/ong-trump-yeu-cau-chinh-quyen-my-giup-italia-chong-dich-20200411121027592.htm">
+                                  <b> Ông Trump yêu cầu chính quyền Mỹ giúp Italia chống dịch</b>
+                            </a>
+                        </h3>
+                        <h3 class="h3relate">
+                            <b>&gt;&gt;&nbsp;</b>
+                            <a title="Ranh giới sống - chết bên trong các bệnh viện Italia" href="/the-gioi/ranh-gioi-song-chet-ben-trong-cac-benh-vien-italia-20200410220641107.htm">
+                                  <b> Ranh giới sống - chết bên trong các bệnh viện Italia</b>
+                            </a>
+                        </h3>
+                </div>
+                <a rel="nofollow" class="icon-detail fon7" href="/the-gioi/so-nguoi-chet-vi-covid-19-tai-italia-vuot-21000-20200415094307086.htm">Xem tiếp</a>
+            </div>
+        </div>
+        <div class="line1 mt1"> </div>
+        <div data-boxtype="timelineposition" data-posid="20200415072746361" data-locked="false" class="mt3 clearfix eplcheck">
+            <a title="Pháp triệu tập Đại sứ Trung Quốc sau bình luận “gây phẫn nộ” về Covid-19" href="/the-gioi/phap-trieu-tap-dai-su-trung-quoc-sau-binh-luan-gay-phan-no-ve-covid-19-20200415072746361.htm">
+               
+                <img title="Pháp triệu tập Đại sứ Trung Quốc sau bình luận “gây phẫn nộ” về Covid-19" alt="Pháp triệu tập Đại sứ Trung Quốc sau bình luận “gây phẫn nộ” về Covid-19" class="img130" src="https://icdn.dantri.com.vn/zoom/260_200//2020/04/15/28055-b-847-e-9211-ea-873698-edddd-9-b-5-caimagehires-052301-1586910299577.jpg" />
+            </a>
+            <div class="mr1" data-id="20200415072746361">
+                <h2><a title="Pháp triệu tập Đại sứ Trung Quốc sau bình luận “gây phẫn nộ” về Covid-19" class="fon6" data-newstype="0" data-linktype="newsdetail" data-id="20200415072746361" href="/the-gioi/phap-trieu-tap-dai-su-trung-quoc-sau-binh-luan-gay-phan-no-ve-covid-19-20200415072746361.htm">Pháp triệu tập Đại sứ Trung Quốc sau bình luận “gây phẫn nộ” về Covid-19</a></h2>
+                <div class="fon5 wid324 fl">
+                    <span>(Dân trí)</span>&nbsp;- Pháp đã triệu tập Đại sứ Trung Quốc sau khi một nhà ngoại giao của Bắc Kinh đưa ra những bình luận gây tranh cãi về cuộc chiến chống Covid-19 của Pháp, khiến chính giới Paris “phẫn nộ”.
+                        <h3 class="h3relate">
+                            <b>&gt;&gt;&nbsp;</b>
+                            <a title="Gần 15.000 người chết vì Covid-19, Pháp phong tỏa đất nước thêm 1 tháng" href="/the-gioi/gan-15000-nguoi-chet-vi-covid-19-phap-phong-toa-dat-nuoc-them-1-thang-20200414064346459.htm">
+                                  <b> Gần 15.000 người chết vì Covid-19, Pháp phong tỏa đất nước thêm 1 tháng</b>
+                            </a>
+                        </h3>
+                        <h3 class="h3relate">
+                            <b>&gt;&gt;&nbsp;</b>
+                            <a title="Số người chết tại Pháp lên gần 14.000, Italia ghi nhận số ca tăng trở lại" href="/the-gioi/so-nguoi-chet-tai-phap-len-gan-14000-italia-ghi-nhan-so-ca-tang-tro-lai-20200412080220431.htm">
+                                  <b> Số người chết tại Pháp lên gần 14.000, Italia ghi nhận số ca tăng trở lại</b>
+                            </a>
+                        </h3>
+                        <h3 class="h3relate">
+                            <b>&gt;&gt;&nbsp;</b>
+                            <a title="Trung Quốc mở cửa “Vùng số 0” ở Vũ Hán cho phóng viên" href="/the-gioi/trung-quoc-mo-cua-vung-so-0-o-vu-han-cho-phong-vien-20200413150016812.htm">
+                                  <b> Trung Quốc mở cửa “Vùng số 0” ở Vũ Hán cho phóng viên</b>
+                            </a>
+                        </h3>
+                </div>
+                <a rel="nofollow" class="icon-detail fon7" href="/the-gioi/phap-trieu-tap-dai-su-trung-quoc-sau-binh-luan-gay-phan-no-ve-covid-19-20200415072746361.htm">Xem tiếp</a>
+            </div>
+        </div>
+        <div class="line1 mt1"> </div>
+
+                </div>
+
+                    <div class="clearfix mt1">
+                        <div class="fr">
+                            <a class="fon27 mt1 mr2" href="/the-gioi/trang-2.htm">[ Trang sau ]</a>
+                        </div>
+                        <div class="fr">
+                        </div>
+                    </div>
+                    <div id="ctl00_ctl00_cphBody_cphBody_ctrBoxVoteInZone" data-boxtype="voteinzone" data-zoneid="36" class="clearfix"></div>
+                    <div style="float: left; width: 465px; padding: 10px 0 0 0;">
+                    </div>
+                                    <div class="box21 mt5 clearfix">
+                        <div class="fon39">
+                            CÙNG CHUYÊN MỤC
+                        </div>
+                        <ul class="ul11 ml2 mt2">
+                                <li><a title="Quân đội Mỹ lên tiếng về nguồn gốc của virus SARS-CoV-2" href="/the-gioi/quan-doi-my-len-tieng-ve-nguon-goc-cua-virus-sars-co-v-2-20200415065558961.htm">Quân đội Mỹ lên tiếng về nguồn gốc của virus SARS-CoV-2 (15/4)</a></li>
+                                <li><a title="Việt Nam đưa công dân từ Anh về nước" href="/the-gioi/viet-nam-dua-cong-dan-tu-anh-ve-nuoc-20200415080456143.htm">Việt Nam đưa công dân từ Anh về nước (15/4)</a></li>
+                                <li><a title="Khẩu trang độc đáo của Việt Nam trên báo nước ngoài" href="/the-gioi/khau-trang-doc-dao-cua-viet-nam-tren-bao-nuoc-ngoai-20200414183059069.htm">Khẩu trang độc đáo của Việt Nam trên báo nước ngoài (15/4)</a></li>
+                                <li><a title="Bộ Ngoại giao lên tiếng về thông tin tàu Trung Quốc vào EEZ của Việt Nam" href="/the-gioi/bo-ngoai-giao-len-tieng-ve-thong-tin-tau-trung-quoc-vao-eez-cua-viet-nam-20200415070525675.htm">Bộ Ngoại giao lên tiếng về thông tin tàu Trung Quốc vào EEZ của Việt Nam (15/4)</a></li>
+                                <li><a title="Tổng thống Trump tuyên bố dừng tài trợ cho WHO vì cách xử lý dịch Covid-19" href="/the-gioi/tong-thong-trump-tuyen-bo-dung-tai-tro-cho-who-vi-cach-xu-ly-dich-covid-19-20200415070051808.htm">Tổng thống Trump tuyên bố dừng tài trợ cho WHO vì cách xử lý dịch Covid-19 (15/4)</a></li>
+                                <li><a title="Thống đốc New York tuyên bố kháng lệnh, ông Trump đáp trả ẩn ý" href="/the-gioi/thong-doc-new-york-tuyen-bo-khang-lenh-ong-trump-dap-tra-an-y-20200415060532661.htm">Thống đốc New York tuyên bố kháng lệnh, ông Trump đáp trả ẩn ý (15/4)</a></li>
+                                <li><a title="Một nhân viên Bộ Ngoại giao Mỹ tử vong do Covid-19" href="/the-gioi/mot-nhan-vien-bo-ngoai-giao-my-tu-vong-do-covid-19-20200415063129467.htm">Một nhân viên Bộ Ngoại giao Mỹ tử vong do Covid-19 (15/4)</a></li>
+                                <li><a title="26.000 người chết vì Covid-19, Mỹ có thể phải giữ cách ly xã hội đến 2022" href="/the-gioi/26000-nguoi-chet-vi-covid-19-my-co-the-phai-giu-cach-ly-xa-hoi-den-2022-20200415052445529.htm">26.000 người chết vì Covid-19, Mỹ có thể phải giữ cách ly xã hội đến 2022 (15/4)</a></li>
+                                <li><a title="Đại dịch Covid-19: Ai mạnh yếu thế nào?" href="/the-gioi/dai-dich-covid-19-ai-manh-yeu-the-nao-20200414220704551.htm">Đại dịch Covid-19: Ai mạnh yếu thế nào? (14/4)</a></li>
+                                <li><a title="Châu Âu &quot;rón rén&quot; nới lỏng phong tỏa sau chuỗi ngày đóng băng" href="/the-gioi/chau-au-ron-ren-noi-long-phong-toa-sau-chuoi-ngay-dong-bang-20200414211452683.htm">Châu Âu &quot;rón rén&quot; nới lỏng phong tỏa sau chuỗi ngày đóng băng (14/4)</a></li>
+                                <li><a title="Indonesia tăng kỷ lục số ca Covid-19 tử vong, Đông Nam Á vượt 20.000 ca" href="/the-gioi/indonesia-tang-ky-luc-so-ca-covid-19-tu-vong-dong-nam-a-vuot-20000-ca-20200414195103745.htm">Indonesia tăng kỷ lục số ca Covid-19 tử vong, Đông Nam Á vượt 20.000 ca (14/4)</a></li>
+                                <li><a title="Thủy thủ tàu sân bay Mỹ: &quot;Mẹ, con như sắp chết&quot;" href="/the-gioi/thuy-thu-tau-san-bay-my-me-con-nhu-sap-chet-20200414185623962.htm">Thủy thủ tàu sân bay Mỹ: &quot;Mẹ, con như sắp chết&quot; (14/4)</a></li>
+                        </ul>
+                    </div>
+                <script type="text/lazyscript">
+                    var date = new Date();
+                    var txtDate = String.format('({0}/{1})', date.getDate(), date.getMonth() + 1);
+                    $("#ul11 li a,#divOlderNews li a").each(function () {
+                        if ($(this).text().indexOf(txtDate) != -1) {
+                            $(this).append("<i class=\"ico-newstype-new\"></i>");
+                        }
+                    });
+                </script>
+                <div class="clearfix mt2 newsdateselector">
+                    <input class="btn-view-tomorrow" type="button" value="Bài ngày hôm trước" id="btnViewNewsPrevDate">
+                    <input class="btn-view-month" type="button" onclick="displayCalendar(this, 'dd-mm-yyyy', this);" value="Xem bài theo ngày tháng »" id="Button1">
+                    <input class="btn-view-tomorrow" type="button" value="Bài ngày hôm sau" id="btnViewNewsNextDate">
+                </div>
+                <script type="text/lazyscript">
+                    var categoryPath = $("#hidCategoryPath").val().trim('/');
+
+                    var currentDate = new Date();
+                    if ($("#hidCurrentDate") && $("#hidCurrentDate").val() != '') {
+                        currentDate = new Date($("#hidCurrentDate").val());
+                    }
+                    var now = new Date();
+                    var hasNext = new Date(now.getFullYear(), now.getMonth(), now.getDate()).getTime() > new Date(currentDate.getFullYear(), currentDate.getMonth(), currentDate.getDate()).getTime();
+
+                    var prevDate = currentDate.addDays(-1);
+                    var prevDateUrl = String.format("/{0}/{1}-{2}-{3}{4}", categoryPath, prevDate.getDate(), prevDate.getMonth() + 1, prevDate.getFullYear(), appSettings.urlExtension);
+                    $('#btnViewNewsPrevDate').bind('click', function () {
+                        window.location.href = prevDateUrl;
+                    });
+
+                    if (hasNext) {
+                        var nextDate = currentDate.addDays(1);
+                        var nextDateUrl = String.format("/{0}/{1}-{2}-{3}{4}", categoryPath, nextDate.getDate(), nextDate.getMonth() + 1, nextDate.getFullYear(), appSettings.urlExtension);
+                        $('#btnViewNewsNextDate').bind('click', function () {
+                            window.location.href = nextDateUrl;
+                        });
+                        $('#btnViewNewsNextDate').show();
+                    }else{
+                        $('#btnViewNewsNextDate').addClass('disabled');
+                    }
+                </script>
+            </div>
+
+            <div class="fr w510">
+                
+                <div class="fl wid310 box5 admicro mgl10" main-left>
+
+                    <div align="center" class="ic-ads" style="float: left;">
+                        <div name="column" style="padding-bottom: 5px; float: left; width: 300px" align="center">
+                            <div id="admzone401"></div>
+                        </div>
+                    </div>
+                    
+                    <div box-tieu-diem class="fl" id="newsfocus" cat="36">
+    
+    </div>
+
+                    
+
+                            <div class="box-nguoivietnamchau">
+            <h3>
+                <a title="Người Việt năm châu" href="/the-gioi/kieu-bao.htm">
+                    <img style="border: 0 none; height: 25px; margin: 5px 0 0 42px; width: 187px;" src="https://cdnweb.dantri.com.vn/images/blank.gif">
+                </a>
+            </h3>
+            <div class="divimage">
+                <a title="Phong trào may tặng khẩu trang phòng Covid-19 của người Việt tại Đức" href="/the-gioi/phong-trao-may-tang-khau-trang-phong-covid-19-cua-nguoi-viet-tai-duc-20200406145720759.htm">
+                    <img alt="Phong trào may tặng khẩu trang phòng Covid-19 của người Việt tại Đức" src="https://icdn.dantri.com.vn/zoom/279_210//2020/04/06/2-1586159736401.jpg">
+                </a>
+            </div>
+            <div class="divbottom"></div>
+            <h4>
+                <a title="Phong trào may tặng khẩu trang phòng Covid-19 của người Việt tại Đức" data-newstype="0" data-linktype="newsdetail" data-id="20200406145720759" href="/the-gioi/phong-trao-may-tang-khau-trang-phong-covid-19-cua-nguoi-viet-tai-duc-20200406145720759.htm">Phong trào may tặng khẩu trang phòng Covid-19 của người Việt tại Đức</a>
+            </h4>
+                <ul>
+                        <li><a title="Báo Mỹ ca ngợi các tiệm làm móng của người Việt tặng đồ bảo hộ chống dịch" data-newstype="0" data-linktype="newsdetail" data-id="20200413111614085" target="_blank" href="/the-gioi/bao-my-ca-ngoi-cac-tiem-lam-mong-cua-nguoi-viet-tang-do-bao-ho-chong-dich-20200413111614085.htm">Báo Mỹ ca ngợi các tiệm làm móng của người Việt tặng đồ bảo hộ chống dịch</a></li>
+                        <li><a title="Hàn Quốc trục xuất 3 sinh viên Việt trốn cách ly Covid-19" data-newstype="0" data-linktype="newsdetail" data-id="20200409160007911" target="_blank" href="/the-gioi/han-quoc-truc-xuat-3-sinh-vien-viet-tron-cach-ly-covid-19-20200409160007911.htm">Hàn Quốc trục xuất 3 sinh viên Việt trốn cách ly Covid-19</a></li>
+                </ul>
+        </div>
+
+                    <div style="float: left; width: 300px; padding: 5px">
+                        
+                        <div id="admzone345"></div>
+
+                    </div>
+                    
+                    <div remain-height data-sticky_parent>
+                        <div data-sticky_column></div>
+                    </div>
+                </div>
+                <div class="fr pt5" style="width: 180px;">
+
+                    <div align="center" class="dantri-div-bottom" style="float: left;">
+                        <div name="column" style="padding-bottom: 5px; float: left; width: 180px; padding-top: 5px;" align="center">
+
+                            <div id="admzone228"></div>
+                        </div>
+                    </div>
+                </div>
+              
+                
+                
+            </div>
+        </div>
+        
+        <div class="video-slide">
+            <h3><a title="Video" href="/video-page.htm">Video</a><span class="info" id="video-slide-info">1 - 5 / 14</span><span class="video-slide-button"><a rel="nofollow" class="sprite-dantri-new prev" href="javascript:void(0)"></a><a class="sprite-dantri-new next" rel="nofollow" href="javascript:void(0)"></a></span></h3>
+            <div class="video-slide-viewpot">
+                <ul id="video-slide">
+                        <li class=""><a title="Trung Quốc thi công khẩn bệnh viện Covid-19 ở biên giới Nga trong 6 ngày" href="/video/trung-quoc-thi-cong-khan-benh-vien-covid-19-o-bien-gioi-nga-trong-6-ngay-118692.htm"><img title="Trung Quốc thi công khẩn bệnh viện Covid-19 ở biên giới Nga trong 6 ngày" alt="Trung Quốc thi công khẩn bệnh viện Covid-19 ở biên giới Nga trong 6 ngày" src="https://icdn.dantri.com.vn/zoom/250_156//thumb-video/2020/04/15/640-x-360-mp-43197861714730464878-1586917759772/0_00_32.jpg" /></a><a title="Trung Quốc thi công khẩn bệnh viện Covid-19 ở biên giới Nga trong 6 ngày" href="/video/trung-quoc-thi-cong-khan-benh-vien-covid-19-o-bien-gioi-nga-trong-6-ngay-118692.htm">Trung Quốc thi công khẩn bệnh viện Covid-19 ở biên giới Nga trong 6 ngày</a><a title="Trung Quốc thi công khẩn bệnh viện Covid-19 ở biên giới Nga trong 6 ngày" class="sprite-dantri-new icon" href="/video/trung-quoc-thi-cong-khan-benh-vien-covid-19-o-bien-gioi-nga-trong-6-ngay-118692.htm"></a></li>
+                        <li class=""><a title="Khẩu trang độc đáo của Việt Nam trên báo nước ngoài" href="/video/khau-trang-doc-dao-cua-viet-nam-tren-bao-nuoc-ngoai-118671.htm"><img title="Khẩu trang độc đáo của Việt Nam trên báo nước ngoài" alt="Khẩu trang độc đáo của Việt Nam trên báo nước ngoài" src="https://icdn.dantri.com.vn/zoom/250_156//2020/04/14/maxresdefault-1586863696073.jpg" /></a><a title="Khẩu trang độc đáo của Việt Nam trên báo nước ngoài" href="/video/khau-trang-doc-dao-cua-viet-nam-tren-bao-nuoc-ngoai-118671.htm">Khẩu trang độc đáo của Việt Nam trên báo nước ngoài</a><a title="Khẩu trang độc đáo của Việt Nam trên báo nước ngoài" class="sprite-dantri-new icon" href="/video/khau-trang-doc-dao-cua-viet-nam-tren-bao-nuoc-ngoai-118671.htm"></a></li>
+                        <li class=""><a title="Cháy rừng ngùn ngụt ngay gần nhà máy hạt nhân Chernobyl" href="/video/chay-rung-ngun-ngut-ngay-gan-nha-may-hat-nhan-chernobyl-118662.htm"><img title="Cháy rừng ngùn ngụt ngay gần nhà máy hạt nhân Chernobyl" alt="Cháy rừng ngùn ngụt ngay gần nhà máy hạt nhân Chernobyl" src="https://icdn.dantri.com.vn/zoom/250_156//2020/04/14/maxresdefault-1586855681944.jpg" /></a><a title="Cháy rừng ngùn ngụt ngay gần nhà máy hạt nhân Chernobyl" href="/video/chay-rung-ngun-ngut-ngay-gan-nha-may-hat-nhan-chernobyl-118662.htm">Cháy rừng ngùn ngụt ngay gần nhà máy hạt nhân Chernobyl</a><a title="Cháy rừng ngùn ngụt ngay gần nhà máy hạt nhân Chernobyl" class="sprite-dantri-new icon" href="/video/chay-rung-ngun-ngut-ngay-gan-nha-may-hat-nhan-chernobyl-118662.htm"></a></li>
+                        <li class=""><a title="Mỹ: 40 cơn lốc xoáy càn quét tan hoang giữa lúc dịch bệnh, 31 người chết" href="/video/my-40-con-loc-xoay-can-quet-tan-hoang-giua-luc-dich-benh-31-nguoi-chet-118639.htm"><img title="Mỹ: 40 cơn lốc xoáy càn quét tan hoang giữa lúc dịch bệnh, 31 người chết" alt="Mỹ: 40 cơn lốc xoáy càn quét tan hoang giữa lúc dịch bệnh, 31 người chết" src="https://icdn.dantri.com.vn/zoom/250_156//thumb-video/2020/04/14/tornadoes-kill-6-in-mississippi-AeeJh7e_Ouo-1586834074339/0_00_40.jpg" /></a><a title="Mỹ: 40 cơn lốc xoáy càn quét tan hoang giữa lúc dịch bệnh, 31 người chết" href="/video/my-40-con-loc-xoay-can-quet-tan-hoang-giua-luc-dich-benh-31-nguoi-chet-118639.htm">Mỹ: 40 cơn lốc xoáy càn quét tan hoang giữa lúc dịch bệnh, 31 người chết</a><a title="Mỹ: 40 cơn lốc xoáy càn quét tan hoang giữa lúc dịch bệnh, 31 người chết" class="sprite-dantri-new icon" href="/video/my-40-con-loc-xoay-can-quet-tan-hoang-giua-luc-dich-benh-31-nguoi-chet-118639.htm"></a></li>
+                        <li class=" last"><a title="Hơn 50 y bác sĩ Cuba tới Italia chống dịch Covid-19" href="/video/hon-50-y-bac-si-cuba-toi-italia-chong-dich-covid-19-118594.htm"><img title="Hơn 50 y bác sĩ Cuba tới Italia chống dịch Covid-19" alt="Hơn 50 y bác sĩ Cuba tới Italia chống dịch Covid-19" src="https://icdn.dantri.com.vn/zoom/250_156//2020/04/13/maxresdefault-1586764501729.jpg" /></a><a title="Hơn 50 y bác sĩ Cuba tới Italia chống dịch Covid-19" href="/video/hon-50-y-bac-si-cuba-toi-italia-chong-dich-covid-19-118594.htm">Hơn 50 y bác sĩ Cuba tới Italia chống dịch Covid-19</a><a title="Hơn 50 y bác sĩ Cuba tới Italia chống dịch Covid-19" class="sprite-dantri-new icon" href="/video/hon-50-y-bac-si-cuba-toi-italia-chong-dich-covid-19-118594.htm"></a></li>
+                        <li class=""><a title="Thủ tướng Anh kể về 48 giờ có thể nguy hiểm tính mạng vì Covid-19" href="/video/thu-tuong-anh-ke-ve-48-gio-co-the-nguy-hiem-tinh-mang-vi-covid-19-118568.htm"><img title="Thủ tướng Anh kể về 48 giờ có thể nguy hiểm tính mạng vì Covid-19" alt="Thủ tướng Anh kể về 48 giờ có thể nguy hiểm tính mạng vì Covid-19" src="https://icdn.dantri.com.vn/zoom/250_156//thumb-video/2020/04/13/the-nhs-saved-my-life-wwwdownvidsnet-000249000402-1586748273686/0_00_27.jpg" /></a><a title="Thủ tướng Anh kể về 48 giờ có thể nguy hiểm tính mạng vì Covid-19" href="/video/thu-tuong-anh-ke-ve-48-gio-co-the-nguy-hiem-tinh-mang-vi-covid-19-118568.htm">Thủ tướng Anh kể về 48 giờ có thể nguy hiểm tính mạng vì Covid-19</a><a title="Thủ tướng Anh kể về 48 giờ có thể nguy hiểm tính mạng vì Covid-19" class="sprite-dantri-new icon" href="/video/thu-tuong-anh-ke-ve-48-gio-co-the-nguy-hiem-tinh-mang-vi-covid-19-118568.htm"></a></li>
+                        <li class=""><a title="Thủ tướng Anh kể về 48 giờ có thể nguy hiểm tới tính mạng vì Covid-19" href="/video/thu-tuong-anh-ke-ve-48-gio-co-the-nguy-hiem-toi-tinh-mang-vi-covid-19-118553.htm"><img title="Thủ tướng Anh kể về 48 giờ có thể nguy hiểm tới tính mạng vì Covid-19" alt="Thủ tướng Anh kể về 48 giờ có thể nguy hiểm tới tính mạng vì Covid-19" src="https://icdn.dantri.com.vn/zoom/250_156//2020/04/13/maxresdefault-1586738048369.jpg" /></a><a title="Thủ tướng Anh kể về 48 giờ có thể nguy hiểm tới tính mạng vì Covid-19" href="/video/thu-tuong-anh-ke-ve-48-gio-co-the-nguy-hiem-toi-tinh-mang-vi-covid-19-118553.htm">Thủ tướng Anh kể về 48 giờ có thể nguy hiểm tới tính mạng vì Covid-19</a><a title="Thủ tướng Anh kể về 48 giờ có thể nguy hiểm tới tính mạng vì Covid-19" class="sprite-dantri-new icon" href="/video/thu-tuong-anh-ke-ve-48-gio-co-the-nguy-hiem-toi-tinh-mang-vi-covid-19-118553.htm"></a></li>
+                        <li class=""><a title="Thủ tướng Abe kêu gọi người dân ở nhà giữa dịch Covid-19" href="/video/thu-tuong-abe-keu-goi-nguoi-dan-o-nha-giua-dich-covid-19-118550.htm"><img title="Thủ tướng Abe kêu gọi người dân ở nhà giữa dịch Covid-19" alt="Thủ tướng Abe kêu gọi người dân ở nhà giữa dịch Covid-19" src="https://icdn.dantri.com.vn/zoom/250_156//thumb-video/2020/04/13/q-2-g-oybw-g-1-hxb-lcg-1586736707977/0_00_28.jpg" /></a><a title="Thủ tướng Abe kêu gọi người dân ở nhà giữa dịch Covid-19" href="/video/thu-tuong-abe-keu-goi-nguoi-dan-o-nha-giua-dich-covid-19-118550.htm">Thủ tướng Abe kêu gọi người dân ở nhà giữa dịch Covid-19</a><a title="Thủ tướng Abe kêu gọi người dân ở nhà giữa dịch Covid-19" class="sprite-dantri-new icon" href="/video/thu-tuong-abe-keu-goi-nguoi-dan-o-nha-giua-dich-covid-19-118550.htm"></a></li>
+                        <li class=" last"><a title="Số ca Covid-19 tăng kỷ lục ở Nga, xe cứu thương ùn ùn gây tắc đường" href="/video/so-ca-covid-19-tang-ky-luc-o-nga-xe-cuu-thuong-un-un-gay-tac-duong-118526.htm"><img title="Số ca Covid-19 tăng kỷ lục ở Nga, xe cứu thương ùn ùn gây tắc đường" alt="Số ca Covid-19 tăng kỷ lục ở Nga, xe cứu thương ùn ùn gây tắc đường" src="https://icdn.dantri.com.vn/zoom/250_156//2020/04/12/maxresdefault-1586678347180.jpg" /></a><a title="Số ca Covid-19 tăng kỷ lục ở Nga, xe cứu thương ùn ùn gây tắc đường" href="/video/so-ca-covid-19-tang-ky-luc-o-nga-xe-cuu-thuong-un-un-gay-tac-duong-118526.htm">Số ca Covid-19 tăng kỷ lục ở Nga, xe cứu thương ùn ùn gây tắc đường</a><a title="Số ca Covid-19 tăng kỷ lục ở Nga, xe cứu thương ùn ùn gây tắc đường" class="sprite-dantri-new icon" href="/video/so-ca-covid-19-tang-ky-luc-o-nga-xe-cuu-thuong-un-un-gay-tac-duong-118526.htm"></a></li>
+                        <li class=""><a title="Video 3D cho thấy sức phát tán của virus corona sau một cơn ho trong siêu thị" href="/video/video-3-d-cho-thay-suc-phat-tan-cua-virus-corona-sau-mot-con-ho-trong-sieu-thi-118420.htm"><img title="Video 3D cho thấy sức phát tán của virus corona sau một cơn ho trong siêu thị" alt="Video 3D cho thấy sức phát tán của virus corona sau một cơn ho trong siêu thị" src="https://icdn.dantri.com.vn/zoom/250_156//2020/04/10/maxresdefault-1586503686934.jpg" /></a><a title="Video 3D cho thấy sức phát tán của virus corona sau một cơn ho trong siêu thị" href="/video/video-3-d-cho-thay-suc-phat-tan-cua-virus-corona-sau-mot-con-ho-trong-sieu-thi-118420.htm">Video 3D cho thấy sức phát tán của virus corona sau một cơn ho trong siêu thị</a><a title="Video 3D cho thấy sức phát tán của virus corona sau một cơn ho trong siêu thị" class="sprite-dantri-new icon" href="/video/video-3-d-cho-thay-suc-phat-tan-cua-virus-corona-sau-mot-con-ho-trong-sieu-thi-118420.htm"></a></li>
+                        <li class=""><a title="Đảo ở New York biến thành nghĩa trang tập thể giữa dịch Covid-19" href="/video/dao-o-new-york-bien-thanh-nghia-trang-tap-the-giua-dich-covid-19-118404.htm"><img title="Đảo ở New York biến thành nghĩa trang tập thể giữa dịch Covid-19" alt="Đảo ở New York biến thành nghĩa trang tập thể giữa dịch Covid-19" src="https://icdn.dantri.com.vn/zoom/250_156//thumb-video/2020/04/10/main-1586487663247/0_00_26.jpg" /></a><a title="Đảo ở New York biến thành nghĩa trang tập thể giữa dịch Covid-19" href="/video/dao-o-new-york-bien-thanh-nghia-trang-tap-the-giua-dich-covid-19-118404.htm">Đảo ở New York biến thành nghĩa trang tập thể giữa dịch Covid-19</a><a title="Đảo ở New York biến thành nghĩa trang tập thể giữa dịch Covid-19" class="sprite-dantri-new icon" href="/video/dao-o-new-york-bien-thanh-nghia-trang-tap-the-giua-dich-covid-19-118404.htm"></a></li>
+                        <li class=""><a title="WHO “phản pháo” ông Trump: Đừng chính trị hóa virus" href="/video/who-phan-phao-ong-trump-dung-chinh-tri-hoa-virus-118355.htm"><img title="WHO “phản pháo” ông Trump: Đừng chính trị hóa virus" alt="WHO “phản pháo” ông Trump: Đừng chính trị hóa virus" src="https://icdn.dantri.com.vn/zoom/250_156//2020/04/09/maxresdefault-1586393577217.jpg" /></a><a title="WHO “phản pháo” ông Trump: Đừng chính trị hóa virus" href="/video/who-phan-phao-ong-trump-dung-chinh-tri-hoa-virus-118355.htm">WHO “phản pháo” ông Trump: Đừng chính trị hóa virus</a><a title="WHO “phản pháo” ông Trump: Đừng chính trị hóa virus" class="sprite-dantri-new icon" href="/video/who-phan-phao-ong-trump-dung-chinh-tri-hoa-virus-118355.htm"></a></li>
+                        <li class=" last"><a title="Video hiếm về cuộc chiến chống Covid-19 trong khu chăm sóc tích cực tại Anh" href="/video/video-hiem-ve-cuoc-chien-chong-covid-19-trong-khu-cham-soc-tich-cuc-tai-anh-118322.htm"><img title="Video hiếm về cuộc chiến chống Covid-19 trong khu chăm sóc tích cực tại Anh" alt="Video hiếm về cuộc chiến chống Covid-19 trong khu chăm sóc tích cực tại Anh" src="https://icdn.dantri.com.vn/zoom/250_156//2020/04/08/maxresdefault-1586318802841.jpg" /></a><a title="Video hiếm về cuộc chiến chống Covid-19 trong khu chăm sóc tích cực tại Anh" href="/video/video-hiem-ve-cuoc-chien-chong-covid-19-trong-khu-cham-soc-tich-cuc-tai-anh-118322.htm">Video hiếm về cuộc chiến chống Covid-19 trong khu chăm sóc tích cực tại Anh</a><a title="Video hiếm về cuộc chiến chống Covid-19 trong khu chăm sóc tích cực tại Anh" class="sprite-dantri-new icon" href="/video/video-hiem-ve-cuoc-chien-chong-covid-19-trong-khu-cham-soc-tich-cuc-tai-anh-118322.htm"></a></li>
+                        <li class=""><a title="Thủ tướng Anh nói “vẫn khỏe” chỉ hai ngày trước khi nhập viện" href="/video/thu-tuong-anh-noi-van-khoe-chi-hai-ngay-truoc-khi-nhap-vien-118280.htm"><img title="Thủ tướng Anh nói “vẫn khỏe” chỉ hai ngày trước khi nhập viện" alt="Thủ tướng Anh nói “vẫn khỏe” chỉ hai ngày trước khi nhập viện" src="https://icdn.dantri.com.vn/zoom/250_156//2020/04/07/maxresdefault-1586228174106.jpg" /></a><a title="Thủ tướng Anh nói “vẫn khỏe” chỉ hai ngày trước khi nhập viện" href="/video/thu-tuong-anh-noi-van-khoe-chi-hai-ngay-truoc-khi-nhap-vien-118280.htm">Thủ tướng Anh nói “vẫn khỏe” chỉ hai ngày trước khi nhập viện</a><a title="Thủ tướng Anh nói “vẫn khỏe” chỉ hai ngày trước khi nhập viện" class="sprite-dantri-new icon" href="/video/thu-tuong-anh-noi-van-khoe-chi-hai-ngay-truoc-khi-nhap-vien-118280.htm"></a></li>
+                        <li class=""><a title="Ông Trump cảnh báo &quot;nhiều người chết&quot; trong tuần tới ở Mỹ" href="/video/ong-trump-canh-bao-nhieu-nguoi-chet-trong-tuan-toi-o-my-118188.htm"><img title="Ông Trump cảnh báo &quot;nhiều người chết&quot; trong tuần tới ở Mỹ" alt="Ông Trump cảnh báo &quot;nhiều người chết&quot; trong tuần tới ở Mỹ" src="https://icdn.dantri.com.vn/zoom/250_156//2020/04/05/maxresdefault-1586049210144.jpg" /></a><a title="Ông Trump cảnh báo &quot;nhiều người chết&quot; trong tuần tới ở Mỹ" href="/video/ong-trump-canh-bao-nhieu-nguoi-chet-trong-tuan-toi-o-my-118188.htm">Ông Trump cảnh báo "nhiều người chết" trong tuần tới ở Mỹ</a><a title="Ông Trump cảnh báo &quot;nhiều người chết&quot; trong tuần tới ở Mỹ" class="sprite-dantri-new icon" href="/video/ong-trump-canh-bao-nhieu-nguoi-chet-trong-tuan-toi-o-my-118188.htm"></a></li>
+                        <li class=""><a title="Sốc với cảnh những thi thể nạn nhân Covid-19 bị bỏ mặc trên phố ở Ecuador" href="/video/soc-voi-canh-nhung-thi-the-nan-nhan-covid-19-bi-bo-mac-tren-pho-o-ecuador-118123.htm"><img title="Sốc với cảnh những thi thể nạn nhân Covid-19 bị bỏ mặc trên phố ở Ecuador" alt="Sốc với cảnh những thi thể nạn nhân Covid-19 bị bỏ mặc trên phố ở Ecuador" src="https://icdn.dantri.com.vn/zoom/250_156//2020/04/04/hqdefault-1585976198866.jpg" /></a><a title="Sốc với cảnh những thi thể nạn nhân Covid-19 bị bỏ mặc trên phố ở Ecuador" href="/video/soc-voi-canh-nhung-thi-the-nan-nhan-covid-19-bi-bo-mac-tren-pho-o-ecuador-118123.htm">Sốc với cảnh những thi thể nạn nhân Covid-19 bị bỏ mặc trên phố ở Ecuador</a><a title="Sốc với cảnh những thi thể nạn nhân Covid-19 bị bỏ mặc trên phố ở Ecuador" class="sprite-dantri-new icon" href="/video/soc-voi-canh-nhung-thi-the-nan-nhan-covid-19-bi-bo-mac-tren-pho-o-ecuador-118123.htm"></a></li>
+                        <li class=" last"><a title="Thủy thủ vỗ tay tạm biệt chỉ huy tàu chiến mất chức vì kêu cứu về Covid-19" href="/video/thuy-thu-vo-tay-tam-biet-chi-huy-tau-chien-mat-chuc-vi-keu-cuu-ve-covid-19-118110.htm"><img title="Thủy thủ vỗ tay tạm biệt chỉ huy tàu chiến mất chức vì kêu cứu về Covid-19" alt="Thủy thủ vỗ tay tạm biệt chỉ huy tàu chiến mất chức vì kêu cứu về Covid-19" src="https://icdn.dantri.com.vn/zoom/250_156//thumb-video/2020/04/04/1000000033378618362272411382164640520301467-n-1585964354230/0_00_17.jpg" /></a><a title="Thủy thủ vỗ tay tạm biệt chỉ huy tàu chiến mất chức vì kêu cứu về Covid-19" href="/video/thuy-thu-vo-tay-tam-biet-chi-huy-tau-chien-mat-chuc-vi-keu-cuu-ve-covid-19-118110.htm">Thủy thủ vỗ tay tạm biệt chỉ huy tàu chiến mất chức vì kêu cứu về Covid-19</a><a title="Thủy thủ vỗ tay tạm biệt chỉ huy tàu chiến mất chức vì kêu cứu về Covid-19" class="sprite-dantri-new icon" href="/video/thuy-thu-vo-tay-tam-biet-chi-huy-tau-chien-mat-chuc-vi-keu-cuu-ve-covid-19-118110.htm"></a></li>
+                        <li class=""><a title="Bên trong nhà xác “dã chiến” tại Tây Ban Nha" href="/video/ben-trong-nha-xac-da-chien-tai-tay-ban-nha-118104.htm"><img title="Bên trong nhà xác “dã chiến” tại Tây Ban Nha" alt="Bên trong nhà xác “dã chiến” tại Tây Ban Nha" src="https://icdn.dantri.com.vn/zoom/250_156//thumb-video/2020/04/03/files-2020045-e-870-cd-785-f-54016315-a-4175-1585921863344/0_01_05.jpg" /></a><a title="Bên trong nhà xác “dã chiến” tại Tây Ban Nha" href="/video/ben-trong-nha-xac-da-chien-tai-tay-ban-nha-118104.htm">Bên trong nhà xác “dã chiến” tại Tây Ban Nha</a><a title="Bên trong nhà xác “dã chiến” tại Tây Ban Nha" class="sprite-dantri-new icon" href="/video/ben-trong-nha-xac-da-chien-tai-tay-ban-nha-118104.htm"></a></li>
+                        <li class=""><a title="New York chìm trong đại dịch Covid-19 như &quot;vùng thảm họa&quot;" href="/video/new-york-chim-trong-dai-dich-covid-19-nhu-vung-tham-hoa-118073.htm"><img title="New York chìm trong đại dịch Covid-19 như &quot;vùng thảm họa&quot;" alt="New York chìm trong đại dịch Covid-19 như &quot;vùng thảm họa&quot;" src="https://icdn.dantri.com.vn/zoom/250_156//2020/04/03/maxresdefault-1585886052370.jpg" /></a><a title="New York chìm trong đại dịch Covid-19 như &quot;vùng thảm họa&quot;" href="/video/new-york-chim-trong-dai-dich-covid-19-nhu-vung-tham-hoa-118073.htm">New York chìm trong đại dịch Covid-19 như "vùng thảm họa"</a><a title="New York chìm trong đại dịch Covid-19 như &quot;vùng thảm họa&quot;" class="sprite-dantri-new icon" href="/video/new-york-chim-trong-dai-dich-covid-19-nhu-vung-tham-hoa-118073.htm"></a></li>
+                        <li class=""><a title="Ông Trump giải thích lý do tỏ ra “lạc quan” khi Covid-19 mới bùng phát ở Mỹ" href="/video/ong-trump-giai-thich-ly-do-to-ra-lac-quan-khi-covid-19-moi-bung-phat-o-my-118044.htm"><img title="Ông Trump giải thích lý do tỏ ra “lạc quan” khi Covid-19 mới bùng phát ở Mỹ" alt="Ông Trump giải thích lý do tỏ ra “lạc quan” khi Covid-19 mới bùng phát ở Mỹ" src="https://icdn.dantri.com.vn/zoom/250_156//thumb-video/2020/04/02/p-3-dy-njfu-v-ycn-zflm-1585816919955/0_00_30.jpg" /></a><a title="Ông Trump giải thích lý do tỏ ra “lạc quan” khi Covid-19 mới bùng phát ở Mỹ" href="/video/ong-trump-giai-thich-ly-do-to-ra-lac-quan-khi-covid-19-moi-bung-phat-o-my-118044.htm">Ông Trump giải thích lý do tỏ ra “lạc quan” khi Covid-19 mới bùng phát ở Mỹ</a><a title="Ông Trump giải thích lý do tỏ ra “lạc quan” khi Covid-19 mới bùng phát ở Mỹ" class="sprite-dantri-new icon" href="/video/ong-trump-giai-thich-ly-do-to-ra-lac-quan-khi-covid-19-moi-bung-phat-o-my-118044.htm"></a></li>
+                        <li class=" last"><a title="Máy bay quân sự chở viện trợ y tế của Nga đã tới Mỹ" href="/video/may-bay-quan-su-cho-vien-tro-y-te-cua-nga-da-toi-my-118018.htm"><img title="Máy bay quân sự chở viện trợ y tế của Nga đã tới Mỹ" alt="Máy bay quân sự chở viện trợ y tế của Nga đã tới Mỹ" src="https://icdn.dantri.com.vn/zoom/250_156//2020/04/02/maxresdefault-1585791043034.jpg" /></a><a title="Máy bay quân sự chở viện trợ y tế của Nga đã tới Mỹ" href="/video/may-bay-quan-su-cho-vien-tro-y-te-cua-nga-da-toi-my-118018.htm">Máy bay quân sự chở viện trợ y tế của Nga đã tới Mỹ</a><a title="Máy bay quân sự chở viện trợ y tế của Nga đã tới Mỹ" class="sprite-dantri-new icon" href="/video/may-bay-quan-su-cho-vien-tro-y-te-cua-nga-da-toi-my-118018.htm"></a></li>
+                        <li class=""><a title="Italia chạy đua chống dịch Covid-19" href="/video/italia-chay-dua-chong-dich-covid-19-117964.htm"><img title="Italia chạy đua chống dịch Covid-19" alt="Italia chạy đua chống dịch Covid-19" src="https://icdn.dantri.com.vn/zoom/250_156//2020/04/01/maxresdefault-1585704930802.jpg" /></a><a title="Italia chạy đua chống dịch Covid-19" href="/video/italia-chay-dua-chong-dich-covid-19-117964.htm">Italia chạy đua chống dịch Covid-19</a><a title="Italia chạy đua chống dịch Covid-19" class="sprite-dantri-new icon" href="/video/italia-chay-dua-chong-dich-covid-19-117964.htm"></a></li>
+                        <li class=""><a title="Đại sứ Anh: “Chúng ta may mắn khi được sống và làm việc tại Việt Nam”" href="/video/dai-su-anh-chung-ta-may-man-khi-duoc-song-va-lam-viec-tai-viet-nam-117951.htm"><img title="Đại sứ Anh: “Chúng ta may mắn khi được sống và làm việc tại Việt Nam”" alt="Đại sứ Anh: “Chúng ta may mắn khi được sống và làm việc tại Việt Nam”" src="https://icdn.dantri.com.vn/zoom/250_156//thumb-video/2020/03/31/vie-thong-diep-toi-cong-dan-anh-tai-viet-nam-2-1585654852972/0_01_39.jpg" /></a><a title="Đại sứ Anh: “Chúng ta may mắn khi được sống và làm việc tại Việt Nam”" href="/video/dai-su-anh-chung-ta-may-man-khi-duoc-song-va-lam-viec-tai-viet-nam-117951.htm">Đại sứ Anh: “Chúng ta may mắn khi được sống và làm việc tại Việt Nam”</a><a title="Đại sứ Anh: “Chúng ta may mắn khi được sống và làm việc tại Việt Nam”" class="sprite-dantri-new icon" href="/video/dai-su-anh-chung-ta-may-man-khi-duoc-song-va-lam-viec-tai-viet-nam-117951.htm"></a></li>
+                        <li class=""><a title="Đại sứ Mỹ đánh giá cao nỗ lực chống dịch Covid-19 của Việt Nam" href="/video/dai-su-my-danh-gia-cao-no-luc-chong-dich-covid-19-cua-viet-nam-117946.htm"><img title="Đại sứ Mỹ đánh giá cao nỗ lực chống dịch Covid-19 của Việt Nam" alt="Đại sứ Mỹ đánh giá cao nỗ lực chống dịch Covid-19 của Việt Nam" src="https://icdn.dantri.com.vn/zoom/250_156//thumb-video/2020/03/31/100000002206128125115205533580442021727060-n-1585647374216/0_01_15.jpg" /></a><a title="Đại sứ Mỹ đánh giá cao nỗ lực chống dịch Covid-19 của Việt Nam" href="/video/dai-su-my-danh-gia-cao-no-luc-chong-dich-covid-19-cua-viet-nam-117946.htm">Đại sứ Mỹ đánh giá cao nỗ lực chống dịch Covid-19 của Việt Nam</a><a title="Đại sứ Mỹ đánh giá cao nỗ lực chống dịch Covid-19 của Việt Nam" class="sprite-dantri-new icon" href="/video/dai-su-my-danh-gia-cao-no-luc-chong-dich-covid-19-cua-viet-nam-117946.htm"></a></li>
+                        <li class=" last"><a title="Cố vấn trưởng chạy đi sau khi Thủ tướng Anh xác nhận mắc Covid-19" href="/video/co-van-truong-chay-di-sau-khi-thu-tuong-anh-xac-nhan-mac-covid-19-117926.htm"><img title="Cố vấn trưởng chạy đi sau khi Thủ tướng Anh xác nhận mắc Covid-19" alt="Cố vấn trưởng chạy đi sau khi Thủ tướng Anh xác nhận mắc Covid-19" src="https://icdn.dantri.com.vn/zoom/250_156//2020/03/31/maxresdefault-1585623008290.jpg" /></a><a title="Cố vấn trưởng chạy đi sau khi Thủ tướng Anh xác nhận mắc Covid-19" href="/video/co-van-truong-chay-di-sau-khi-thu-tuong-anh-xac-nhan-mac-covid-19-117926.htm">Cố vấn trưởng chạy đi sau khi Thủ tướng Anh xác nhận mắc Covid-19</a><a title="Cố vấn trưởng chạy đi sau khi Thủ tướng Anh xác nhận mắc Covid-19" class="sprite-dantri-new icon" href="/video/co-van-truong-chay-di-sau-khi-thu-tuong-anh-xac-nhan-mac-covid-19-117926.htm"></a></li>
+                </ul>
+            </div>
+        </div>
+        <script language="javascript" type="text/lazyscript">
+            var video_slide_maxtab = 5;
+            var video_slide_count = 25;
+            var video_slide_currenttab = 1;
+            PrintInfo();
+            function video_slide_forward() {
+                video_slide_currenttab++;
+                if (video_slide_currenttab > video_slide_maxtab) video_slide_currenttab = video_slide_maxtab;
+
+                var leftpx = (video_slide_currenttab - 1) * (-946);
+                $('#video-slide').animate({ left: leftpx }, 500);
+
+                PrintInfo();
+            }
+            function video_slide_backward() {
+                video_slide_currenttab--;
+                if (video_slide_currenttab < 1) video_slide_currenttab = 1;
+                var leftpx = (video_slide_currenttab - 1) * (-946);
+                $('#video-slide').animate({ left: leftpx }, 500);
+
+                PrintInfo();
+            }
+            function PrintInfo() {
+                var from = video_slide_currenttab * 5 - 4;
+                var to = video_slide_currenttab * 5;
+                $('#video-slide-info').html(from + ' - ' + to + ' / ' + video_slide_count);
+            }
+
+            $(".sprite-dantri-new.prev").click(video_slide_backward);
+            $(".sprite-dantri-new.next").click(video_slide_forward);
+        </script>
+        <div class="mostviewbyzone">
+            <div class="mv-header">
+                <img src="https://cdnweb.dantri.com.vn/images/blank.gif" border="0">
+            </div>
+            <div class="mv-container">
+                    <div class="mv-item">
+                        <a title="Mỹ có trên 500.000 ca Covid-19, số người tử vong cao nhất thế giới" href="/the-gioi/my-co-tren-500000-ca-covid-19-so-nguoi-tu-vong-cao-nhat-the-gioi-20200412064651857.htm">
+                            <img title="Mỹ có trên 500.000 ca Covid-19, số người tử vong cao nhất thế giới" alt="Mỹ có trên 500.000 ca Covid-19, số người tử vong cao nhất thế giới" src="https://icdn.dantri.com.vn/zoom/130_130//2020/04/12/r-1586648456934.jpg" />
+                        </a>
+                        <h4><a title="Mỹ có trên 500.000 ca Covid-19, số người tử vong cao nhất thế giới" href="/the-gioi/my-co-tren-500000-ca-covid-19-so-nguoi-tu-vong-cao-nhat-the-gioi-20200412064651857.htm">Mỹ có trên 500.000 ca Covid-19, số người tử vong cao nhất thế giới</a></h4>
+                    </div>
+                    <div class="mv-item">
+                        <a title="Số ca Covid-19 tăng kỷ lục ở Nga, xe cứu thương ùn ùn gây tắc đường" href="/the-gioi/so-ca-covid-19-tang-ky-luc-o-nga-xe-cuu-thuong-un-un-gay-tac-duong-20200412150439293.htm">
+                            <img title="Số ca Covid-19 tăng kỷ lục ở Nga, xe cứu thương ùn ùn gây tắc đường" alt="Số ca Covid-19 tăng kỷ lục ở Nga, xe cứu thương ùn ùn gây tắc đường" src="https://icdn.dantri.com.vn/zoom/130_130//2020/04/12/5-e-9228-db-2030272-c-766-e-4949-1586678098678.jpg" />
+                        </a>
+                        <h4><a title="Số ca Covid-19 tăng kỷ lục ở Nga, xe cứu thương ùn ùn gây tắc đường" href="/the-gioi/so-ca-covid-19-tang-ky-luc-o-nga-xe-cuu-thuong-un-un-gay-tac-duong-20200412150439293.htm">Số ca Covid-19 tăng kỷ lục ở Nga, xe cứu thương ùn ùn gây tắc đường</a></h4>
+                    </div>
+                    <div class="mv-item">
+                        <a title="Báo nước ngoài đồng loạt đưa tin “ATM gạo” của Việt Nam" href="/the-gioi/bao-nuoc-ngoai-dong-loat-dua-tin-atm-gao-cua-viet-nam-20200414115130431.htm">
+                            <img title="Báo nước ngoài đồng loạt đưa tin “ATM gạo” của Việt Nam" alt="Báo nước ngoài đồng loạt đưa tin “ATM gạo” của Việt Nam" src="https://icdn.dantri.com.vn/zoom/130_130//2020/04/14/20200413-t-064737-z-2145130482-rc-2-i-3-g-9-wk-6-vertrmadp-3-healthcoronavirusvietnamriceatm-1586839716009.jpg" />
+                        </a>
+                        <h4><a title="Báo nước ngoài đồng loạt đưa tin “ATM gạo” của Việt Nam" href="/the-gioi/bao-nuoc-ngoai-dong-loat-dua-tin-atm-gao-cua-viet-nam-20200414115130431.htm">Báo nước ngoài đồng loạt đưa tin “ATM gạo” của Việt Nam</a></h4>
+                    </div>
+                    <div class="mv-item">
+                        <a title="Mỹ cảnh báo sẽ truy trách nhiệm về đại dịch Covid-19" href="/the-gioi/my-canh-bao-se-truy-trach-nhiem-ve-dai-dich-covid-19-20200414130303231.htm">
+                            <img title="Mỹ cảnh báo sẽ truy trách nhiệm về đại dịch Covid-19" alt="Mỹ cảnh báo sẽ truy trách nhiệm về đại dịch Covid-19" src="https://icdn.dantri.com.vn/zoom/130_130//2020/04/14/mike-pompeo-1586843729631.jpg" />
+                        </a>
+                        <h4><a title="Mỹ cảnh báo sẽ truy trách nhiệm về đại dịch Covid-19" href="/the-gioi/my-canh-bao-se-truy-trach-nhiem-ve-dai-dich-covid-19-20200414130303231.htm">Mỹ cảnh báo sẽ truy trách nhiệm về đại dịch Covid-19</a></h4>
+                    </div>
+                    <div class="mv-item">
+                        <a title="Số người chết vì Covid-19 vượt 22.000 người, Mỹ tính mở cửa kinh tế trở lại" href="/the-gioi/so-nguoi-chet-vi-covid-19-vuot-22000-nguoi-my-tinh-mo-cua-kinh-te-tro-lai-20200413062155339.htm">
+                            <img title="Số người chết vì Covid-19 vượt 22.000 người, Mỹ tính mở cửa kinh tế trở lại" alt="Số người chết vì Covid-19 vượt 22.000 người, Mỹ tính mở cửa kinh tế trở lại" src="https://icdn.dantri.com.vn/zoom/130_130//2020/04/13/my-1586733611582.jpg" />
+                        </a>
+                        <h4><a title="Số người chết vì Covid-19 vượt 22.000 người, Mỹ tính mở cửa kinh tế trở lại" href="/the-gioi/so-nguoi-chet-vi-covid-19-vuot-22000-nguoi-my-tinh-mo-cua-kinh-te-tro-lai-20200413062155339.htm">Số người chết vì Covid-19 vượt 22.000 người, Mỹ tính mở cửa kinh tế trở lại</a></h4>
+                    </div>
+                    <div class="mv-item">
+                        <a title="Hơn 23.000 người chết vì Covid-19, Mỹ gần đến đỉnh dịch" href="/the-gioi/hon-23000-nguoi-chet-vi-covid-19-my-gan-den-dinh-dich-20200414062225479.htm">
+                            <img title="Hơn 23.000 người chết vì Covid-19, Mỹ gần đến đỉnh dịch" alt="Hơn 23.000 người chết vì Covid-19, Mỹ gần đến đỉnh dịch" src="https://icdn.dantri.com.vn/zoom/130_130//2020/04/08/my-3-1586300662623.jpg" />
+                        </a>
+                        <h4><a title="Hơn 23.000 người chết vì Covid-19, Mỹ gần đến đỉnh dịch" href="/the-gioi/hon-23000-nguoi-chet-vi-covid-19-my-gan-den-dinh-dich-20200414062225479.htm">Hơn 23.000 người chết vì Covid-19, Mỹ gần đến đỉnh dịch</a></h4>
+                    </div>
+                    <div class="mv-item">
+                        <a title="Thi thể nằm chồng chất tại bệnh viện Mỹ" href="/the-gioi/thi-the-nam-chong-chat-tai-benh-vien-my-20200414164842817.htm">
+                            <img title="Thi thể nằm chồng chất tại bệnh viện Mỹ" alt="Thi thể nằm chồng chất tại bệnh viện Mỹ" src="https://icdn.dantri.com.vn/zoom/130_130//2020/04/08/anh-6-1586318967870.jpg" />
+                        </a>
+                        <h4><a title="Thi thể nằm chồng chất tại bệnh viện Mỹ" href="/the-gioi/thi-the-nam-chong-chat-tai-benh-vien-my-20200414164842817.htm">Thi thể nằm chồng chất tại bệnh viện Mỹ</a></h4>
+                    </div>
+                    <div class="mv-item">
+                        <a title="Chỉ trích WHO về dịch Covid-19, Mỹ tính ngay phương án lập tổ chức thay thế" href="/the-gioi/chi-trich-who-ve-dich-covid-19-my-tinh-ngay-phuong-an-lap-to-chuc-thay-the-20200413113413012.htm">
+                            <img title="Chỉ trích WHO về dịch Covid-19, Mỹ tính ngay phương án lập tổ chức thay thế" alt="Chỉ trích WHO về dịch Covid-19, Mỹ tính ngay phương án lập tổ chức thay thế" src="https://icdn.dantri.com.vn/zoom/130_130//2020/04/13/trump-1586752187233.jpg" />
+                        </a>
+                        <h4><a title="Chỉ trích WHO về dịch Covid-19, Mỹ tính ngay phương án lập tổ chức thay thế" href="/the-gioi/chi-trich-who-ve-dich-covid-19-my-tinh-ngay-phuong-an-lap-to-chuc-thay-the-20200413113413012.htm">Chỉ trích WHO về dịch Covid-19, Mỹ tính ngay phương án lập tổ chức thay thế</a></h4>
+                    </div>
+            </div>
+            <div class="mv-footer"></div>
+        </div>
+    </div>
+    <div id="adm_sticky_footer" style="height: 0px">
+    </div>
+    <div class="footer box19">
+    <div class="fr mb1 mt2">
+        <a class="fon19" rel="nofollow" href="#">[ Trở về đầu trang ]</a>
+    </div>
+    <div class="clear line2">
+    </div>
+    <div class="clearfix">
+        <div class="fon17 mt1">
+            <a rel="nofollow" title="Sự kiện" href="/su-kien.htm">Sự kiện</a> | <a rel="nofollow" title="Xã hội" href="/xa-hoi.htm">Xã hội</a> | <a rel="nofollow" title="Thế giới" href="/the-gioi.htm">Thế giới</a> | <a rel="nofollow" title="Thể thao" href="/the-thao.htm">Thể thao</a> | <a rel="nofollow" title="Giáo dục" href="/giao-duc-khuyen-hoc.htm">Giáo dục</a> | <a rel="nofollow" title="Nhân ái" href="/tam-long-nhan-ai.htm">Nhân ái</a> | <a rel="nofollow" title="Kinh doanh" href="/kinh-doanh.htm">Kinh doanh</a> | <a rel="nofollow" title="Văn hóa" href="/van-hoa.htm">Văn hóa</a> | <a rel="nofollow" title="Giải trí" href="/giai-tri.htm">Giải trí</a> | <a rel="nofollow" target="_blank" title="Du lịch" href="https://dulich.dantri.com.vn">Du lịch</a> | <a rel="nofollow" title="Pháp luật" href="/phap-luat.htm">Pháp luật</a> | <a rel="nofollow" title="Nhịp sống trẻ" href="/nhip-song-tre.htm">Nhịp sống trẻ</a> | <a rel="nofollow" title="Sức khỏe" href="/suc-khoe.htm">Sức khỏe</a> |  <a rel="nofollow" title="Sức mạnh số" href="/suc-manh-so.htm">Sức mạnh số</a> | <a rel="nofollow" title="Xe++" href="/o-to-xe-may.htm">Xe++</a>
+            | <a rel="nofollow" title="Tình yêu" href="/tinh-yeu-gioi-tinh.htm">Tình yêu</a> | <a rel="nofollow" title="Chuyện lạ" href="/chuyen-la.htm">Chuyện lạ</a>
+        </div>
+    </div>
+    <div class="footer-content box8 fon18 lh18">
+        <div class="footer-content-left">
+            Cơ quan của TW Hội Khuyến học Việt Nam<br>
+            Giấy phép hoạt động báo điện tử Dân trí trên Internet số  378/GP - BTTTT Hà Nội,
+            ngày 16-09-2013.<br>
+            Tòa soạn: Số 2 (nhà 48) Giảng Võ, Quận Đống Đa, Hà Nội<br>
+            Điện thoại: 024-3736-6491. Fax: 024-3736-6490<br>
+            Email: <a title="Gửi email tới Dân Trí" rel="nofollow" href="mailto:info@dantri.com.vn">info@dantri.com.vn</a>. Website: <a title="Xem trang Dân Trí" rel="nofollow" href="https://www.dantri.com.vn">https://www.dantri.com.vn</a>
+            <br>
+            <p>
+                <i>
+                    Mọi hành động sử dụng nội dung đăng tải trên Báo điện tử Dân trí tại địa chỉ www.dantri.com.vn
+                    phải<br> có sự đồng ý bằng văn bản của Báo điện tử Dân trí.
+                </i>
+            </p>
+        </div>
+        <div class="footer-content-right">
+            <p class="nwr">
+                Đơn vị quảng cáo: &nbsp;<img src="/images/adm_new_logo_small.png" style="display:inline-block; border: none;">&nbsp;<a href="tel:&#x2B;84942861133">0942.86.11.33</a>
+            </p>
+            <p>
+                Liên hệ: 09.4554.0303
+            </p>
+
+            <p>
+                Xem bản mobile: <div dsw></div>
+            </p>
+        </div>
+    </div>
+</div>
+<script type="application/ld+json">
+    {
+    "@context": "http://schema.org",
+    "@type": "Organization",
+    "name":"Báo Dân Trí - Cơ quan của TW Hội Khuyến học Việt Nam",
+    "url": "https://dantri.com.vn/",
+    "slogan":"Thông tin mọi lúc, mọi nơi, tới mọi người, mọi nhà",
+    "logo": "https://dantri.com.vn/images/logo.png",
+    "email":"info@dantri.com.vn",
+    "additionalType":"https://vi.wikipedia.org/wiki/B%C3%A1o_%C4%91i%E1%BB%87n_t%E1%BB%AD",
+    "sameAs":["https://www.facebook.com/baodantridientu",
+    "https://vi.wikipedia.org/wiki/D%C3%A2n_tr%C3%AD_(b%C3%A1o)"],
+    "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Số 2 (nhà 48) Giảng Võ, Quận Đống Đa",
+    "addressLocality": "Hà Nội"
+    },
+    "contactPoint": [{
+    "@type": "ContactPoint",
+    "telephone": "+842437366491",
+    "contactOption": "TollFree",
+    "contactType": "customer service",
+    "areaServed": "VN"
+    }]
+    }
+</script>
+</div>
+<script type="application/ld+json">
+    {
+
+    "@context":"http://schema.org",
+    "@type": "BreadcrumbList",
+    "itemListElement": [{
+    "@type": "ListItem",
+    "position": 1,
+    "name": "Trang chủ",
+    "item": "https://dantri.com.vn"
+    },{
+    "@type": "ListItem",
+    "position": 2,
+    "name": "Thế giới",
+    "item": "https://dantri.com.vn/the-gioi.htm"
+    }
+    ]
+    }
+</script>
+
+<script type="text/lazyscript">
+    var icoNewsTypeVote = '<i class="ico-newstype-vote" title="Bài trắc nghiệm"></i>';
+    if ($("html").hasClass("homepage")) {
+        $("a[data-newstype=22]").prepend(icoNewsTypeVote);
+    } else {
+        $("a[data-newstype=22]").append(icoNewsTypeVote);
+    }
+</script>
+
+
+<!-- Event listener to message from comment service ------>
+<script>
+    window.addEventListener("message", function (event) {
+        if (event.origin = "https://comment.dantri.com.vn" && event.data.from === "comment") {
+            window.webLog.track("Comment", {
+                action: event.data.action,
+                label: event.data.label
+            })
+        }
+    })
+</script>
+<!-- End event listener to message from comment service -->
+
+<script type="text/lazyscript">
+    var newZoneLink = $('.subnav ul a[href$="/doi-song/thuong-luu.htm"]');
+    if (newZoneLink.length > 0) {
+        newZoneLink.css({
+            "position": "relative",
+            "padding-right": "32px"
+        });
+        var icoNew = $('<i />').css({
+            background: 'transparent url("/web_images/bd2aa9f1-5e63-4cc5-96b3-2d03e5fd9be7.png")  0 0 no-repeat',
+            width: '29px',
+            height: '16px',
+            display: 'inline-block',
+            position: 'absolute',
+            top: '-2px',
+            right: '0'
+        });
+        newZoneLink.append(icoNew);
+    }
+</script>
+<style>
+    .DanTriPlayer .text-label {
+        max-width: unset;
+    }
+</style>
+
+
+    <script>
+        $(document).ready(function () {
+            setTimeout(function () {
+                var items = $('.mv-item');
+                if (items && items.length > 0) {
+                    var maxHeight = 0;
+                    items.each(function () {
+                        if ($(this).height() > maxHeight) {
+                            maxHeight = $(this).height();
+                        }
+                        if ((items.index($(this)) + 1) % 4 == 0) {
+
+                            $(this).addClass("last");
+                        }
+                    });
+                    items.css('height', maxHeight);
+                }
+            }, 500);
+        });
+    </script>
+
+
+
+
+
+
+
+
+<script type='text/javascript'  src='https://cdnweb.dantri.com.vn/bundle/js/site.min.js?v=0415114907'></script>    <script>
+    var eventMethod = window.addEventListener ? "addEventListener" : "attachEvent";
+    var eventer = window[eventMethod];
+    var messageEvent = eventMethod == "attachEvent" ? "onmessage" : "message";
+
+    // Listen to message from child window
+    eventer(messageEvent,function(e) {
+        if (e.data=="reload") {
+            window.location.reload();
+        }
+        //console.log('parent received message!:  ',e.data);
+    },false);
+
+    
+</script>
+        <script type="text/javascript" async src="https://media1.admicro.vn/core/admcore.js"></script>   
+        <script async src="https://static.amcdn.vn/tka/cdn.js" type="text/javascript"></script>
+
+<script type='text/javascript'  src='https://cdnweb.dantri.com.vn/bundle/js/oldcode.min.js?v=0415114907'></script>    
+    
+
+    
+
+
+</body>
+</html>
