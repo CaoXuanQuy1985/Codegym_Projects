@@ -59,6 +59,17 @@ public class MySQLClient {
             }
             System.out.println();
 
+            //tổng doanh thu của những năm lớn hơn năm 2003....
+            String queryStr_5 = "select year(classicmodels.orders.orderDate) as year, sum(quantityOrdered * priceEach) as totalMoney " +
+                                         "from classicmodels.orders inner join " +
+                                         "classicmodels.orderdetails using(orderNumber) where status = 'Shipped' group by year " +
+                                         "having year > 2003";
+            rset = executeObj.execute(queryStr_5);
+            while (rset.next()) {
+                System.out.print(rset.getInt("year") + "       ");
+                System.out.println(rset.getFloat("totalMoney"));
+            }
+            System.out.println();
         } catch (SQLException ex) {
             ex.printStackTrace();
         } finally {
