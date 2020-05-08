@@ -1,0 +1,18 @@
+h2 {
+    width: 600px;
+    height: 30px;
+    border-bottom: 1px solid black;
+}
+
+p {
+    width: 600px;
+}
+
+body {
+    margin-left: 50px;
+    text-align: left;
+}
+
+span {
+    color: blue;
+}
