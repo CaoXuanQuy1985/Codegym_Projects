@@ -1,0 +1,1150 @@
+body {
+    margin: 0 auto;
+    font-family: Verdana sans-serif, "Times New Roman";
+}
+
+section {
+    float: left;
+}
+
+header, section, #wrapper {
+    width: 100%;
+}
+
+@media all and (min-width: 1366px) {
+    body, #wrapper {
+        width: 100%;
+        background-color: #18191a;
+    }
+
+    header {
+        height: 66px;
+        background-color: #242526;
+        border-bottom: 1px solid #3a3b3c;
+        position: fixed;
+        z-index: 10;
+    }
+
+    #search {
+        width: 400px;
+        background-color: #242526;
+        float: left;
+    }
+    #logo {
+        width: 50px;
+        height: 51px;
+        float: left;
+        background-image: url("../images/logo.png");
+        background-size: cover;
+        margin: 6px 13px 2px 20px;
+    }
+    #search input {
+        background-color: #3a3b3c;
+        border: none;
+        height: 44px;
+        margin-top: 10px;
+        width: 250px;
+        border-radius: 50px;
+    }
+    #search input {
+        width: 230px;
+        background-image: url("../images/search-icon-html-28.png");
+        background-size: 25px;
+        background-repeat: no-repeat;
+        background-position: 5% 50%;
+        font-size: 15px;
+        padding-left:50px;
+        float: left;
+    }
+    #main-menu {
+        width: 580px;
+        height: 65px;
+        background-color: #242526;
+        float: left;
+        margin-left: 50px;
+    }
+    #main-menu ul {
+        display: inline;
+        float: left;
+    }
+    #main-menu ul li {
+        width: 100px;
+        height: 50px;
+        display: inline;
+        list-style: none;
+        float: left;
+        background-color: #242526;
+        border-bottom: 1px solid #3a3b3c;
+    }
+    #main-menu ul li a img {
+        margin-top: 5px;
+    }
+    #main-menu ul li:first-child {
+        margin-top: -1px;
+        height: 51px;
+    }
+    #account {
+        width: 310px;
+        height: 65px;
+        float: right;
+        margin-right: 6px;
+    }
+    #account ul li {
+        list-style: none;
+        display: inline;
+        padding-left: 15px;
+    }
+    #account ul li:first-child {
+        position: relative;
+        bottom: 5px;
+        left: -10px;
+    }
+    #left-side {
+        width: 300px;
+        height: 600px;
+        float: left;
+    }
+    #left-side ul {
+        margin-left: -17px
+    }
+    #left-side ul li {
+        list-style: none;
+        height: 53px;
+    }
+    #left-side ul li a {
+        text-decoration: none;
+        font-size: 18px;
+        color: white;
+        position: relative;
+        left: 20px;
+        bottom: 8px;
+    }
+    article {
+        width: 500px;
+        height: 2000px;
+        float: left;
+        margin-top: 20px;
+        margin-left: 100px;
+        padding-left: 50px;
+    }
+    .add-new {
+        width: 100px;
+        height: 200px;
+        background-color: green;
+        border: 1px solid black;
+        float: left;
+        border-radius: 20px;
+        margin-right: 20px;
+        background-image: url("../images/new-account.png");
+        background-repeat: no-repeat;
+        background-size: cover;
+    }
+    section {
+        margin-top: 80px;
+    }
+    #new2 {
+        background-image: url("../images/new-account-2.png");
+    }
+    #new3 {
+        background-image: url("../images/new-account-3.png");
+    }
+    #new4 {
+        background-image: url("../images/new-account-4.png");
+    }
+    #main-feeds {
+        width: 500px;
+        height: 2000px;
+        margin-top: 230px;
+        margin-left: -15px;
+    }
+    #input-emotions {
+        width: 100%;
+        height: 125px;
+        background-color: #242526;
+        border-radius: 15px;
+    }
+    #emotions {
+        width: 100%;
+        height: 70px;
+        background-color: #242526;
+        border-top-left-radius: 15px;
+        border-top-right-radius: 15px;
+        border-bottom: 1px solid #3a3b3c;
+    }
+    #logo-emotions {
+        width: 52px;
+        height: 52px;
+        float: left;
+        background-image: url("../images/account (copy).png");
+        background-size: cover;
+        margin: 10px;
+    }
+    #emotions input {
+        background-color: #3a3b3c;
+        border: none;
+        height: 44px;
+        margin-top: 12px;
+        margin-left: 5px;
+        border-radius: 50px;
+        width: 380px;
+        background-size: 25px;
+        background-repeat: no-repeat;
+        background-position: 5% 50%;
+        font-size: 15px;
+        padding-left:30px;
+        float: left;
+    }
+    #option-emotions ul li {
+        display: inline;
+        color: white;
+        padding-left: 8px;
+    }
+    #option-emotions ul li a {
+        margin-left: 5px;
+        position: relative;
+        bottom: 4px;
+    }
+    .feeds {
+        margin-top: 25px;
+        width: 500px;
+        height: 520px;
+        background-color: #242526;
+        border-radius: 15px;
+    }
+    .nameAccount {
+        width: 500px;
+        height: 60px;
+        background-color: #242526;
+        color: white;
+        border-top-left-radius: 15px;
+        border-top-right-radius: 15px;
+    }
+    .time {
+        font-size: 14px;
+    }
+    .nameAccount p {
+        font-weight: bold;
+        padding-top: 15px;
+    }
+    .avatar {
+        float: left;
+        margin: 15px 15px 20px 20px;
+    }
+    .main-content {
+        width: 500px;
+        height: 280px;
+        background-image: url("../images/main_1.png");
+    }
+    .friends-like {
+        width: 460px; 
+        height: 45px;
+        color: white;
+        position: relative;
+        border-bottom: 1px solid #3a3b3c;
+        bottom: 15px;
+        margin-left: 15px
+    }
+    .friends-like img {
+        padding-top: 14px;
+        padding-left: 10px;
+        float: left;
+    }
+    .friends-like p {
+        padding-top: 15px;
+        position: relative;
+        left: 5px;
+    }
+    .like {
+        width: 380px;
+        height: 40px;
+        border-bottom: 1px solid #3a3b3c;
+        margin-left: 15px;
+        color: white;
+        padding-left: 80px;
+    }
+    #cm-icon {
+        margin-left: 150px;
+    }
+    .comment {
+        width: 380px;
+        height: 80px;
+        margin-left: 15px;
+        color: white;
+        padding-left: 80px;
+    }
+    .comment input {
+         background-color: #3a3b3c;
+        border: none;
+        height: 44px;
+        margin-top: 12px;
+        border-radius: 50px;
+        width: 350px;
+        background-size: 25px;
+        background-repeat: no-repeat;
+        background-position: 5% 50%;
+        font-size: 15px;
+        padding-left:40px;
+        float: left;
+    }
+    #logo-comment {
+        width: 50px;
+        height: 50px;
+        background-image: url("../images/account (copy).png");
+        background-size: cover;
+        margin-left: -65px;
+        margin-top: 13px;
+        float: left;
+    }
+    #right-side {
+        width: 200px;
+        height: 600px;
+        float: right;
+        color: white;
+    }
+    #right-side ul li {
+        list-style: none;
+        font-size: 19px;
+        margin-left: -36px;
+        margin-bottom: 10px;
+    }
+    #right-side ul li a {
+        text-decoration: none;
+        color: white;
+        margin-left: 10px;
+        position: relative;
+        bottom: 7px;
+    }
+}
+
+@media screen and (max-width: 1365px) {
+    body, #wrapper {
+        width: 100%;
+        background-color: #18191a;
+    }
+
+    header {
+        height: 66px;
+        background-color: #242526;
+        border-bottom: 1px solid #3a3b3c;
+        position: fixed;
+        z-index: 10;
+    }
+
+    #search {
+        width: 340px;
+        background-color: #242526;
+        float: left;
+    }
+    #logo {
+        width: 50px;
+        height: 51px;
+        float: left;
+        background-image: url("../images/logo.png");
+        background-size: cover;
+        margin: 6px 13px 2px 20px;
+    }
+    #search input {
+        background-color: #3a3b3c;
+        border: none;
+        height: 44px;
+        margin-top: 10px;
+        border-radius: 50px;
+    }
+    #search input {
+        width: 190px;
+        background-image: url("../images/search-icon-html-28.png");
+        background-size: 25px;
+        background-repeat: no-repeat;
+        background-position: 5% 50%;
+        font-size: 15px;
+        padding-left:40px;
+        float: left;
+    }
+    #main-menu {
+        width: 450px;
+        height: 65px;
+        background-color: #242526;
+        float: left;
+        margin-left: 70px;
+    }
+    #main-menu ul {
+        display: inline;
+        float: left;
+    }
+    #main-menu ul li {
+        width: 80px;
+        height: 50px;
+        display: inline;
+        list-style: none;
+        float: left;
+        background-color: #242526;
+        border-bottom: 1px solid #3a3b3c;
+    }
+    #main-menu ul li a img {
+        margin-top: 5px;
+    }
+    #main-menu ul li:first-child {
+        margin-top: -1px;
+        height: 51px;
+    }
+    #account {
+        width: 300px;
+        height: 65px;
+        float: right;
+        margin-right: 6px;
+    }
+    #account ul li {
+        list-style: none;
+        display: inline;
+        padding-left: 15px;
+    }
+    #account ul li:first-child {
+        position: relative;
+        bottom: 5px;
+        left: -10px;
+    }
+    #left-side {
+        width: 300px;
+        height: 600px;
+        float: left;
+    }
+    #left-side ul {
+        margin-left: -17px
+    }
+    #left-side ul li {
+        list-style: none;
+        height: 53px;
+    }
+    #left-side ul li a {
+        text-decoration: none;
+        font-size: 18px;
+        color: white;
+        position: relative;
+        left: 20px;
+        bottom: 8px;
+    }
+    article {
+        width: 500px;
+        height: 2000px;
+        float: left;
+        margin-top: 20px;
+        margin-left: 60px;
+        padding-left: 50px;
+    }
+    .add-new {
+        width: 100px;
+        height: 200px;
+        background-color: green;
+        border: 1px solid black;
+        float: left;
+        border-radius: 20px;
+        margin-right: 20px;
+        background-image: url("../images/new-account.png");
+        background-repeat: no-repeat;
+        background-size: cover;
+    }
+    section {
+        margin-top: 80px;
+    }
+    #new2 {
+        background-image: url("../images/new-account-2.png");
+    }
+    #new3 {
+        background-image: url("../images/new-account-3.png");
+    }
+    #new4 {
+        background-image: url("../images/new-account-4.png");
+    }
+    #main-feeds {
+        width: 500px;
+        height: 2000px;
+        margin-top: 230px;
+        margin-left: -15px;
+    }
+    #input-emotions {
+        width: 100%;
+        height: 125px;
+        background-color: #242526;
+        border-radius: 15px;
+    }
+    #emotions {
+        width: 100%;
+        height: 70px;
+        background-color: #242526;
+        border-top-left-radius: 15px;
+        border-top-right-radius: 15px;
+        border-bottom: 1px solid #3a3b3c;
+    }
+    #logo-emotions {
+        width: 52px;
+        height: 52px;
+        float: left;
+        background-image: url("../images/account (copy).png");
+        background-size: cover;
+        margin: 10px;
+    }
+    #emotions input {
+        background-color: #3a3b3c;
+        border: none;
+        height: 44px;
+        margin-top: 12px;
+        margin-left: 5px;
+        border-radius: 50px;
+        width: 380px;
+        background-size: 25px;
+        background-repeat: no-repeat;
+        background-position: 5% 50%;
+        font-size: 15px;
+        padding-left:30px;
+        float: left;
+    }
+    #option-emotions ul li {
+        display: inline;
+        color: white;
+        padding-left: 8px;
+    }
+    #option-emotions ul li a {
+        margin-left: 5px;
+        position: relative;
+        bottom: 4px;
+    }
+    .feeds {
+        margin-top: 25px;
+        width: 500px;
+        height: 520px;
+        background-color: #242526;
+        border-radius: 15px;
+    }
+    .nameAccount {
+        width: 500px;
+        height: 60px;
+        background-color: #242526;
+        color: white;
+        border-top-left-radius: 15px;
+        border-top-right-radius: 15px;
+    }
+    .time {
+        font-size: 14px;
+    }
+    .nameAccount p {
+        font-weight: bold;
+        padding-top: 15px;
+    }
+    .avatar {
+        float: left;
+        margin: 15px 15px 20px 20px;
+    }
+    .main-content {
+        width: 500px;
+        height: 280px;
+        background-image: url("../images/main_1.png");
+    }
+    .friends-like {
+        width: 460px;
+        height: 45px;
+        color: white;
+        position: relative;
+        border-bottom: 1px solid #3a3b3c;
+        bottom: 15px;
+        margin-left: 15px
+    }
+    .friends-like img {
+        padding-top: 14px;
+        padding-left: 10px;
+        float: left;
+    }
+    .friends-like p {
+        padding-top: 15px;
+        position: relative;
+        left: 5px;
+    }
+    .like {
+        width: 380px;
+        height: 40px;
+        border-bottom: 1px solid #3a3b3c;
+        margin-left: 15px;
+        color: white;
+        padding-left: 80px;
+    }
+    #cm-icon {
+        margin-left: 150px;
+    }
+    .comment {
+        width: 380px;
+        height: 80px;
+        margin-left: 15px;
+        color: white;
+        padding-left: 80px;
+    }
+    .comment input {
+        background-color: #3a3b3c;
+        border: none;
+        height: 44px;
+        margin-top: 12px;
+        border-radius: 50px;
+        width: 350px;
+        background-size: 25px;
+        background-repeat: no-repeat;
+        background-position: 5% 50%;
+        font-size: 15px;
+        padding-left:40px;
+        float: left;
+    }
+    #logo-comment {
+        width: 50px;
+        height: 50px;
+        background-image: url("../images/account (copy).png");
+        background-size: cover;
+        margin-left: -65px;
+        margin-top: 13px;
+        float: left;
+    }
+    #right-side {
+        width: 200px;
+        height: 600px;
+        float: right;
+        color: white;
+    }
+    #right-side ul li {
+        list-style: none;
+        font-size: 19px;
+        margin-left: -36px;
+        margin-bottom: 10px;
+    }
+    #right-side ul li a {
+        text-decoration: none;
+        color: white;
+        margin-left: 10px;
+        position: relative;
+        bottom: 7px;
+    }
+}
+
+@media screen and (max-width: 1181px) {
+    body, #wrapper {
+        width: 100%;
+        background-color: #18191a;
+    }
+
+    header {
+        height: 66px;
+        background-color: #242526;
+        border-bottom: 1px solid #3a3b3c;
+        position: fixed;
+        z-index: 10;
+    }
+
+    #search {
+        width: 340px;
+        background-color: #242526;
+        float: left;
+    }
+    #logo {
+        width: 50px;
+        height: 51px;
+        float: left;
+        background-image: url("../images/logo.png");
+        background-size: cover;
+        margin: 6px 13px 2px 20px;
+    }
+    #search input {
+        background-color: #3a3b3c;
+        border: none;
+        height: 44px;
+        margin-top: 10px;
+        border-radius: 50px;
+    }
+    #search input {
+        width: 190px;
+        background-image: url("../images/search-icon-html-28.png");
+        background-size: 25px;
+        background-repeat: no-repeat;
+        background-position: 5% 50%;
+        font-size: 15px;
+        padding-left:40px;
+        float: left;
+    }
+    #main-menu {
+        width: 450px;
+        height: 65px;
+        background-color: #242526;
+        float: left;
+        margin-left: 70px;
+    }
+    #main-menu ul {
+        display: inline;
+        float: left;
+    }
+    #main-menu ul li {
+        width: 80px;
+        height: 50px;
+        display: inline;
+        list-style: none;
+        float: left;
+        background-color: #242526;
+        border-bottom: 1px solid #3a3b3c;
+    }
+    #main-menu ul li a img {
+        margin-top: 5px;
+    }
+    #main-menu ul li:first-child {
+        margin-top: -1px;
+        height: 51px;
+    }
+    #account {
+        display: none;
+        visibility: hidden;
+    }
+    #left-side {
+        width: 300px;
+        height: 600px;
+        float: left;
+    }
+    #left-side ul {
+        margin-left: -17px
+    }
+    #left-side ul li {
+        list-style: none;
+        height: 53px;
+    }
+    #left-side ul li a {
+        text-decoration: none;
+        font-size: 18px;
+        color: white;
+        position: relative;
+        left: 20px;
+        bottom: 8px;
+    }
+    article {
+        width: 500px;
+        height: 2000px;
+        float: left;
+        margin-top: 20px;
+        margin-left: 60px;
+        padding-left: 50px;
+    }
+    .add-new {
+        width: 100px;
+        height: 200px;
+        background-color: green;
+        border: 1px solid black;
+        float: left;
+        border-radius: 20px;
+        margin-right: 20px;
+        background-image: url("../images/new-account.png");
+        background-repeat: no-repeat;
+        background-size: cover;
+    }
+    section {
+        margin-top: 80px;
+    }
+    #new2 {
+        background-image: url("../images/new-account-2.png");
+    }
+    #new3 {
+        background-image: url("../images/new-account-3.png");
+    }
+    #new4 {
+        background-image: url("../images/new-account-4.png");
+    }
+    #main-feeds {
+        width: 500px;
+        height: 2000px;
+        margin-top: 230px;
+        margin-left: -15px;
+    }
+    #input-emotions {
+        width: 100%;
+        height: 125px;
+        background-color: #242526;
+        border-radius: 15px;
+    }
+    #emotions {
+        width: 100%;
+        height: 70px;
+        background-color: #242526;
+        border-top-left-radius: 15px;
+        border-top-right-radius: 15px;
+        border-bottom: 1px solid #3a3b3c;
+    }
+    #logo-emotions {
+        width: 52px;
+        height: 52px;
+        float: left;
+        background-image: url("../images/account (copy).png");
+        background-size: cover;
+        margin: 10px;
+    }
+    #emotions input {
+        background-color: #3a3b3c;
+        border: none;
+        height: 44px;
+        margin-top: 12px;
+        margin-left: 5px;
+        border-radius: 50px;
+        width: 380px;
+        background-size: 25px;
+        background-repeat: no-repeat;
+        background-position: 5% 50%;
+        font-size: 15px;
+        padding-left:30px;
+        float: left;
+    }
+    #option-emotions ul li {
+        display: inline;
+        color: white;
+        padding-left: 8px;
+    }
+    #option-emotions ul li a {
+        margin-left: 5px;
+        position: relative;
+        bottom: 4px;
+    }
+    .feeds {
+        margin-top: 25px;
+        width: 500px;
+        height: 520px;
+        background-color: #242526;
+        border-radius: 15px;
+    }
+    .nameAccount {
+        width: 500px;
+        height: 60px;
+        background-color: #242526;
+        color: white;
+        border-top-left-radius: 15px;
+        border-top-right-radius: 15px;
+    }
+    .time {
+        font-size: 14px;
+    }
+    .nameAccount p {
+        font-weight: bold;
+        padding-top: 15px;
+    }
+    .avatar {
+        float: left;
+        margin: 15px 15px 20px 20px;
+    }
+    .main-content {
+        width: 500px;
+        height: 280px;
+        background-image: url("../images/main_1.png");
+    }
+    .friends-like {
+        width: 460px;
+        height: 45px;
+        color: white;
+        position: relative;
+        border-bottom: 1px solid #3a3b3c;
+        bottom: 15px;
+        margin-left: 15px
+    }
+    .friends-like img {
+        padding-top: 14px;
+        padding-left: 10px;
+        float: left;
+    }
+    .friends-like p {
+        padding-top: 15px;
+        position: relative;
+        left: 5px;
+    }
+    .like {
+        width: 380px;
+        height: 40px;
+        border-bottom: 1px solid #3a3b3c;
+        margin-left: 15px;
+        color: white;
+        padding-left: 80px;
+    }
+    #cm-icon {
+        margin-left: 150px;
+    }
+    .comment {
+        width: 380px;
+        height: 80px;
+        margin-left: 15px;
+        color: white;
+        padding-left: 80px;
+    }
+    .comment input {
+        background-color: #3a3b3c;
+        border: none;
+        height: 44px;
+        margin-top: 12px;
+        border-radius: 50px;
+        width: 350px;
+        background-size: 25px;
+        background-repeat: no-repeat;
+        background-position: 5% 50%;
+        font-size: 15px;
+        padding-left:40px;
+        float: left;
+    }
+    #logo-comment {
+        width: 50px;
+        height: 50px;
+        background-image: url("../images/account (copy).png");
+        background-size: cover;
+        margin-left: -65px;
+        margin-top: 13px;
+        float: left;
+    }
+    #right-side {
+        width: 200px;
+        height: 600px;
+        float: right;
+        color: white;
+    }
+    #right-side ul li {
+        list-style: none;
+        font-size: 19px;
+        margin-left: -36px;
+        margin-bottom: 10px;
+    }
+    #right-side ul li a {
+        text-decoration: none;
+        color: white;
+        margin-left: 10px;
+        position: relative;
+        bottom: 7px;
+    }
+}
+
+@media screen and (max-width: 933px) {
+    body, #wrapper {
+        width: 100%;
+        background-color: #18191a;
+    }
+
+    header {
+        height: 66px;
+        background-color: #242526;
+        border-bottom: 1px solid #3a3b3c;
+        position: fixed;
+        z-index: 10;
+    }
+
+    #search {
+        display: none;
+        visibility: hidden;
+    }
+
+    #main-menu {
+        width: 450px;
+        height: 65px;
+        background-color: #242526;
+        float: left;
+        margin-left: 70px;
+    }
+    #main-menu ul {
+        display: inline;
+        float: left;
+    }
+    #main-menu ul li {
+        width: 80px;
+        height: 50px;
+        display: inline;
+        list-style: none;
+        float: left;
+        background-color: #242526;
+        border-bottom: 1px solid #3a3b3c;
+    }
+    #main-menu ul li a img {
+        margin-top: 5px;
+    }
+    #main-menu ul li:first-child {
+        margin-top: -1px;
+        height: 51px;
+    }
+    #account {
+        display: none;
+        visibility: hidden;
+    }
+    #left-side {
+        display: none;
+        visibility: hidden;
+    }
+ 
+    article {
+        width: 500px;
+        height: 2000px;
+        float: left;
+        margin-top: 20px;
+        margin-left: 60px;
+        padding-left: 50px;
+    }
+    .add-new {
+        width: 100px;
+        height: 200px;
+        background-color: green;
+        border: 1px solid black;
+        float: left;
+        border-radius: 20px;
+        margin-right: 20px;
+        background-image: url("../images/new-account.png");
+        background-repeat: no-repeat;
+        background-size: cover;
+    }
+    section {
+        margin-top: 80px;
+    }
+    #new2 {
+        background-image: url("../images/new-account-2.png");
+    }
+    #new3 {
+        background-image: url("../images/new-account-3.png");
+    }
+    #new4 {
+        background-image: url("../images/new-account-4.png");
+    }
+    #main-feeds {
+        width: 500px;
+        height: 2000px;
+        margin-top: 230px;
+        margin-left: -15px;
+    }
+    #input-emotions {
+        width: 100%;
+        height: 125px;
+        background-color: #242526;
+        border-radius: 15px;
+    }
+    #emotions {
+        width: 100%;
+        height: 70px;
+        background-color: #242526;
+        border-top-left-radius: 15px;
+        border-top-right-radius: 15px;
+        border-bottom: 1px solid #3a3b3c;
+    }
+    #logo-emotions {
+        width: 52px;
+        height: 52px;
+        float: left;
+        background-image: url("../images/account (copy).png");
+        background-size: cover;
+        margin: 10px;
+    }
+    #emotions input {
+        background-color: #3a3b3c;
+        border: none;
+        height: 44px;
+        margin-top: 12px;
+        margin-left: 5px;
+        border-radius: 50px;
+        width: 380px;
+        background-size: 25px;
+        background-repeat: no-repeat;
+        background-position: 5% 50%;
+        font-size: 15px;
+        padding-left:30px;
+        float: left;
+    }
+    #option-emotions ul li {
+        display: inline;
+        color: white;
+        padding-left: 8px;
+    }
+    #option-emotions ul li a {
+        margin-left: 5px;
+        position: relative;
+        bottom: 4px;
+    }
+    .feeds {
+        margin-top: 25px;
+        width: 500px;
+        height: 520px;
+        background-color: #242526;
+        border-radius: 15px;
+    }
+    .nameAccount {
+        width: 500px;
+        height: 60px;
+        background-color: #242526;
+        color: white;
+        border-top-left-radius: 15px;
+        border-top-right-radius: 15px;
+    }
+    .time {
+        font-size: 14px;
+    }
+    .nameAccount p {
+        font-weight: bold;
+        padding-top: 15px;
+    }
+    .avatar {
+        float: left;
+        margin: 15px 15px 20px 20px;
+    }
+    .main-content {
+        width: 500px;
+        height: 280px;
+        background-image: url("../images/main_1.png");
+    }
+    .friends-like {
+        width: 460px;
+        height: 45px;
+        color: white;
+        position: relative;
+        border-bottom: 1px solid #3a3b3c;
+        bottom: 15px;
+        margin-left: 15px
+    }
+    .friends-like img {
+        padding-top: 14px;
+        padding-left: 10px;
+        float: left;
+    }
+    .friends-like p {
+        padding-top: 15px;
+        position: relative;
+        left: 5px;
+    }
+    .like {
+        width: 380px;
+        height: 40px;
+        border-bottom: 1px solid #3a3b3c;
+        margin-left: 15px;
+        color: white;
+        padding-left: 80px;
+    }
+    #cm-icon {
+        margin-left: 150px;
+    }
+    .comment {
+        width: 380px;
+        height: 80px;
+        margin-left: 15px;
+        color: white;
+        padding-left: 80px;
+    }
+    .comment input {
+        background-color: #3a3b3c;
+        border: none;
+        height: 44px;
+        margin-top: 12px;
+        border-radius: 50px;
+        width: 350px;
+        background-size: 25px;
+        background-repeat: no-repeat;
+        background-position: 5% 50%;
+        font-size: 15px;
+        padding-left:40px;
+        float: left;
+    }
+    #logo-comment {
+        width: 50px;
+        height: 50px;
+        background-image: url("../images/account (copy).png");
+        background-size: cover;
+        margin-left: -65px;
+        margin-top: 13px;
+        float: left;
+    }
+    #right-side {
+        display: none;
+        visibility: hidden;
+    }
+}
