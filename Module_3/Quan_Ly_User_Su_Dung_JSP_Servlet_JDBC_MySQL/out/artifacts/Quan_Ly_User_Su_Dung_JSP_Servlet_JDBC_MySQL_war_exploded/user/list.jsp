@@ -22,7 +22,8 @@
         <td>Edit</td>
         <td>Delete</td>
     </tr>
-    <a href="/users?action=create">Add new user</a>
+    <a href="/users?action=create">Add new user</a><br/>
+    <a href="/users?action=search">Search an user</a><br/>
     <c:forEach items="${listUsers}" var="user">
         <tr>
             <td>${user.getId()}</td>

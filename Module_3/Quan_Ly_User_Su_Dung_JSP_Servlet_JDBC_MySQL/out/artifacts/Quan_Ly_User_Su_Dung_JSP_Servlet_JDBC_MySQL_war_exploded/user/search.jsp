@@ -1,30 +1,31 @@
 <%--
   Created by IntelliJ IDEA.
   User: root
-  Date: 5/18/20
-  Time: 4:19 PM
+  Date: 5/19/20
+  Time: 12:20 AM
   To change this template use File | Settings | File Templates.
 --%>
 <%@ page contentType="text/html;charset=UTF-8" language="java" %>
 <%@ taglib uri="http://java.sun.com/jsp/jstl/core" prefix="c" %>
 <html>
 <head>
-    <title>List All Users</title>
+    <title>Search User</title>
 </head>
 <body>
 <form method="post">
+    <label>Tim Kiem Theo Country: </label>
+    <input type="text" name="search"/>
+    <input type="submit"/>
+</form>
+
 <table>
     <tr>
-    <td>ID</td>
-    <td>Name</td>
-    <td>Email</td>
-    <td>Country</td>
-        <td>Edit</td>
-        <td>Delete</td>
+        <td>ID</td>
+        <td>Name</td>
+        <td>Email</td>
+        <td>Country</td>
     </tr>
-    <a href="/users?action=create">Add new user</a><br/>
-    <a href="/users?action=search">Search an user</a><br/>
-    <c:forEach items="${listUsers}" var="user">
+    <c:forEach items="${userList}" var="user">
         <tr>
             <td>${user.getId()}</td>
             <td>${user.getName()}</td>
@@ -35,6 +36,5 @@
         </tr>
     </c:forEach>
 </table>
-</form>
 </body>
 </html>

@@ -21,6 +21,7 @@ public class UserDAO implements IUserDAO {
     private static final String SELECT_ALL_USERS = "select * from demo.users;";
     private static final String DELETE_USERS_BY_ID = "delete from demo.users where id = ?;";
     private static final String UPDATE_USERS_SQL = "update demo.users set name = ?, email = ?, country = ? where id = ?;";
+    private static final String SEARCH_BY_COUNTRY = "select * from demo.users where country = ? order by name desc;";
 
     public UserDAO(){}
 
@@ -37,6 +38,28 @@ public class UserDAO implements IUserDAO {
         }
 
         return conn;
+    }
+
+    public List<User> searchByCountry(String country) throws SQLException{
+        List<User> users = new ArrayList<>();
+        Connection conn = getConnection();
+        PreparedStatement ps = conn.prepareStatement(SEARCH_BY_COUNTRY);
+        ps.setString(1, country);
+
+        System.out.println(ps);
+
+        ResultSet rs = ps.executeQuery();
+
+        while (rs.next()) {
+            String name = rs.getString("name");
+            String email = rs.getString("email");
+            String countryRS = rs.getString("country");
+
+            User user = new User(name, email, countryRS);
+            users.add(user);
+        }
+
+        return users;
     }
 
     public void insertUser(User user) throws SQLException {
