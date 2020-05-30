@@ -10,6 +10,7 @@ import org.springframework.ui.Model;
 import org.springframework.web.bind.annotation.ModelAttribute;
 import org.springframework.web.bind.annotation.PathVariable;
 import org.springframework.web.bind.annotation.RequestMapping;
+import org.springframework.web.servlet.ModelAndView;
 
 import java.util.List;
 
@@ -39,6 +40,22 @@ public class CustomerController {
     public String updateCustomer(@ModelAttribute Customer customer) {
         customerService.update(customer);
         return "redirect:list-customers";
+    }
+
+    @RequestMapping(value="/customers")
+    public ModelAndView showList() {
+        ModelAndView modelAndView = new ModelAndView("list");
+        List<Customer> customers = customerService.findAll();
+        modelAndView.addObject("customers", customers);
+        return modelAndView;
+    }
+
+    @RequestMapping(value="/customers/{id}")
+    public ModelAndView showInformation(@PathVariable Long id){
+        ModelAndView modelAndView = new ModelAndView("info");
+        Customer customer = customerService.findOne(id);
+        modelAndView.addObject("customer", customer);
+        return modelAndView;
     }
 }
 
