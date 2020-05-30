@@ -15,7 +15,7 @@
     <mvc:annotation-driven/>
 
     <bean id="viewResolver" class="org.springframework.web.servlet.view.InternalResourceViewResolver">
-        <property name="prefix" value="WEB-INF/customers/"/>
+        <property name="prefix" value="/WEB-INF/customers/"/>
         <property name="suffix" value=".jsp"/>
     </bean>
 </beans>

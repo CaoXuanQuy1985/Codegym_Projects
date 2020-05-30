@@ -10,7 +10,7 @@
 
     Customer customer = (Customer)request.getAttribute("customer");
 %>
-<form action="/save-customer" method="post">
+<form action="/update-customer" method="post">
 <fieldset>
     <legend>Customer Information</legend>
     <input type="hidden" name="id" value="<%= customer.getId() %>">

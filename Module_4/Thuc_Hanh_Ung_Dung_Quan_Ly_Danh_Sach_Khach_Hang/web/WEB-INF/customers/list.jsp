@@ -54,7 +54,7 @@
     <c:forEach items="${customerList}" var="customer">
         <tr>
             <td>${customer.getId()}</td>
-            <td><a href="info.jsp?id=${customer.getId()}"> ${customer.getName()}</a></td>
+            <td><a href="/edit-customer/${customer.getId()}"> ${customer.getName()}</a></td>
             <td>${customer.getEmail()}</td>
             <td>${customer.getAddress()}</td>
         </tr>

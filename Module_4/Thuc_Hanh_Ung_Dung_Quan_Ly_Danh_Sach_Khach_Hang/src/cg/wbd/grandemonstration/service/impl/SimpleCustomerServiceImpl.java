@@ -101,4 +101,13 @@ public class SimpleCustomerServiceImpl implements CustomerService {
         origin.setAddress(customer.getAddress());
         return origin;
     }
+
+    public void update(Customer customer) {
+        long id_customer = customer.getId();
+        String newName = customer.getName();
+        String newEmail = customer.getEmail();
+        String newAddress = customer.getAddress();
+
+        customers.set((int)id_customer, new Customer(id_customer, newName, newEmail, newAddress));
+    }
 }

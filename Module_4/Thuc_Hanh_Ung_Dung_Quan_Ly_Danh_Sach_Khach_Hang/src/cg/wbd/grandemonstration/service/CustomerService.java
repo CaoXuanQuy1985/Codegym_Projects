@@ -26,4 +26,6 @@ public interface CustomerService {
     void delete(List<Customer> customers);
 
     void deleteAll();
+
+    void update(Customer customer);
 }
