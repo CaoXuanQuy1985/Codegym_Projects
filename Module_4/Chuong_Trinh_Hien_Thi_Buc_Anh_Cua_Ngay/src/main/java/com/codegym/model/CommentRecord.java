@@ -21,6 +21,24 @@ public class CommentRecord {
     private String feedback;
     private LocalDateTime dateTime = LocalDateTime.now();
 
+    public Long getNumberLikes() {
+        return numberLikes;
+    }
+
+    public void setNumberLikes(Long numberLikes) {
+        this.numberLikes = numberLikes;
+    }
+
+    private Long numberLikes = 0L;
+
+    public CommentRecord(RatingPoint ratingPoint, String author, String feedback, LocalDateTime dateTime, Long numberLikes) {
+        this.ratingPoint = ratingPoint;
+        this.author = author;
+        this.feedback = feedback;
+        this.dateTime = dateTime;
+        this.numberLikes = numberLikes;
+    }
+
     public String getNameImage() {
         return nameImage;
     }
@@ -34,6 +52,7 @@ public class CommentRecord {
     }
 
     public CommentRecord(){}
+
 
     public CommentRecord(RatingPoint ratingPoint, String author, String feedback) {
         this.ratingPoint = ratingPoint;

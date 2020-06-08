@@ -45,7 +45,29 @@
                 <input type="submit" value="Comment"/>
             </fieldset>
         </form>
-
+    <table>
+        <tr>
+            <th>Author</th>
+            <th>Feedback</th>
+            <th>Date Comments</th>
+            <th>Name image</th>
+            <th>Rating</th>
+            <th>Likes</th>
+        </tr>
+        <!--<form th:action="/calculate-likes" method="post" th:object="${commentRecord}">-->
+            <th:block th:each="row : ${commentRecordList}">
+                <tr>
+                    <td th:text="${row.author}"></td>
+                    <td th:text="${row.author}"></td>
+                    <td th:text="${row.feedback}"></td>
+                    <td th:text="${row.dateTime}"></td>
+                    <td th:text="${row.ratingPoint.point}"></td>
+                    <td th:text="${row.numberLikes}"></td>
+                    <td><a th:href="@{/calculate-likes/__${row.id}__}"><button>Like</button></a></td>
+                </tr>
+            </th:block>
+        <!--</form>-->
+    </table>
     </div>
 </body>
 </html>

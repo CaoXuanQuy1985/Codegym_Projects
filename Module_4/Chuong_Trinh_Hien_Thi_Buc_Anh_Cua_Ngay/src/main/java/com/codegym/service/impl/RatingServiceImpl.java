@@ -4,6 +4,7 @@ import com.codegym.model.RatingPoint;
 import com.codegym.repository.InterfaceRatingProcessDB;
 import com.codegym.service.InterfaceRatingService;
 import org.springframework.beans.factory.annotation.Autowired;
+import org.springframework.stereotype.Service;
 
 public class RatingServiceImpl implements InterfaceRatingService {
     @Autowired
@@ -11,7 +12,7 @@ public class RatingServiceImpl implements InterfaceRatingService {
 
     @Override
     public Iterable<RatingPoint> findAll() {
-        return interfaceRatingProcessDB.findAll();
+       return interfaceRatingProcessDB.findAll();
     }
 
     @Override
