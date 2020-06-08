@@ -4,6 +4,7 @@ import javax.persistence.*;
 import java.sql.Date;
 import java.time.LocalDateTime;
 import java.util.Calendar;
+import java.util.Set;
 
 @Entity
 @Table(name="comments")
@@ -15,6 +16,17 @@ public class CommentRecord {
     @ManyToOne
     @JoinColumn(name="ratingPoint_id")
     private RatingPoint ratingPoint;
+
+    @OneToMany
+    private Set<BadWord> badWords;
+
+    public Set<BadWord> getBadWords() {
+        return badWords;
+    }
+
+    public void setBadWords(Set<BadWord> badWords) {
+        this.badWords = badWords;
+    }
 
     private final String nameImage = "Image Of Day";
     private String author;
@@ -31,8 +43,9 @@ public class CommentRecord {
 
     private Long numberLikes = 0L;
 
-    public CommentRecord(RatingPoint ratingPoint, String author, String feedback, LocalDateTime dateTime, Long numberLikes) {
+    public CommentRecord(RatingPoint ratingPoint, Set<BadWord> badWords, String author, String feedback, LocalDateTime dateTime, Long numberLikes) {
         this.ratingPoint = ratingPoint;
+        this.badWords = badWords;
         this.author = author;
         this.feedback = feedback;
         this.dateTime = dateTime;

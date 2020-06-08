@@ -29,4 +29,5 @@ dependencies {
     compile 'mysql:mysql-connector-java:5.1.31'
     compile 'commons-dbcp:commons-dbcp:1.4'
     compile group: 'org.springframework', name: 'spring-aspects', version: '4.3.25.RELEASE'
+    compile group: 'com.fasterxml.jackson.core', name: 'jackson-databind', version: '2.11.0'
 }

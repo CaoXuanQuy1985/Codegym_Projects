@@ -54,7 +54,6 @@
             <th>Rating</th>
             <th>Likes</th>
         </tr>
-        <!--<form th:action="/calculate-likes" method="post" th:object="${commentRecord}">-->
             <th:block th:each="row : ${commentRecordList}">
                 <tr>
                     <td th:text="${row.author}"></td>
@@ -66,7 +65,6 @@
                     <td><a th:href="@{/calculate-likes/__${row.id}__}"><button>Like</button></a></td>
                 </tr>
             </th:block>
-        <!--</form>-->
     </table>
     </div>
 </body>

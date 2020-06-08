@@ -4,6 +4,7 @@ import com.codegym.model.CommentRecord;
 import com.codegym.model.RatingPoint;
 import com.codegym.service.InterfaceCommentService;
 import com.codegym.service.InterfaceRatingService;
+import com.codegym.service.exception.FilterBadWord;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.data.domain.Page;
 import org.springframework.data.domain.Pageable;
@@ -37,7 +38,11 @@ public class CommentRecordController {
 
     @RequestMapping(value="/create-feedback", method= RequestMethod.POST)
     public ModelAndView saveComment(@ModelAttribute("commentRecord") CommentRecord commentRecord) {
-        interfaceCommentService.save(commentRecord);
+        try {
+            interfaceCommentService.save(commentRecord);
+        } catch (FilterBadWord ex) {
+            return new ModelAndView("/inputs-not-acceptable");
+        }
         ModelAndView modelAndView = new ModelAndView("index");
         modelAndView.addObject("commentRecord", new CommentRecord());
         return new ModelAndView("redirect:/");
@@ -50,9 +55,13 @@ public class CommentRecordController {
         Long newLike = oldLike + 1;
         commentRecord.setNumberLikes(newLike);
         ModelAndView modelAndView = new ModelAndView("index");
-        /*modelAndView.addObject("commentRecord", newComment);*/
         interfaceCommentService.save(commentRecord);
 
         return new ModelAndView("redirect:/");
+    }
+
+    @ExceptionHandler(FilterBadWord.class)
+    public ModelAndView showInputNotAcceptable() {
+        return new ModelAndView("inputs-not-acceptable");
     }
 }

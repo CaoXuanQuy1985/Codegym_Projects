@@ -1,6 +1,6 @@
 package com.codegym.config;
 
-import com.codegym.repository.InterfaceCommentProcessDB;
+import com.codegym.concern.MyLogger;
 import com.codegym.service.InterfaceCommentService;
 import com.codegym.service.InterfaceRatingService;
 import com.codegym.service.impl.CommentServiceImpl;
@@ -123,5 +123,10 @@ public class MvcConfiguration extends WebMvcConfigurerAdapter implements Applica
     @Bean
     public InterfaceRatingService interfaceRatingService(){
         return new RatingServiceImpl();
+    }
+
+    @Bean
+    public MyLogger logger() {
+        return new MyLogger();
     }
 }
