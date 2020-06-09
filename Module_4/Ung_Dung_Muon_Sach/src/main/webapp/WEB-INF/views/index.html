@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html lang="en" xmlns:th="http://www.thymeleaf.org">
+<head>
+    <meta charset="UTF-8">
+    <title>Library</title>
+</head>
+<body>
+    <div id="container">
+        <h1>Books List Exists In Library</h1>
+        <a th:href="@{/return-book}">Trả Sách</a>
+        <th:block th:if="${message}">
+            <h2 th:text="${message}"></h2>
+        </th:block>
+        <table>
+            <tr>
+                <th>Tên Đầu Sách</th>
+                <th>Số Lượng Sách Còn Lại</th>
+                <th>Xem Chi Tiết</th>
+            </tr>
+            <th:block th:each="book : ${booksList}">
+                <tr>
+                    <td th:text="${book.getNameCategory()}"></td>
+                    <td th:text="${book.getQuantityRemain()}"></td>
+                    <td><a th:href="@{/details/__${book.id}__}">Chi Tiết</a></td>
+                </tr>
+            </th:block>
+        </table>
+    </div>
+</body>
+</html>
