@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html lang="en" xmlns:th="http://www.thymeleaf.org">
+<head>
+    <meta charset="UTF-8">
+    <title>Book Detail</title>
+</head>
+<body>
+<h1>Chi Tiết Sản Phẩm</h1>
+<a th:href="@{/}">Quay Lại Danh Sách Sản Phẩm</a>
+<a th:href="@{/shoppingcart}">Xem Giỏ Hàng Của Bạn</a>
+<th:block th:if="${message}">
+    <h2 th:text="${message}"></h2>
+</th:block>
+<form th:object="${product}" th:action="@{/addtocart}" method="post">
+    <table>
+        <tr>
+            <th>Tên Sản Phẩm</th>
+            <th>Giá Tiền Sản Phẩm</th>
+            <th>Số Lượng Mua</th>
+        </tr>
+        <tr>
+            <td><input type="hidden" th:field="*{id}"/></td>
+            <td><input th:field="*{name}"/></td>
+            <td><input th:field="*{price}"/></td>
+            <td><input th:field="*{quantity}" /></td>
+        </tr>
+    </table>
+    <input type="submit" value="Đưa Vào Giỏ Hàng"/>
+</form>
+</body>
+</html>

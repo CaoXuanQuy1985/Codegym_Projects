@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html lang="en" xmlns:th="http://www.thymeleaf.org">
+<head>
+    <meta charset="UTF-8">
+    <title>Order Pay</title>
+</head>
+<body>
+<h1>Hóa Đơn Thanh Toán Tổng Tiền Toàn Bộ Sản Phẩm Bạn Đã Mua</h1>
+<h2>Sau Khi Thanh Toán Hóa Đơn Của Bạn Sẽ Được Lưu Vào Database Hệ Thống</h2>
+<a th:href="@{/}">Quay Lại Danh Sách Sản Phẩm</a>
+<th:block th:if="${message}">
+    <h2 th:text="${message}"></h2>
+</th:block>
+<th:block>
+    <tr>
+        <th>Id Sản Phẩm</th>
+        <th>Tên Sản Phẩm</th>
+        <th>Số Lượng Bạn Đã Mua</th>
+        <th>Giá Tiền</th>
+    </tr>
+        <th:block th:each="sc : ${shoppingCart}">
+            <tr>
+                <td th:text="${sc.getId()}"></td>
+                <td th:text="${sc.getName()}"></td>
+                <td th:text="${sc.getQuantity()}"></td>
+                <td th:with="result=${sc.getPrice() * sc.getQuantity()}"><span th:text="${result}"></span></td>
+            </tr>
+        </th:block>
+    </table>
+    <h1>Tổng Tiền Phải Thanh Toán</h1>
+    <h2 th:text="${#session.getAttribute('totalPayment')}"></h2>
+</th:block>
+</body>
+</html>
