@@ -1,0 +1,65 @@
+package com.codegym.service.impl;
+
+import com.codegym.model.BadWord;
+import com.codegym.model.CommentRecord;
+import com.codegym.model.LogTable;
+import com.codegym.repository.InterfaceCommentProcessDB;
+import com.codegym.repository.InterfaceLogProcessDB;
+import com.codegym.service.InterfaceCommentService;
+import com.codegym.service.exception.FilterBadWord;
+import org.springframework.beans.factory.annotation.Autowired;
+import org.springframework.data.domain.Page;
+import org.springframework.data.domain.Pageable;
+
+import javax.persistence.EntityManager;
+import javax.persistence.PersistenceContext;
+import javax.persistence.TypedQuery;
+import javax.transaction.Transactional;
+import java.util.List;
+
+@Transactional
+public class CommentServiceImpl implements InterfaceCommentService {
+    @PersistenceContext
+    private EntityManager em;
+
+    @Autowired
+    private InterfaceCommentProcessDB interfaceCommentProcessDB;
+
+/*    @Autowired
+    private InterfaceLogProcessDB interfaceLogProcessDB;*/
+
+    @Override
+    public List<CommentRecord> findAll() {
+        return interfaceCommentProcessDB.findAll();
+    }
+
+    @Override
+    @Transactional
+    public void save(CommentRecord commentRecord) throws FilterBadWord {
+        TypedQuery<BadWord> query = em.createQuery("select b from BadWord b", BadWord.class);
+        List<BadWord> badWordList = query.getResultList();
+        String feedback = commentRecord.getFeedback();
+        String author = commentRecord.getAuthor();
+        for (BadWord bw : badWordList) {
+            if (feedback.contains(bw.getContent())) {
+                /*interfaceLogProcessDB.save(new LogTable (author, feedback));*/
+                throw new FilterBadWord();
+            }
+        }
+        interfaceCommentProcessDB.save(commentRecord);
+    }
+
+    @Override
+    public CommentRecord findById(Long id) throws Exception {
+        CommentRecord target = interfaceCommentProcessDB.findById(id);
+        if (target == null) {
+            throw new Exception("CommentRecord not found");
+        }
+        return target;
+    }
+
+    @Override
+    public void remove(Long id) {
+        interfaceCommentProcessDB.remove(id);
+    }
+}
