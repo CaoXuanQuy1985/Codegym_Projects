@@ -1,0 +1,127 @@
+<!DOCTYPE html>
+<html lang="en" xmlns:th="http://www.thymeleaf.org"
+      xmlns:sec="http://www.thymeleaf.org/extras/spring-security">
+<head>
+    <meta charset="UTF-8">
+    <title>Blog Page</title>
+    <script src="http://ajax.googleapis.com/ajax/libs/jquery/1.7.1/jquery.min.js" type="application/javascript"></script>
+    <script
+            src="https://code.jquery.com/jquery-3.5.1.js"
+            integrity="sha256-QWo7LDvxbWT2tbbQ97B53yJnYU3WhH/C8ycbRAkjPDc="
+            crossorigin="anonymous"></script>
+    <script type="text/javascript">
+        $(document).ready(function(){
+            $("#testForm").submit(function(event){
+                let author = $("#author-find").val();
+                let wrapper = {
+                    "author" : author
+                }
+                /*ajaxFind(author);*/
+                $.ajax({
+                    headers: {
+                        "Accept" : "application/json",
+                        "Content-Type" : "application/json"
+                    },
+                    url : "/search",
+                    dataType: "json",
+                    data : JSON.stringify(wrapper),
+                    type : "POST",
+                    success : function(data) {
+                        /*testList = data;*/
+                        let result = "";
+                        result += "<span>" + data.author + "</span>";
+                        $("#resultSearch").html(result);
+                    }
+                });
+                event.preventDefault();
+            });
+
+            function ajaxFind(author) {
+                $.ajax({
+                    headers: {
+                        "Accept" : "application/json",
+                        "Content-Type" : "application/json"
+                    },
+                    type : "POST",
+                    url : "/search",
+                    success : function(commentList) {
+                        alert(commentList[0]);
+                    },
+                })
+            }
+        })
+    </script>
+</head>
+<body>
+    <div id="container">
+        <h1>Ung Dung Blog</h1>
+        <div id="commentRecord">
+        </div>
+
+        <hr/>
+        <!--<h3>User dashboard</h3>-->
+        <div sec:authorize="isAuthenticated()">
+            <b>Welcome!
+                <span sec:authentication="principal.username"></span>
+            </b>
+        </div>
+        <br/>
+        <div sec:authorize="isAuthenticated()">
+            <a th:href="@{/}">Home</a> | <a th:href="@{/logout}">Logout</a>
+        </div>
+        <form th:action="@{/create-feedback}" th:object="${commentRecord}" method="POST">
+            <fieldset>
+                <input type="hidden" th:field="*{id}"/>
+                <input type="hidden" th:field="*{nameImage}"/>
+                <input type="hidden" th:field="*{dateTime}"/>
+                <label>Select Point:</label>
+                <select th:field="*{ratingPoint}">
+                    <option th:each="rating : ${ratingPoints}"
+                                th:value="${rating.id}"
+                                th:text="${rating.point}"></option>
+                </select><br/>
+                <label for="author">Tác Giả:</label>
+                <input id="author" type="text" th:field="*{author}"/><br/>
+                <label for="feedback">Bài Viết:</label>
+                <textarea id="feedback" name="feedback"
+                          rows="10" cols="40"
+                          th:field="*{feedback}"></textarea><br/>
+                <input type="submit" value="Comment"/>
+            </fieldset>
+        </form>
+
+        <div id="resultSearch">
+        <form id="testForm">
+            <label for="author-find">Nhập Tên Tác Giả:</label>
+            <input type="text" id="author-find"/>
+            <input id="find-btn" type="submit" value="Find By Author"/>
+        </form>
+        </div>
+
+    <table>
+        <tr>
+            <th>Tác Giả</th>
+            <th>Bài Viết Blog</th>
+            <th>Ngày Đăng</th>
+            <th>Name image</th>
+            <th>Số Điểm được Vote</th>
+            <th>Lượt Thích</th>
+        </tr>
+            <th:block th:each="row : ${commentRecordList}">
+                <tr>
+                    <td th:text="${row.author}"></td>
+                    <td th:text="${row.author}"></td>
+                    <td th:text="${row.feedback}"></td>
+                    <td th:text="${row.dateTime}"></td>
+                    <td th:text="${row.ratingPoint.point}"></td>
+                    <td th:text="${row.numberLikes}"></td>
+                    <td><a th:href="@{/calculate-likes/__${row.id}__}"><button>Like</button></a></td>
+                </tr>
+            </th:block>
+    </table>
+    </div>
+
+    <!--<script type="text/javascript" th:src="@{/js/find-comments.js}"></script>-->
+    <!--<img th:src="@{/images/image.jpg}" width="300" height="300"/>-->
+</body>
+</html>
