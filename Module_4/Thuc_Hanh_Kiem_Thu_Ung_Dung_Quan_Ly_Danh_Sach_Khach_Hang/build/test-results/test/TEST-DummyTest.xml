@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="DummyTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2020-06-17T03:07:38" hostname="anonymous" time="0.013">
+  <properties/>
+  <testcase name="assertionWorked()" classname="DummyTest" time="0.013"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
