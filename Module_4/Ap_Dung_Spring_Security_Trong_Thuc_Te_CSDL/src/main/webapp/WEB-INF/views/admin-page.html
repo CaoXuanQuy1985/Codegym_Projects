@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html lang="en" xmlns:th="http://www.thymeleaf.org"
+      xmlns:sec="http://www.thymeleaf.org/extras/spring-security">
+<head>
+    <meta charset="UTF-8">
+    <title>User Page</title>
+</head>
+<body>
+    <h1>All Post Of Blog</h1>
+    <div sec:authorize="isAuthenticated()">
+        <b>Welcome!
+            <span sec:authentication="principal.username"></span>
+        </b>
+    </div>
+    <br/>
+    <div sec:authorize="isAuthenticated()">
+        <a th:href="@{/}">Home</a> | <a th:href="@{/logout}">Logout</a>
+    </div>
+    <form th:action="@{/create-feedback}" th:object="${commentRecord}" method="POST">
+        <fieldset>
+            <input type="hidden" th:field="*{id}"/>
+            <input type="hidden" th:field="*{nameImage}"/>
+            <input type="hidden" th:field="*{dateTime}"/>
+            <label>Select Point:</label>
+            <select th:field="*{ratingPoint}">
+                <option th:each="rating : ${ratingPoints}"
+                        th:value="${rating.id}"
+                        th:text="${rating.point}"></option>
+            </select><br/>
+            <label for="author">Tác Giả:</label>
+            <input id="author" type="text" th:field="*{author}"/><br/>
+            <label for="feedback">Bài Viết:</label>
+            <textarea id="feedback" name="feedback"
+                      rows="10" cols="40"
+                      th:field="*{feedback}"></textarea><br/>
+            <input type="submit" value="Comment"/>
+        </fieldset>
+    </form>
+</body>
+</html>
