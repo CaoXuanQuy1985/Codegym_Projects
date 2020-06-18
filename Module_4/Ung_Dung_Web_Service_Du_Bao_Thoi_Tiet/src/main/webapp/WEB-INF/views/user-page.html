@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html lang="en" xmlns:th="http://www.thymeleaf.org"
+      xmlns:sec="http://www.thymeleaf.org/extras/spring-security">
+<head>
+    <meta charset="UTF-8">
+    <title>Admin page</title>
+</head>
+<body>
+    <h1>Admin Page</h1>
+    <div id="resultSearch">
+        <form id="testForm">
+            <label for="author-find">Nhập Tên Tác Giả:</label>
+            <input type="text" id="author-find"/>
+            <input id="find-btn" type="submit" value="Find By Author"/>
+        </form>
+    </div>
+
+    <table>
+        <tr>
+            <th>Thông Tin Thời Tiết</th>
+            <th>Ngày Dự Báo</th>
+            <th>Name image</th>
+            <th>Mức Độ Nguy Hiểm</th>
+        </tr>
+        <th:block th:each="row : ${commentRecordList}">
+            <tr>
+                <td th:text="${row.feedback}"></td>
+                <td th:text="${row.dateTime}"></td>
+                <td th:text="${row.ratingPoint.point}"></td>
+                <td><a th:href="@{/calculate-likes/__${row.id}__}"><button>Like</button></a></td>
+            </tr>
+        </th:block>
+    </table>
+    </div>
+
+</body>
+</html>
